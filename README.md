@@ -1,4 +1,4 @@
-<img src="./media/image22.png" style="width:1.21875in;height:1.07292in"
+<img src="./media/image34.png" style="width:1.21875in;height:1.07292in"
 alt="Upc Logo" />
 
 **Universidad Peruana de Ciencias Aplicadas**
@@ -37,6 +37,21 @@ Registro Versiones del Informe
 | TB1 | 15/09/2025 | Equipo en Conjunto | Desarrollo de los 5 primeros capitulos, ademas del web y movil application |
 
 Project Report Collaboration Insights
+
+**Report**
+
+<img src="./media/image50.png"
+style="width:6.26772in;height:1.51389in" />
+
+**Frontend**
+
+<img src="./media/image96.png"
+style="width:6.26772in;height:1.70833in" />
+
+**Backend**
+
+<img src="./media/image52.png"
+style="width:6.26772in;height:1.52778in" />
 
 Contenido
 
@@ -593,7 +608,7 @@ toma de decisiones.
 
 ### 1.2.2.4. Lean UX Canvas.
 
-<img src="./media/image101.png"
+<img src="./media/image71.png"
 style="width:6.26772in;height:3.66667in" />
 
 [<u>Ver el Lean Ux
@@ -833,7 +848,7 @@ Inventario</u>**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214406_u
 <th style="text-align: left;">San Martin de Porres</th>
 </tr>
 <tr>
-<th colspan="4" style="text-align: left;"><img src="./media/image70.png"
+<th colspan="4" style="text-align: left;"><img src="./media/image76.png"
 style="width:6.05729in;height:3.41224in" /></th>
 </tr>
 <tr>
@@ -883,7 +898,7 @@ los productos</th>
 <th>Pueblo Libre</th>
 </tr>
 <tr>
-<th colspan="4"><img src="./media/image79.png"
+<th colspan="4"><img src="./media/image90.png"
 style="width:6.11458in;height:3.33333in" /></th>
 </tr>
 <tr>
@@ -935,7 +950,7 @@ donde se guarda un producto en específico</p></th>
 <th>Pueblo Libre</th>
 </tr>
 <tr>
-<th colspan="4"><img src="./media/image25.png"
+<th colspan="4"><img src="./media/image32.png"
 style="width:6.11458in;height:3.43056in" /></th>
 </tr>
 <tr>
@@ -988,7 +1003,7 @@ Segmento Objetivo: **Trabajadores o encargados de inventario**
 <th>Surco</th>
 </tr>
 <tr>
-<th colspan="4"><img src="./media/image86.png"
+<th colspan="4"><img src="./media/image92.png"
 style="width:6.11458in;height:2.80556in" /></th>
 </tr>
 <tr>
@@ -1036,7 +1051,7 @@ Valeria</u>](https://youtube.com/shorts/nWzzywMFT9c?feature=share)
 <th>Cuzco</th>
 </tr>
 <tr>
-<th colspan="4"><img src="./media/image7.png"
+<th colspan="4"><img src="./media/image13.png"
 style="width:6.11458in;height:3.52778in" /></th>
 </tr>
 <tr>
@@ -1084,7 +1099,7 @@ tiempo real y que sea accesible.</th>
 <th>Jesus Maria</th>
 </tr>
 <tr>
-<th colspan="4"><img src="./media/image26.png"
+<th colspan="4"><img src="./media/image29.png"
 style="width:6.11458in;height:3.05556in" /></th>
 </tr>
 <tr>
@@ -1130,12 +1145,12 @@ relacionado con el reporte CARDEX.</th>
 
 **Segmento Objetivo: Propietarios de tiendas de abarrotes**
 
-<img src="./media/image41.png"
+<img src="./media/image43.png"
 style="width:4.97393in;height:8.43229in" />
 
 **Segmento Objetivo: Trabajadores o encargados de inventario**
 
-<img src="./media/image20.png"
+<img src="./media/image16.png"
 style="width:5.31959in;height:8.27604in" />
 
 ## 2.3.2. User Task Matrix.
@@ -1174,35 +1189,35 @@ del startup.
 
 **Segmento Objetivo: Propietarios de tiendas de abarrotes**
 
-<img src="./media/image60.png"
+<img src="./media/image65.png"
 style="width:6.87744in;height:4.64227in" />
 
 **Segmento Objetivo: Trabajadores o encargados de inventario**
 
-## <img src="./media/image81.png"
+## <img src="./media/image94.png"
 style="width:6.43229in;height:6.51735in" />
 
 ## 2.3.4. Empathy Mapping.
 
 **Segmento Objetivo: Propietarios de tiendas de abarrotes**
 
-<img src="./media/image44.png" style="width:6.26772in;height:8.125in" />
+<img src="./media/image45.png" style="width:6.26772in;height:8.125in" />
 
 **Segmento Objetivo: Trabajadores o encargados de inventario**
 
-<img src="./media/image62.png"
+<img src="./media/image98.png"
 style="width:6.26772in;height:7.40278in" />
 
 ## 2.3.5. As-is Scenario Mapping.
 
 **Segmento Objetivo: Propietarios de tiendas de abarrotes**
 
-<img src="./media/image89.png"
+<img src="./media/image81.png"
 style="width:6.26772in;height:3.22222in" />
 
 **Segmento Objetivo: Trabajadores o encargados de inventario**
 
-<img src="./media/image47.png"
+<img src="./media/image75.png"
 style="width:6.26772in;height:3.23611in" />
 
 [<u>Ver As-Is
@@ -1216,12 +1231,12 @@ Capítulo III: Requirements Specification
 
 **Segmento Objetivo: Propietarios de tiendas de abarrotes**
 
-<img src="./media/image73.png"
+<img src="./media/image74.png"
 style="width:6.26772in;height:5.15278in" />
 
 **Segmento Objetivo: Trabajadores o encargados de inventario**
 
-<img src="./media/image43.png"
+<img src="./media/image42.png"
 style="width:6.26772in;height:7.48611in" />
 
 [<u>Ver To-Be
@@ -1289,7 +1304,7 @@ Mapping</u>](https://miro.com/app/board/uXjVJL9XI3s=/?share_link_id=891875236003
 
 # **3.4. Impact Mapping.**
 
-<img src="./media/image72.png"
+<img src="./media/image77.png"
 style="width:6.26772in;height:6.97222in" />
 
 Capítulo IV: Product Design
@@ -1301,13 +1316,13 @@ Capítulo IV: Product Design
 Para el branding de nuestro startup hemos seleccionado el siguiente
 logo:
 
-<img src="./media/image3.png"
+<img src="./media/image11.png"
 style="width:5.03125in;height:2.13542in" />
 
 Además, el branding que utilizaremos para nuestro servicio(InventoryPro)
 es el siguiente:
 
-<img src="./media/image36.png"
+<img src="./media/image40.png"
 style="width:2.11458in;height:1.78125in" />
 
 Typography
@@ -1321,12 +1336,12 @@ Colors
 
 Brand Colors:
 
-<img src="./media/image11.png" style="width:4.30208in;height:2.25in" />
+<img src="./media/image7.png" style="width:4.30208in;height:2.25in" />
 
 Para la paleta de colores del resto de la aplicación se utilizarán los
 siguientes
 
-<img src="./media/image82.png"
+<img src="./media/image89.png"
 style="width:6.26772in;height:0.91667in" />
 
 Spacing
@@ -1556,20 +1571,20 @@ gestión de su negocio..
 [<u>Ver Landing Page
 Wireframes</u>](https://www.figma.com/design/EkGCCyBM3wVr7i6GEIhcm2/Untitled?node-id=0-1&t=zhCngbkfirTgWK6g-1)
 
-<img src="./media/image58.png"
+<img src="./media/image100.png"
 style="width:6.26772in;height:3.01389in" />
 
-<img src="./media/image85.png" style="width:6.26772in;height:3in" />
+<img src="./media/image72.png" style="width:6.26772in;height:3in" />
 
-<img src="./media/image67.png"
+<img src="./media/image64.png"
 style="width:6.26772in;height:2.08333in" />
 
-<img src="./media/image2.png" style="width:6.26772in;height:2.625in" />
+<img src="./media/image1.png" style="width:6.26772in;height:2.625in" />
 
-<img src="./media/image5.png"
+<img src="./media/image20.png"
 style="width:6.26772in;height:2.18056in" />
 
-<img src="./media/image52.png"
+<img src="./media/image56.png"
 style="width:6.26772in;height:2.61111in" />
 
 ## 4.3.2. Landing Page Mock-up.
@@ -1577,22 +1592,22 @@ style="width:6.26772in;height:2.61111in" />
 [<u>Ver Landing Page
 Mock-up's</u>](https://www.figma.com/design/EkGCCyBM3wVr7i6GEIhcm2/Untitled?node-id=0-1&t=zhCngbkfirTgWK6g-1)
 
-<img src="./media/image64.png"
+<img src="./media/image95.png"
 style="width:6.26772in;height:3.02778in" />
 
-<img src="./media/image56.png"
+<img src="./media/image57.png"
 style="width:6.26772in;height:3.01389in" />
 
-<img src="./media/image99.png"
+<img src="./media/image97.png"
 style="width:6.26772in;height:2.05556in" />
 
-<img src="./media/image93.png"
+<img src="./media/image106.png"
 style="width:6.26772in;height:2.63889in" />
 
-<img src="./media/image95.png"
+<img src="./media/image82.png"
 style="width:6.26772in;height:2.16667in" />
 
-<img src="./media/image15.png"
+<img src="./media/image26.png"
 style="width:6.26772in;height:2.59722in" />
 
 # **4.4. Mobile Applications UX/UI Design.**
@@ -1609,7 +1624,7 @@ está el nombre y el subtítulo de la app. Más abajo, hay un formulario
 con dos campos: Email Address y Password, seguido de un botón
 rectangular con el texto Sign in.
 
-<img src="./media/image83.png"
+<img src="./media/image85.png"
 style="width:3.02408in;height:5.42351in" />
 
 **Dashboard**
@@ -1620,7 +1635,7 @@ productos agotados. Más abajo aparece una lista de ítems recientes con
 opción para ver su stock, y al final hay una barra de navegación con
 accesos a Dashboard, Inventario, Análisis y Perfil.
 
-<img src="./media/image49.png"
+<img src="./media/image41.png"
 style="width:3.16035in;height:5.60938in" />
 
 **Inventory**
@@ -1633,7 +1648,7 @@ la esquina inferior derecha hay un botón flotante con el signo + para
 añadir nuevos productos. Al final está la barra de navegación con
 accesos a Dashboard, Inventory, Analytics y Profile.
 
-<img src="./media/image33.png"
+<img src="./media/image30.png"
 style="width:3.18229in;height:5.66912in" />
 
 **Profile**
@@ -1642,14 +1657,14 @@ Se pueden ver los datos del usuario como el rol, nombre y el correo.
 También se puede ver los ajustes de la cuenta, centro de notificaciones,
 el soporte técnico y sobre nosotros, también se ve el botón de logout.
 
-<img src="./media/image38.png"
+<img src="./media/image21.png"
 style="width:3.18229in;height:5.63097in" />
 
 ## 4.4.2. Mobile Applications Wireflow Diagrams
 
 ## Wireflow Diagrams for store owners
 
-<img src="./media/image61.png"
+<img src="./media/image62.png"
 style="width:6.26772in;height:2.33333in" />
 
 ## **4.4.3. Mobile Applications Mock-ups.**
@@ -1657,26 +1672,26 @@ style="width:6.26772in;height:2.33333in" />
 [<u>Mobile Application Mock
 Ups</u>](https://www.figma.com/design/xi0BNFj6cvWAYRnkutyjt6/Sin-t%C3%ADtulo?node-id=0-1&p=f&t=6G5oVPQhRNI4Iyw5-0)
 
-<img src="./media/image57.png"
+<img src="./media/image73.png"
 style="width:2.51279in;height:4.81195in" />
 
-<img src="./media/image9.png"
-style="width:2.34896in;height:4.81026in" /><img src="./media/image12.png"
+<img src="./media/image14.png"
+style="width:2.34896in;height:4.81026in" /><img src="./media/image10.png"
 style="width:2.33563in;height:4.82813in" />
 
-<img src="./media/image78.png"
+<img src="./media/image69.png"
 style="width:2.3354in;height:4.79688in" />
 
 ## 4.4.4. Mobile Applications User Flow Diagrams.
 
 El usuario puede ingresar a la plataforma
 
-<img src="./media/image31.png"
+<img src="./media/image63.png"
 style="width:6.26772in;height:2.45833in" />
 
 El usuario no puede entrar a la plataforma
 
-<img src="./media/image76.png"
+<img src="./media/image86.png"
 style="width:6.26772in;height:4.70833in" />
 
 # **4.5. Mobile Applications Prototyping.**
@@ -1695,7 +1710,7 @@ tarjetas hace que la interacción sea directa y eficiente. Además,
 incluye accesos rápidos a credenciales demo y acciones frecuentes,
 mejorando la experiencia del usuario desde el inicio.
 
-<img src="./media/image54.png"
+<img src="./media/image78.png"
 style="width:6.26772in;height:2.97222in" />
 
 ## **4.5.2. iOS Mobile Applications Prototyping.**
@@ -1713,7 +1728,7 @@ tarjetas hace que la interacción sea directa y eficiente. Además,
 incluye accesos rápidos a credenciales demo y acciones frecuentes,
 mejorando la experiencia del usuario desde el inicio.
 
-<img src="./media/image96.png"
+<img src="./media/image105.png"
 style="width:6.26772in;height:2.33333in" />
 
 # **4.6. Web Applications UX/UI Design.**
@@ -1725,51 +1740,51 @@ Wireframes.</u>](https://www.figma.com/design/ewYZ4zUy1u6FucMmGX9iaP/Untitled?no
 
 Login
 
-<img src="./media/image37.png"
+<img src="./media/image51.png"
 style="width:6.26772in;height:2.95833in" />
 
 Dashboard
 
-<img src="./media/image14.png"
+<img src="./media/image6.png"
 style="width:6.26772in;height:4.27778in" />
 
 Inventory
 
-<img src="./media/image23.png"
+<img src="./media/image9.png"
 style="width:6.26772in;height:3.01389in" />
 
 Add new Item
 
-<img src="./media/image50.png"
+<img src="./media/image53.png"
 style="width:6.26772in;height:2.95833in" />
 
 Analytics
 
-<img src="./media/image84.png"
+<img src="./media/image99.png"
 style="width:6.26772in;height:6.16667in" />
 
 Alerts
 
-<img src="./media/image90.png" style="width:5.9375in;height:2.5in" />
+<img src="./media/image31.png" style="width:5.9375in;height:2.5in" />
 
 AlertsCheck
 
-<img src="./media/image68.png"
+<img src="./media/image84.png"
 style="width:5.66667in;height:2.52083in" />
 
 Suppliers
 
-<img src="./media/image42.png"
+<img src="./media/image47.png"
 style="width:6.26772in;height:3.63889in" />
 
 AddSupliers
 
-<img src="./media/image29.png"
+<img src="./media/image28.png"
 style="width:6.26772in;height:3.63889in" />
 
 Dashboard Employee view
 
-<img src="./media/image65.png"
+<img src="./media/image59.png"
 style="width:6.26772in;height:4.27778in" />
 
 ## 4.6.2. Web Applications Wireflow Diagrams.
@@ -1779,7 +1794,7 @@ Diagrams</u>](https://lucid.app/lucidchart/8fe16089-784c-466e-bc1c-fe69f15c7b59/
 
 User goal 01: Marcar todas las alertas cmo vistas
 
-<img src="./media/image27.png"
+<img src="./media/image33.png"
 style="width:6.26772in;height:0.95833in" />
 
 1.  Ingresar a la aplicación de” InventoryPro”
@@ -1790,7 +1805,7 @@ style="width:6.26772in;height:0.95833in" />
 
 User goal 02: Añadir un nuevo supplier
 
-<img src="./media/image77.png"
+<img src="./media/image93.png"
 style="width:6.26772in;height:0.63889in" />
 
 1.  Ingresar a la aplicación de “InventoryPro”
@@ -1814,7 +1829,7 @@ style="width:6.26772in;height:0.59722in" />
 
 User goal 04:Descargar informe excel
 
-<img src="./media/image34.png"
+<img src="./media/image46.png"
 style="width:6.26772in;height:0.86111in" />
 
 1.  Ingresar a la aplicación de “InventoryPro”
@@ -1828,52 +1843,52 @@ Mock-ups</u>](https://www.figma.com/design/ewYZ4zUy1u6FucMmGX9iaP/Untitled?node-
 
 Login
 
-<img src="./media/image46.png"
+<img src="./media/image37.png"
 style="width:6.26772in;height:2.97222in" />
 
 Dashboard
 
-<img src="./media/image28.png"
+<img src="./media/image38.png"
 style="width:6.26772in;height:4.27778in" />
 
 Inventory
 
-<img src="./media/image8.png"
+<img src="./media/image3.png"
 style="width:6.26772in;height:3.01389in" />
 
 Add new Item
 
-<img src="./media/image18.png"
+<img src="./media/image17.png"
 style="width:6.26772in;height:2.97222in" />
 
 Analytics
 
-<img src="./media/image4.png"
+<img src="./media/image12.png"
 style="width:6.11458in;height:6.03125in" />
 
 Alerts
 
-<img src="./media/image98.png"
+<img src="./media/image68.png"
 style="width:5.65625in;height:5.88542in" />
 
 AlertsCheck
 
-<img src="./media/image75.png"
+<img src="./media/image80.png"
 style="width:5.85417in;height:6.09375in" />
 
 Suppliers
 
-<img src="./media/image59.png"
+<img src="./media/image67.png"
 style="width:6.26772in;height:3.65278in" />
 
 AddSuppliers
 
-<img src="./media/image87.png"
+<img src="./media/image83.png"
 style="width:5.29167in;height:3.09375in" />
 
 Dashboard Employee view
 
-<img src="./media/image69.png"
+<img src="./media/image70.png"
 style="width:6.26772in;height:4.27778in" />
 
 ## 4.6.4. Web Applications User Flow Diagrams.
@@ -1883,7 +1898,7 @@ Diagrams</u>](https://lucid.app/lucidchart/8fe16089-784c-466e-bc1c-fe69f15c7b59/
 
 User goal 01: Marcar todas las alertas cmo vistas
 
-<img src="./media/image51.png"
+<img src="./media/image49.png"
 style="width:6.26772in;height:0.80556in" />
 
 1.  Ingresar a la aplicación de” InventoryPro”
@@ -1894,7 +1909,7 @@ style="width:6.26772in;height:0.80556in" />
 
 User goal 02: Añadir un nuevo supplier
 
-<img src="./media/image13.png"
+<img src="./media/image22.png"
 style="width:6.26772in;height:0.66667in" />
 
 1.  Ingresar a la aplicación de “InventoryPro”
@@ -1907,7 +1922,7 @@ style="width:6.26772in;height:0.66667in" />
 
 User goal 03:Añadir un nuevo item
 
-<img src="./media/image92.png" style="width:6.26772in;height:0.75in" />
+<img src="./media/image101.png" style="width:6.26772in;height:0.75in" />
 
 1.  Ingresar a la aplicación de “InventoryPro”
 
@@ -1917,7 +1932,7 @@ User goal 03:Añadir un nuevo item
 
 User goal 04:Descargar informe excel
 
-<img src="./media/image71.png"
+<img src="./media/image66.png"
 style="width:6.26772in;height:1.01389in" />
 
 1.  Ingresar a la aplicación de “InventoryPro”
@@ -1930,24 +1945,24 @@ style="width:6.26772in;height:1.01389in" />
 
 ## 4.8.1. Software Architecture Context Diagram.
 
-<img src="./media/image17.png"
+<img src="./media/image15.png"
 style="width:6.26772in;height:3.51389in" />
 
 ## 4.8.2. Software Architecture Container Diagrams.
 
-<img src="./media/image45.png"
+<img src="./media/image48.png"
 style="width:6.26772in;height:2.97222in" />
 
 ## 4.8.3. Software Architecture Components Diagrams.
 
-<img src="./media/image88.png"
+<img src="./media/image103.png"
 style="width:6.26772in;height:4.98611in" />
 
 # 4.9. Software Object-Oriented Design.
 
 ## 4.9.1. Class Diagrams.
 
-<img src="./media/image19.png"
+<img src="./media/image25.png"
 style="width:6.26772in;height:6.33333in" />
 
 ## 4.9.2. Class Dictionary.
@@ -2957,7 +2972,7 @@ Name)</strong></th>
 </tr>
 <tr>
 <th style="text-align: center;">Martinez Valdivia, Jose Luis</th>
-<th style="text-align: center;">batman</th>
+<th style="text-align: center;">hmongus</th>
 <th style="text-align: center;">Frontend</th>
 <th style="text-align: center;">L</th>
 <th style="text-align: center;">Backend</th>
@@ -3267,7 +3282,7 @@ Branch feature/sprints; PRs con revisión cruzada; daily corta en Teams.
 | Barturén Guzmán, Alejandro | @bart | backend | 6 | 3 | 3 | 0 | Auth, Items API |
 | Beingolea Montalvo, Sebastián | @sebasxen | frontend | 5 | 2 | 2 | 0 | LP, Login UI |
 | Cuba Pareja, Joaquín | @joacuba | frontend, backend | 4 | 2 | 2 | 0 | Tabla/UX, conexión FE-BE |
-| Martínez Valdivia, Jose Luis | @batman | frontend, qa | 4 | 2 | 2 | 0 | QA inicial, accesibilidad LP, pipeline básico |
+| Martínez Valdivia, Jose Luis | @hmongus | frontend, qa | 4 | 2 | 2 | 0 | QA inicial, accesibilidad, pipeline básico |
 
 Pairing para filtros/paginación; checklist de criterios de aceptación en
 PRs.
@@ -3278,6 +3293,12 @@ PRs.
 ||
 ||
 ||
+
+<img src="./media/image35.png"
+style="width:6.26772in;height:3.34722in" />
+
+<img src="./media/image27.png"
+style="width:6.26772in;height:1.73611in" />
 
 ## 
 
@@ -3294,20 +3315,21 @@ PRs.
 - **Home Section:**
 
 > **  **
-> <img src="./media/image6.png" style="width:4.3908in;height:3.93859in" />**  **
+> <img src="./media/image24.png"
+> style="width:4.3908in;height:3.93859in" />**  **
 
 - **Features Overview:**
 
-> <img src="./media/image1.png" style="width:5.30885in;height:4.125in" />**  **
+> <img src="./media/image2.png" style="width:5.30885in;height:4.125in" />**  **
 
 - **Prices:**
 
-> <img src="./media/image30.png"
+> <img src="./media/image19.png"
 > style="width:5.64337in;height:3.49664in" />**  **
 
 - **Footer:**
 
-> <img src="./media/image21.png"
+> <img src="./media/image23.png"
 > style="width:5.34896in;height:5.16237in" />
 >
 > **Video Demonstration:**
@@ -3325,21 +3347,21 @@ PRs.
 
 - **Manager Section**
 
-> <img src="./media/image10.png"
+> <img src="./media/image8.png"
 > style="width:5.49178in;height:4.57813in" />
 >
-> <img src="./media/image16.png"
+> <img src="./media/image4.png"
 > style="width:5.50157in;height:5.40104in" />**  
 >   **
-> <img src="./media/image48.png"
+> <img src="./media/image5.png"
 > style="width:5.27526in;height:4.70313in" />
 
 - **Employee Section:  **
 
-> <img src="./media/image35.png"
+> <img src="./media/image36.png"
 > style="width:4.80787in;height:4.81745in" />**  **
 >
-> <img src="./media/image40.png"
+> <img src="./media/image54.png"
 > style="width:4.86746in;height:4.85938in" />
 >
 > **Video Demonstration:  **
@@ -3362,7 +3384,7 @@ PRs.
 
 - **Admin Panel (Django):  
     **
-  <img src="./media/image32.png"
+  <img src="./media/image58.png"
   style="width:5.44271in;height:3.25478in" />
 
 - **API Endpoints Tested (Postman):  
@@ -3370,7 +3392,7 @@ PRs.
 
 - **Database Tables Overview:  
     **
-  <img src="./media/image91.png"
+  <img src="./media/image61.png"
   style="width:5.18229in;height:5.69019in" />
 
 > **Video Demonstration:  **
@@ -3385,10 +3407,10 @@ PRs.
 | /api/items/ | **GET**, **POST** | GET/POST http://backend-e5e8.onrender.com/api/items/ | GET: sin parámetros POST: name, price, stock |
 | /api/items/{id}/ | **PUT**, **DELETE** | PUT/DELETE http://backend-e5e8.onrender.com/api/items/{id}/ | Path param: {id} (int) |
 
-<img src="./media/image63.png"
+<img src="./media/image60.png"
 style="width:6.26772in;height:2.88889in" />
 
-<img src="./media/image66.png"
+<img src="./media/image79.png"
 style="width:6.26772in;height:2.80556in" />
 
 ## 5.2.8. Team Collaboration Insights
