@@ -1,4 +1,4 @@
-<img src="./media/image34.png" style="width:1.21875in;height:1.07292in"
+<img src="./media/image31.png" style="width:1.21875in;height:1.07292in"
 alt="Upc Logo" />
 
 **Universidad Peruana de Ciencias Aplicadas**
@@ -40,17 +40,17 @@ Project Report Collaboration Insights
 
 **Report**
 
-<img src="./media/image50.png"
+<img src="./media/image43.png"
 style="width:6.26772in;height:1.51389in" />
 
 **Frontend**
 
-<img src="./media/image96.png"
+<img src="./media/image87.png"
 style="width:6.26772in;height:1.70833in" />
 
 **Backend**
 
-<img src="./media/image52.png"
+<img src="./media/image44.png"
 style="width:6.26772in;height:1.52778in" />
 
 Contenido
@@ -401,10 +401,98 @@ Contenido
 
 StudentOutcome
 
-||
-||
-||
-||
+<table>
+  <tr>
+   <td>Criterio específico
+   </td>
+   <td>Acciones Realizadas
+   </td>
+   <td>Conclusiones
+   </td>
+  </tr>
+  <tr>
+   <td><strong>4.c.1 Reconoce responsabilidad</strong>
+<p>
+<strong>ética y profesional en</strong>
+<p>
+<strong>situaciones de ingeniería de</strong>
+<p>
+<strong>software</strong>
+   </td>
+   <td><strong>TB1</strong>
+<p>
+<strong>Barturen Guzman, Alejandro Nicolas</strong>
+<p>
+<strong>  </strong>
+<p>
+<strong>Beingolea Montalvo Sebastián Martín </strong>
+<p>
+Me encargue de desarrollar todo lo que tiene que ver con mobile y también los diagramas de contexto de contenedores y de componentes
+<p>
+<strong>Cuba Pareja Joaquin</strong>
+<p>
+Desarrollo Mobile, documentación de los springs y RESTFul API documentation
+<p>
+<strong>Martinez Valdivia Jose Luis </strong>
+   </td>
+   <td><strong>TB1</strong>
+<p>
+<strong>Barturen Guzman, Alejandro Nicolas</strong>
+<p>
+<strong>  </strong>
+<p>
+<strong>Beingolea Montalvo Sebastián Martín </strong>
+<p>
+En esta etapa de desarrollo note que es muy importante el trabajo en equipo como también la coherencia entre el mobile y la web también el hecho de que los diagrama te ayudan a ver de mejor forma la app.
+<p>
+<strong>Cuba Pareja Joaquin</strong>
+<p>
+Se reconoce que la ética se plantea directamente en el desarrollo de software al encontrarse con el desarrollo correcto de manejo de datos en el software.
+<p>
+<strong>Martinez Valdivia Jose Luis </strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>4.c.2 Emite juicios informados considerando el impacto de las</strong>
+<p>
+<strong>soluciones de ingeniería de</strong>
+<p>
+<strong>software en contextos globales,</strong>
+<p>
+<strong>económicos, ambientales y</strong>
+<p>
+<strong>sociales</strong>
+   </td>
+   <td><strong>TB1</strong>
+<p>
+<strong>Barturen Guzman, Alejandro Nicolas</strong>
+<p>
+<strong>  </strong>
+<p>
+<strong>Beingolea Montalvo Sebastián Martín </strong>
+<p>
+Me encargue de desarrollar todo lo que tiene que ver con mobile y también los diagramas de contexto de contenedores y de componentes
+<p>
+<strong>Cuba Pareja Joaquin </strong>
+<p>
+<strong>Martinez Valdivia Jose Luis </strong>
+   </td>
+   <td><strong>TB1</strong>
+<p>
+<strong>Barturen Guzman, Alejandro Nicolas</strong>
+<p>
+<strong>  </strong>
+<p>
+<strong>Beingolea Montalvo Sebastián Martín </strong>
+<p>
+En esta etapa de desarrollo note que es muy importante el trabajo en equipo como también la coherencia entre el mobile y la web también el hecho de que los diagrama te ayudan a ver de mejor forma la app. Tambien el desarrollo de esta aplicación tendra un gran impacto en los sistemas de inventario.
+<p>
+<strong>Cuba Pareja Joaquin </strong>
+<p>
+<strong>Martinez Valdivia Jose Luis </strong>
+   </td>
+  </tr>
+</table>
 
 Capítulo I: Introducción
 
@@ -430,11 +518,59 @@ gestión de inventarios de Lima
 
 ## 1.1.2. Perfiles de integrantes del equipo
 
-||
-||
-||
-||
-||
+<table>
+  <tr>
+   <td><strong>Barturen Guzman, Alejandro Nicolas (u202214406) - Ingenieria de Software</strong>
+<p>
+Tengo 21 años y estoy en la Carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Ye tengo experiencia realizando trabajos grupales, me considero alguien bastante eficiente y comunicativo que siempre busca la realización del trabajo de la mejor forma posible 
+   </td>
+   <td>
+
+<img src="./media/image108.png" width="" alt="alt_text" title="image_tooltip">
+
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Beingolea Montalvo Sebastian Martin (u202217853) - Ingeniería de Software</strong>
+<p>
+Tengo 20 años estudio ingeniería de software en la universidad de ciencias aplicadas, me gusta formar grupos por que siento que es un entorno donde me puedo desarrollar mejor y puedo impulsar los límites de los demás me considero una persona creativa y disciplinada.
+   </td>
+   <td>
+
+<img src="./media/image109.png" width="" alt="alt_text" title="image_tooltip">
+
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Jose Luis Martinez Valdivia </strong>
+<p>
+<strong>(u20213989) - Ingeniería de Software</strong>
+<p>
+Tengo 21 años y estudio Ingeniería de Sistemas en la universidad. Me gusta trabajar en equipo porque considero que es una forma de aprender de los demás y al mismo tiempo aportar mis ideas. Me describo como una persona perseverante, organizada y con una mentalidad innovadora que busca superar retos constantemente.
+   </td>
+   <td>
+
+<img src="./media/image110.png" width="" alt="alt_text" title="image_tooltip">
+
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Joaquin Antonio Cuba Pareja</strong>
+<p>
+<strong>(u201621281) - Ingeniería de Software</strong>
+<p>
+Soy estudiante de la carrera de Ingeniería de software en la universidad de ciencias aplicadas, me gusta enfrentar desafíos porque me obligan a salir de mi zona de confort y a buscar soluciones de forma estratégica. Suelo ser muy observador y analítico, lo que me ayuda a tomar decisiones con claridad y a mantenerme enfocado en mis objetivos.
+   </td>
+   <td>
+
+
+
+
+<img src="./media/image111.png" width="" alt="alt_text" title="image_tooltip">
+
+   </td>
+  </tr>
+</table>
 
 # **1.2. Solution Profile**
 
@@ -608,7 +744,7 @@ toma de decisiones.
 
 ### 1.2.2.4. Lean UX Canvas.
 
-<img src="./media/image71.png"
+<img src="./media/image82.png"
 style="width:6.26772in;height:3.66667in" />
 
 [<u>Ver el Lean Ux
@@ -683,23 +819,273 @@ opciones de integración con dispositivos de punto de venta.
 
 ## 2.1.1. Análisis competitivo. 
 
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
+<table>
+  <tr>
+   <td colspan="6" >Competitive Analysis Landscape
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="2" >¿Por qué llevar a
+<p>
+cabo este análisis?
+   </td>
+   <td colspan="5" >Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis
+   </td>
+  </tr>
+  <tr>
+   <td colspan="5" >
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >(En la cabecera colocar por
+<p>
+cada competidor nombre y
+<p>
+logo
+   </td>
+   <td>
+
+
+
+
+<img src="./media/image112.png" width="" alt="alt_text" title="image_tooltip">
+
+<p style="text-align: center">
+StockMind
+   </td>
+   <td>
+
+ 
+
+
+<img src="./media/image113.png" width="" alt="alt_text" title="image_tooltip">
+
+<p style="text-align: center">
+Cegid
+   </td>
+   <td>
+
+ 
+
+
+<img src="./media/image114.png" width="" alt="alt_text" title="image_tooltip">
+
+<p style="text-align: center">
+Alegra
+   </td>
+   <td>
+
+ 
+
+
+<img src="./media/image115.png" width="" alt="alt_text" title="image_tooltip">
+
+<p>
+Bimpos
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="2" >Perfil
+   </td>
+   <td>Overview
+   </td>
+   <td>Plataforma SaaS centrada en ayudar a las tiendas de abarrotes de Lima a optimizar su gestión de inventarios. Permite visualizar y actualizar el stock en tiempo real, con roles diferenciados para empleados
+   </td>
+   <td>App de facturación y punto de venta en la nube, creada para pequeños negocios que buscan cumplir con normativas fiscales y vender de forma sencilla.
+   </td>
+   <td>Solución integral en la nube que combina facturación electrónica, contabilidad, gestión de inventarios, nómina y reportes administrativos.
+   </td>
+   <td>Enfocada en digitalizar y centralizar la gestión de restaurantes y tiendas retail, permitiendo manejar ventas, inventarios, compras, delivery y reservas desde un solo lugar
+   </td>
+  </tr>
+  <tr>
+   <td>Ventaja
+<p>
+competitiva
+<p>
+¿Qué valor ofrece
+<p>
+a los clientes?
+   </td>
+   <td>Especialización en abarrotes, simplicidad, roles definidos, optimización de stock en tiempo real.
+   </td>
+   <td>Se diferencia por ser extremadamente simple, económico y rápido de implementar, sin contratos ni costos ocultos.
+   </td>
+   <td>Destaca por ofrecer automatización contable y administrativa todo en uno, con integración de facturación, inventarios, nómina y contabilidad bajo una sola plataforma en la nube.
+   </td>
+   <td>Escalable y especializado para retail y hostelería, con módulos avanzados de trazabilidad alimentaria, reportes centralizados y soporte para cadenas con múltiples sucursales y conceptos
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="2" >Perfil de Marketing
+   </td>
+   <td>Mercado objetivo
+   </td>
+   <td>Tiendas de abarrotes y minimarkets en Lima
+   </td>
+   <td>pequeños comerciantes
+   </td>
+   <td>contadores y pequeños negocios en Latinoamérica.
+   </td>
+   <td>Cadenas de restaurantes, hoteles y tiendas retail de mediano a gran tamaño.
+   </td>
+  </tr>
+  <tr>
+   <td>Estrategias de
+<p>
+marketing
+   </td>
+   <td>Publicidad en redes locales, alianzas con asociaciones de bodegueros, demostraciones gratuitas.
+   </td>
+   <td>Marketing digital local, prueba gratuita de 30 días
+   </td>
+   <td>Webinars, contenidos educativos, alianzas con cámaras de comercio, publicidad digital.
+   </td>
+   <td>Presencia en ferias, partners con hardware POS, publicidad digital global.
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="3" >Perfil de Producto
+   </td>
+   <td>Productos &
+<p>
+Servicios
+   </td>
+   <td>InventoryPro
+   </td>
+   <td>Vendus
+   </td>
+   <td>Alegra
+   </td>
+   <td>Bimpos
+   </td>
+  </tr>
+  <tr>
+   <td>Precios & Costos
+   </td>
+   <td>Producto como licencia
+<p>
+perpetua
+   </td>
+   <td>Suscripción mensual
+   </td>
+   <td>Suscripción mensual o anual
+   </td>
+   <td>Suscripción mensual
+   </td>
+  </tr>
+  <tr>
+   <td>Canales de
+<p>
+distribución (Web
+<p>
+y/o Móvil
+   </td>
+   <td>Web y app móvil
+   </td>
+   <td>apps móviles, web
+   </td>
+   <td>Web, apps móviles, APIs para integraciones contables
+   </td>
+   <td>Web, apps móviles, integraciones con hardware
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="5" >Análisis SWOT
+   </td>
+   <td colspan="5" >Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva
+   </td>
+  </tr>
+  <tr>
+   <td>Fortalezas
+   </td>
+   <td>-Especialización en tiendas de abarrotes
+<p>
+-Roles diferenciados para usuarios
+<p>
+-Interfaz sencilla
+   </td>
+   <td>-Plataforma fácil de usar
+<p>
+-Costos bajos
+<p>
+-Rápida implementación
+   </td>
+   <td>-Solución todo-en-uno (facturación, contabilidad, nómina)
+<p>
+-Automatización avanzada
+   </td>
+   <td>- Mercado  retail y hostelería específico
+<p>
+-Gestión multisucursal
+<p>
+-Amplia gama de reportes
+   </td>
+  </tr>
+  <tr>
+   <td>Debilidades
+   </td>
+   <td>-Dependencia del internet para operar
+<p>
+-Funcionalidades limitadas 
+   </td>
+   <td>-Funciones limitadas fuera de facturación
+<p>
+-Dependencia de internet
+<p>
+-Poca personalización
+   </td>
+   <td>-Complejidad para negocios muy pequeños
+<p>
+-Costos mayores en planes avanzados
+<p>
+-Requiere curva de aprendizaje
+   </td>
+   <td>-Complejidad de implementación
+<p>
+-Limitado a mercados con poder adquisitivo alto
+   </td>
+  </tr>
+  <tr>
+   <td>Oportunidades
+   </td>
+   <td>-Mercado en crecimiento en Lima
+<p>
+-Alianzas con proveedores y bodegueros
+   </td>
+   <td>-Expansión a nuevos mercados
+<p>
+-Crecimiento del e-commerce en LATAM
+   </td>
+   <td>-Expansión internacional
+<p>
+-Mayor demanda de automatización contable
+   </td>
+   <td>-Expansión internacional
+<p>
+-Integración con plataformas de e-commerce
+   </td>
+  </tr>
+  <tr>
+   <td>Amenazas
+   </td>
+   <td>-Negocios reacios a la digitalización
+<p>
+-Entrada de competidores con más recursos
+   </td>
+   <td>-Entrada de competidores globales
+<p>
+-Cambios en regulaciones fiscales
+   </td>
+   <td>-Cambios regulatorios en facturación electrónica
+   </td>
+   <td>-Cambios en regulaciones fiscales
+<p>
+-Entrada de soluciones SaaS low-cost
+   </td>
+  </tr>
+</table>
+
 
 ## 2.1.2. Estrategias y tácticas frente a competidores.
 
@@ -848,7 +1234,7 @@ Inventario</u>**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214406_u
 <th style="text-align: left;">San Martin de Porres</th>
 </tr>
 <tr>
-<th colspan="4" style="text-align: left;"><img src="./media/image76.png"
+<th colspan="4" style="text-align: left;"><img src="./media/image77.png"
 style="width:6.05729in;height:3.41224in" /></th>
 </tr>
 <tr>
@@ -898,7 +1284,7 @@ los productos</th>
 <th>Pueblo Libre</th>
 </tr>
 <tr>
-<th colspan="4"><img src="./media/image90.png"
+<th colspan="4"><img src="./media/image107.png"
 style="width:6.11458in;height:3.33333in" /></th>
 </tr>
 <tr>
@@ -950,7 +1336,7 @@ donde se guarda un producto en específico</p></th>
 <th>Pueblo Libre</th>
 </tr>
 <tr>
-<th colspan="4"><img src="./media/image32.png"
+<th colspan="4"><img src="./media/image47.png"
 style="width:6.11458in;height:3.43056in" /></th>
 </tr>
 <tr>
@@ -1003,7 +1389,7 @@ Segmento Objetivo: **Trabajadores o encargados de inventario**
 <th>Surco</th>
 </tr>
 <tr>
-<th colspan="4"><img src="./media/image92.png"
+<th colspan="4"><img src="./media/image91.png"
 style="width:6.11458in;height:2.80556in" /></th>
 </tr>
 <tr>
@@ -1051,7 +1437,7 @@ Valeria</u>](https://youtube.com/shorts/nWzzywMFT9c?feature=share)
 <th>Cuzco</th>
 </tr>
 <tr>
-<th colspan="4"><img src="./media/image13.png"
+<th colspan="4"><img src="./media/image1.png"
 style="width:6.11458in;height:3.52778in" /></th>
 </tr>
 <tr>
@@ -1099,7 +1485,7 @@ tiempo real y que sea accesible.</th>
 <th>Jesus Maria</th>
 </tr>
 <tr>
-<th colspan="4"><img src="./media/image29.png"
+<th colspan="4"><img src="./media/image24.png"
 style="width:6.11458in;height:3.05556in" /></th>
 </tr>
 <tr>
@@ -1145,12 +1531,12 @@ relacionado con el reporte CARDEX.</th>
 
 **Segmento Objetivo: Propietarios de tiendas de abarrotes**
 
-<img src="./media/image43.png"
+<img src="./media/image70.png"
 style="width:4.97393in;height:8.43229in" />
 
 **Segmento Objetivo: Trabajadores o encargados de inventario**
 
-<img src="./media/image16.png"
+<img src="./media/image14.png"
 style="width:5.31959in;height:8.27604in" />
 
 ## 2.3.2. User Task Matrix.
@@ -1167,45 +1553,131 @@ del startup.
 
 **Propietarios de Tiendas de Abarrotes**
 
-||
-||
-||
-||
-||
-||
-||
-||
-||
+<table>
+  <tr>
+   <td>Tareas / Tasks
+   </td>
+   <td>Frecuencia
+   </td>
+   <td>Importancia
+   </td>
+  </tr>
+  <tr>
+   <td>Iniciar sesión
+   </td>
+   <td>Multiple
+   </td>
+   <td>High
+   </td>
+  </tr>
+  <tr>
+   <td>Editar información de productos
+   </td>
+   <td>Rare
+   </td>
+   <td>Medium
+   </td>
+  </tr>
+  <tr>
+   <td>Revisar niveles de inventario
+   </td>
+   <td>Multiple
+   </td>
+   <td>High
+   </td>
+  </tr>
+  <tr>
+   <td>Analizar reportes de ventas
+   </td>
+   <td>Multiple
+   </td>
+   <td>High
+   </td>
+  </tr>
+  <tr>
+   <td>Consultar historial de movimientos
+   </td>
+   <td>Rare
+   </td>
+   <td>Medium
+   </td>
+  </tr>
+  <tr>
+   <td>Ver alertas de productos con stock mínimo
+   </td>
+   <td>Multiple
+   </td>
+   <td>High
+   </td>
+  </tr>
+  <tr>
+   <td>Cerrar sesión
+   </td>
+   <td>Rare
+   </td>
+   <td>Low
+   </td>
+  </tr>
+</table>
 
 **Trabajadores o Encargados de Inventario**
 
-||
-||
-||
-||
-||
+<table>
+  <tr>
+   <td>Tareas / Tasks
+   </td>
+   <td>Frecuencia
+   </td>
+   <td>Importancia
+   </td>
+  </tr>
+  <tr>
+   <td>Iniciar sesión
+   </td>
+   <td>Multiple
+   </td>
+   <td>High
+   </td>
+  </tr>
+  <tr>
+   <td>Consultar el stock disponible por producto
+   </td>
+   <td>Multiple
+   </td>
+   <td>High
+   </td>
+  </tr>
+  <tr>
+   <td>Cerrar sesión
+   </td>
+   <td>Rare
+   </td>
+   <td>Low
+   </td>
+  </tr>
+</table>
 
 ## 2.3.3. User Journey Mapping.
 
 **Segmento Objetivo: Propietarios de tiendas de abarrotes**
 
-<img src="./media/image65.png"
+<img src="./media/image78.png"
 style="width:6.87744in;height:4.64227in" />
 
 **Segmento Objetivo: Trabajadores o encargados de inventario**
 
-## <img src="./media/image94.png"
+## <img src="./media/image89.png"
 style="width:6.43229in;height:6.51735in" />
 
 ## 2.3.4. Empathy Mapping.
 
 **Segmento Objetivo: Propietarios de tiendas de abarrotes**
 
-<img src="./media/image45.png" style="width:6.26772in;height:8.125in" />
+<img src="./media/image53.png" style="width:6.26772in;height:8.125in" />
 
 **Segmento Objetivo: Trabajadores o encargados de inventario**
 
-<img src="./media/image98.png"
+<img src="./media/image80.png"
 style="width:6.26772in;height:7.40278in" />
 
 ## 2.3.5. As-is Scenario Mapping.
@@ -1217,7 +1689,7 @@ style="width:6.26772in;height:3.22222in" />
 
 **Segmento Objetivo: Trabajadores o encargados de inventario**
 
-<img src="./media/image75.png"
+<img src="./media/image64.png"
 style="width:6.26772in;height:3.23611in" />
 
 [<u>Ver As-Is
@@ -1231,12 +1703,12 @@ Capítulo III: Requirements Specification
 
 **Segmento Objetivo: Propietarios de tiendas de abarrotes**
 
-<img src="./media/image74.png"
+<img src="./media/image68.png"
 style="width:6.26772in;height:5.15278in" />
 
 **Segmento Objetivo: Trabajadores o encargados de inventario**
 
-<img src="./media/image42.png"
+<img src="./media/image39.png"
 style="width:6.26772in;height:7.48611in" />
 
 [<u>Ver To-Be
@@ -1304,7 +1776,7 @@ Mapping</u>](https://miro.com/app/board/uXjVJL9XI3s=/?share_link_id=891875236003
 
 # **3.4. Impact Mapping.**
 
-<img src="./media/image77.png"
+<img src="./media/image85.png"
 style="width:6.26772in;height:6.97222in" />
 
 Capítulo IV: Product Design
@@ -1316,13 +1788,13 @@ Capítulo IV: Product Design
 Para el branding de nuestro startup hemos seleccionado el siguiente
 logo:
 
-<img src="./media/image11.png"
+<img src="./media/image8.png"
 style="width:5.03125in;height:2.13542in" />
 
 Además, el branding que utilizaremos para nuestro servicio(InventoryPro)
 es el siguiente:
 
-<img src="./media/image40.png"
+<img src="./media/image37.png"
 style="width:2.11458in;height:1.78125in" />
 
 Typography
@@ -1341,7 +1813,7 @@ Brand Colors:
 Para la paleta de colores del resto de la aplicación se utilizarán los
 siguientes
 
-<img src="./media/image89.png"
+<img src="./media/image97.png"
 style="width:6.26772in;height:0.91667in" />
 
 Spacing
@@ -1571,20 +2043,20 @@ gestión de su negocio..
 [<u>Ver Landing Page
 Wireframes</u>](https://www.figma.com/design/EkGCCyBM3wVr7i6GEIhcm2/Untitled?node-id=0-1&t=zhCngbkfirTgWK6g-1)
 
-<img src="./media/image100.png"
+<img src="./media/image69.png"
 style="width:6.26772in;height:3.01389in" />
 
-<img src="./media/image72.png" style="width:6.26772in;height:3in" />
-
-<img src="./media/image64.png"
-style="width:6.26772in;height:2.08333in" />
-
-<img src="./media/image1.png" style="width:6.26772in;height:2.625in" />
-
-<img src="./media/image20.png"
-style="width:6.26772in;height:2.18056in" />
+<img src="./media/image76.png" style="width:6.26772in;height:3in" />
 
 <img src="./media/image56.png"
+style="width:6.26772in;height:2.08333in" />
+
+<img src="./media/image11.png" style="width:6.26772in;height:2.625in" />
+
+<img src="./media/image17.png"
+style="width:6.26772in;height:2.18056in" />
+
+<img src="./media/image55.png"
 style="width:6.26772in;height:2.61111in" />
 
 ## 4.3.2. Landing Page Mock-up.
@@ -1592,22 +2064,22 @@ style="width:6.26772in;height:2.61111in" />
 [<u>Ver Landing Page
 Mock-up's</u>](https://www.figma.com/design/EkGCCyBM3wVr7i6GEIhcm2/Untitled?node-id=0-1&t=zhCngbkfirTgWK6g-1)
 
-<img src="./media/image95.png"
+<img src="./media/image92.png"
 style="width:6.26772in;height:3.02778in" />
 
-<img src="./media/image57.png"
+<img src="./media/image67.png"
 style="width:6.26772in;height:3.01389in" />
 
-<img src="./media/image97.png"
+<img src="./media/image102.png"
 style="width:6.26772in;height:2.05556in" />
 
-<img src="./media/image106.png"
+<img src="./media/image98.png"
 style="width:6.26772in;height:2.63889in" />
 
-<img src="./media/image82.png"
+<img src="./media/image86.png"
 style="width:6.26772in;height:2.16667in" />
 
-<img src="./media/image26.png"
+<img src="./media/image27.png"
 style="width:6.26772in;height:2.59722in" />
 
 # **4.4. Mobile Applications UX/UI Design.**
@@ -1624,7 +2096,7 @@ está el nombre y el subtítulo de la app. Más abajo, hay un formulario
 con dos campos: Email Address y Password, seguido de un botón
 rectangular con el texto Sign in.
 
-<img src="./media/image85.png"
+<img src="./media/image88.png"
 style="width:3.02408in;height:5.42351in" />
 
 **Dashboard**
@@ -1635,7 +2107,7 @@ productos agotados. Más abajo aparece una lista de ítems recientes con
 opción para ver su stock, y al final hay una barra de navegación con
 accesos a Dashboard, Inventario, Análisis y Perfil.
 
-<img src="./media/image41.png"
+<img src="./media/image28.png"
 style="width:3.16035in;height:5.60938in" />
 
 **Inventory**
@@ -1648,7 +2120,7 @@ la esquina inferior derecha hay un botón flotante con el signo + para
 añadir nuevos productos. Al final está la barra de navegación con
 accesos a Dashboard, Inventory, Analytics y Profile.
 
-<img src="./media/image30.png"
+<img src="./media/image33.png"
 style="width:3.18229in;height:5.66912in" />
 
 **Profile**
@@ -1657,14 +2129,14 @@ Se pueden ver los datos del usuario como el rol, nombre y el correo.
 También se puede ver los ajustes de la cuenta, centro de notificaciones,
 el soporte técnico y sobre nosotros, también se ve el botón de logout.
 
-<img src="./media/image21.png"
+<img src="./media/image30.png"
 style="width:3.18229in;height:5.63097in" />
 
 ## 4.4.2. Mobile Applications Wireflow Diagrams
 
 ## Wireflow Diagrams for store owners
 
-<img src="./media/image62.png"
+<img src="./media/image60.png"
 style="width:6.26772in;height:2.33333in" />
 
 ## **4.4.3. Mobile Applications Mock-ups.**
@@ -1672,26 +2144,26 @@ style="width:6.26772in;height:2.33333in" />
 [<u>Mobile Application Mock
 Ups</u>](https://www.figma.com/design/xi0BNFj6cvWAYRnkutyjt6/Sin-t%C3%ADtulo?node-id=0-1&p=f&t=6G5oVPQhRNI4Iyw5-0)
 
-<img src="./media/image73.png"
+<img src="./media/image65.png"
 style="width:2.51279in;height:4.81195in" />
 
-<img src="./media/image14.png"
-style="width:2.34896in;height:4.81026in" /><img src="./media/image10.png"
+<img src="./media/image18.png"
+style="width:2.34896in;height:4.81026in" /><img src="./media/image2.png"
 style="width:2.33563in;height:4.82813in" />
 
-<img src="./media/image69.png"
+<img src="./media/image73.png"
 style="width:2.3354in;height:4.79688in" />
 
 ## 4.4.4. Mobile Applications User Flow Diagrams.
 
 El usuario puede ingresar a la plataforma
 
-<img src="./media/image63.png"
+<img src="./media/image45.png"
 style="width:6.26772in;height:2.45833in" />
 
 El usuario no puede entrar a la plataforma
 
-<img src="./media/image86.png"
+<img src="./media/image90.png"
 style="width:6.26772in;height:4.70833in" />
 
 # **4.5. Mobile Applications Prototyping.**
@@ -1710,7 +2182,7 @@ tarjetas hace que la interacción sea directa y eficiente. Además,
 incluye accesos rápidos a credenciales demo y acciones frecuentes,
 mejorando la experiencia del usuario desde el inicio.
 
-<img src="./media/image78.png"
+<img src="./media/image62.png"
 style="width:6.26772in;height:2.97222in" />
 
 ## **4.5.2. iOS Mobile Applications Prototyping.**
@@ -1728,7 +2200,7 @@ tarjetas hace que la interacción sea directa y eficiente. Además,
 incluye accesos rápidos a credenciales demo y acciones frecuentes,
 mejorando la experiencia del usuario desde el inicio.
 
-<img src="./media/image105.png"
+<img src="./media/image101.png"
 style="width:6.26772in;height:2.33333in" />
 
 # **4.6. Web Applications UX/UI Design.**
@@ -1740,46 +2212,46 @@ Wireframes.</u>](https://www.figma.com/design/ewYZ4zUy1u6FucMmGX9iaP/Untitled?no
 
 Login
 
-<img src="./media/image51.png"
+<img src="./media/image52.png"
 style="width:6.26772in;height:2.95833in" />
 
 Dashboard
 
-<img src="./media/image6.png"
+<img src="./media/image4.png"
 style="width:6.26772in;height:4.27778in" />
 
 Inventory
 
-<img src="./media/image9.png"
+<img src="./media/image15.png"
 style="width:6.26772in;height:3.01389in" />
 
 Add new Item
 
-<img src="./media/image53.png"
+<img src="./media/image61.png"
 style="width:6.26772in;height:2.95833in" />
 
 Analytics
 
-<img src="./media/image99.png"
+<img src="./media/image105.png"
 style="width:6.26772in;height:6.16667in" />
 
 Alerts
 
-<img src="./media/image31.png" style="width:5.9375in;height:2.5in" />
+<img src="./media/image54.png" style="width:5.9375in;height:2.5in" />
 
 AlertsCheck
 
-<img src="./media/image84.png"
+<img src="./media/image83.png"
 style="width:5.66667in;height:2.52083in" />
 
 Suppliers
 
-<img src="./media/image47.png"
+<img src="./media/image58.png"
 style="width:6.26772in;height:3.63889in" />
 
 AddSupliers
 
-<img src="./media/image28.png"
+<img src="./media/image29.png"
 style="width:6.26772in;height:3.63889in" />
 
 Dashboard Employee view
@@ -1794,7 +2266,7 @@ Diagrams</u>](https://lucid.app/lucidchart/8fe16089-784c-466e-bc1c-fe69f15c7b59/
 
 User goal 01: Marcar todas las alertas cmo vistas
 
-<img src="./media/image33.png"
+<img src="./media/image38.png"
 style="width:6.26772in;height:0.95833in" />
 
 1.  Ingresar a la aplicación de” InventoryPro”
@@ -1805,7 +2277,7 @@ style="width:6.26772in;height:0.95833in" />
 
 User goal 02: Añadir un nuevo supplier
 
-<img src="./media/image93.png"
+<img src="./media/image95.png"
 style="width:6.26772in;height:0.63889in" />
 
 1.  Ingresar a la aplicación de “InventoryPro”
@@ -1818,7 +2290,7 @@ style="width:6.26772in;height:0.63889in" />
 
 User goal 03:Añadir un nuevo item
 
-<img src="./media/image55.png"
+<img src="./media/image49.png"
 style="width:6.26772in;height:0.59722in" />
 
 1.  Ingresar a la aplicación de “InventoryPro”
@@ -1829,7 +2301,7 @@ style="width:6.26772in;height:0.59722in" />
 
 User goal 04:Descargar informe excel
 
-<img src="./media/image46.png"
+<img src="./media/image51.png"
 style="width:6.26772in;height:0.86111in" />
 
 1.  Ingresar a la aplicación de “InventoryPro”
@@ -1843,52 +2315,52 @@ Mock-ups</u>](https://www.figma.com/design/ewYZ4zUy1u6FucMmGX9iaP/Untitled?node-
 
 Login
 
-<img src="./media/image37.png"
+<img src="./media/image40.png"
 style="width:6.26772in;height:2.97222in" />
 
 Dashboard
 
-<img src="./media/image38.png"
+<img src="./media/image32.png"
 style="width:6.26772in;height:4.27778in" />
 
 Inventory
 
-<img src="./media/image3.png"
+<img src="./media/image16.png"
 style="width:6.26772in;height:3.01389in" />
 
 Add new Item
 
-<img src="./media/image17.png"
+<img src="./media/image5.png"
 style="width:6.26772in;height:2.97222in" />
 
 Analytics
 
-<img src="./media/image12.png"
+<img src="./media/image20.png"
 style="width:6.11458in;height:6.03125in" />
 
 Alerts
 
-<img src="./media/image68.png"
+<img src="./media/image79.png"
 style="width:5.65625in;height:5.88542in" />
 
 AlertsCheck
 
-<img src="./media/image80.png"
+<img src="./media/image84.png"
 style="width:5.85417in;height:6.09375in" />
 
 Suppliers
 
-<img src="./media/image67.png"
+<img src="./media/image71.png"
 style="width:6.26772in;height:3.65278in" />
 
 AddSuppliers
 
-<img src="./media/image83.png"
+<img src="./media/image96.png"
 style="width:5.29167in;height:3.09375in" />
 
 Dashboard Employee view
 
-<img src="./media/image70.png"
+<img src="./media/image74.png"
 style="width:6.26772in;height:4.27778in" />
 
 ## 4.6.4. Web Applications User Flow Diagrams.
@@ -1898,7 +2370,7 @@ Diagrams</u>](https://lucid.app/lucidchart/8fe16089-784c-466e-bc1c-fe69f15c7b59/
 
 User goal 01: Marcar todas las alertas cmo vistas
 
-<img src="./media/image49.png"
+<img src="./media/image50.png"
 style="width:6.26772in;height:0.80556in" />
 
 1.  Ingresar a la aplicación de” InventoryPro”
@@ -1909,7 +2381,7 @@ style="width:6.26772in;height:0.80556in" />
 
 User goal 02: Añadir un nuevo supplier
 
-<img src="./media/image22.png"
+<img src="./media/image26.png"
 style="width:6.26772in;height:0.66667in" />
 
 1.  Ingresar a la aplicación de “InventoryPro”
@@ -1922,7 +2394,7 @@ style="width:6.26772in;height:0.66667in" />
 
 User goal 03:Añadir un nuevo item
 
-<img src="./media/image101.png" style="width:6.26772in;height:0.75in" />
+<img src="./media/image99.png" style="width:6.26772in;height:0.75in" />
 
 1.  Ingresar a la aplicación de “InventoryPro”
 
@@ -1932,7 +2404,7 @@ User goal 03:Añadir un nuevo item
 
 User goal 04:Descargar informe excel
 
-<img src="./media/image66.png"
+<img src="./media/image72.png"
 style="width:6.26772in;height:1.01389in" />
 
 1.  Ingresar a la aplicación de “InventoryPro”
@@ -1945,24 +2417,24 @@ style="width:6.26772in;height:1.01389in" />
 
 ## 4.8.1. Software Architecture Context Diagram.
 
-<img src="./media/image15.png"
+<img src="./media/image10.png"
 style="width:6.26772in;height:3.51389in" />
 
 ## 4.8.2. Software Architecture Container Diagrams.
 
-<img src="./media/image48.png"
+<img src="./media/image35.png"
 style="width:6.26772in;height:2.97222in" />
 
 ## 4.8.3. Software Architecture Components Diagrams.
 
-<img src="./media/image103.png"
+<img src="./media/image94.png"
 style="width:6.26772in;height:4.98611in" />
 
 # 4.9. Software Object-Oriented Design.
 
 ## 4.9.1. Class Diagrams.
 
-<img src="./media/image25.png"
+<img src="./media/image22.png"
 style="width:6.26772in;height:6.33333in" />
 
 ## 4.9.2. Class Dictionary.
@@ -2146,7 +2618,7 @@ style="width:6.26772in;height:6.33333in" />
   para el deployment y SQLIte para el testeo y desarrollo futuro local.
   A continuacion se mostrara la estructura ERD:
 
-<img src="./media/image39.png"
+<img src="./media/image42.png"
 style="width:6.26772in;height:5.76389in" />
 
 # **Diccionario de Datos – Diagrama Relacional:**
@@ -2898,46 +3370,226 @@ fuente hasta la publicación de cada uno de los productos digitales.
 
 ## 5.2.1.1.1. Sprint Planning 1.
 
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
+<table>
+  <tr>
+   <td><strong>Campo</strong>
+   </td>
+   <td><strong>Detalle</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Spring 1</strong>
+   </td>
+   <td><strong>Spring 1</strong>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" ><strong>Spring Planning Background</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Date
+   </td>
+   <td>2025-09-1
+   </td>
+  </tr>
+  <tr>
+   <td>Time
+   </td>
+   <td>10:00 AM
+   </td>
+  </tr>
+  <tr>
+   <td>Location
+   </td>
+   <td>Reunión virtual vía Microsoft Teams
+   </td>
+  </tr>
+  <tr>
+   <td>Prepared By
+   </td>
+   <td>Barturen Guzmán, Alejandro
+   </td>
+  </tr>
+  <tr>
+   <td>Attendees (to planning meeting)
+   </td>
+   <td>Barturen Guzmán, Alejandro / Beingolea Montalvo, Sebastián / Cuba Pareja, Joaquín / Jose Luis Martinez Valdivia
+   </td>
+  </tr>
+  <tr>
+   <td>Sprint 0 – Review Summary
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Sprint 0 – Retrospective Summary
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Sprint Goal
+   </td>
+   <td>MVP funcional con Landing básica, autenticación, listado/alta de productos.
+   </td>
+  </tr>
+  <tr>
+   <td>Sprint Velocity
+   </td>
+   <td>35 Story Points
+   </td>
+  </tr>
+  <tr>
+   <td>Sum of Story Points
+   </td>
+   <td>35 (US: 01, 02, 03, 04, 05, 06, 07, 08, 10, 18).
+   </td>
+  </tr>
+</table>
 
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
 
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
+
+<table>
+  <tr>
+   <td><strong>Spring 2</strong>
+   </td>
+   <td><strong>Spring 2</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Date
+   </td>
+   <td>2025-09-5
+   </td>
+  </tr>
+  <tr>
+   <td>Time
+   </td>
+   <td>10:00 AM
+   </td>
+  </tr>
+  <tr>
+   <td>Location
+   </td>
+   <td>Reunión virtual vía Microsoft Teams
+   </td>
+  </tr>
+  <tr>
+   <td>Prepared By
+   </td>
+   <td>Beingolea Montalvo, Sebastián
+   </td>
+  </tr>
+  <tr>
+   <td>Attendees (to planning meeting)
+   </td>
+   <td>Cuba Pareja, Joaquín / Beingolea Montalvo, Sebastián / Barturén Guzmán, Alejandro / Jose Luis Martinez Valdivia
+   </td>
+  </tr>
+  <tr>
+   <td>Sprint 1 – Review Summary
+   </td>
+   <td>login y LP listos; listado y alta operativos.
+   </td>
+  </tr>
+  <tr>
+   <td>Sprint 1 – Retrospective Summary
+   </td>
+   <td>PRs a tiempo; mejorar definición de criterios UI antes de iniciar.
+   </td>
+  </tr>
+  <tr>
+   <td>Sprint Goal
+   </td>
+   <td>Completar gestión avanzada de inventario (editar/eliminar), mejorar UX de consulta (búsqueda/paginación) y manejo de stock (mínimos/alertas).
+   </td>
+  </tr>
+  <tr>
+   <td>Sprint Velocity
+   </td>
+   <td>35 Story Points
+   </td>
+  </tr>
+  <tr>
+   <td>Sum of Story Points
+   </td>
+   <td>35
+   </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+   <td><strong>Spring 3</strong>
+   </td>
+   <td><strong>Spring 3</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Date
+   </td>
+   <td>2025-09-10
+   </td>
+  </tr>
+  <tr>
+   <td>Time
+   </td>
+   <td>10:00 AM
+   </td>
+  </tr>
+  <tr>
+   <td>Location
+   </td>
+   <td>Reunión virtual vía Microsoft Teams
+   </td>
+  </tr>
+  <tr>
+   <td>Prepared By
+   </td>
+   <td>Barturen Guzmán, Alejandro
+   </td>
+  </tr>
+  <tr>
+   <td>Attendees (to planning meeting)
+   </td>
+   <td>Barturen Guzmán, Alejandro / Beingolea Montalvo, Sebastián / Cuba Pareja, Joaquín / Jose Luis Martinez Valdivia
+   </td>
+  </tr>
+  <tr>
+   <td>Sprint 2 – Review Summary
+   </td>
+   <td>edición/eliminación y filtros listos; dashboard básico y mejoras UX entregadas; primeras optimizaciones API.
+   </td>
+  </tr>
+  <tr>
+   <td>Sprint 2 – Retrospective Summary
+   </td>
+   <td>fortalezas en PRs y pruebas; mejorar definición de contratos API antes de UI.
+   </td>
+  </tr>
+  <tr>
+   <td>Sprint Goal
+   </td>
+   <td>Cerrar operatividad y gobernanza: roles/permisos y documentación.
+   </td>
+  </tr>
+  <tr>
+   <td>Sprint Velocity
+   </td>
+   <td>35 Story Points
+   </td>
+  </tr>
+  <tr>
+   <td>Sum of Story Points
+   </td>
+   <td>34
+   </td>
+  </tr>
+</table>
 
 ## 
 
@@ -3027,89 +3679,959 @@ Name)</strong></th>
 
 ## 5.2.1.1.3. Sprint Backlog 1
 
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
+<table>
+  <tr>
+   <td colspan="2" ><strong>Spring 1</strong>
+   </td>
+   <td colspan="6" ><strong>Spring 1</strong>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" ><strong>User Story</strong>
+   </td>
+   <td colspan="3" ><strong>Work-Item / Task</strong>
+   </td>
+   <td><strong>Estimation (Hours)</strong>
+   </td>
+   <td><strong>Assigned To</strong>
+   </td>
+   <td><strong>Status</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Id</strong>
+   </td>
+   <td><strong>Title</strong>
+   </td>
+   <td><strong>Id</strong>
+   </td>
+   <td><strong>Title</strong>
+   </td>
+   <td><strong>Description</strong>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-01</strong>
+   </td>
+   <td>Página de inicio clara
+   </td>
+   <td>T-101
+   </td>
+   <td>LP – Hero + CTA
+   </td>
+   <td>Maquetar hero, copy y CTA inicial
+   </td>
+   <td>6
+   </td>
+   <td>Jose
+   </td>
+   <td>Done
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-02</strong>
+   </td>
+   <td>Sección “Sobre nosotros”
+   </td>
+   <td>T-102
+   </td>
+   <td>LP – About
+   </td>
+   <td>Sección about + responsivo básico
+   </td>
+   <td>4
+   </td>
+   <td>Sebastián
+   </td>
+   <td>Done
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-03</strong>
+   </td>
+   <td>Formulario de contacto
+   </td>
+   <td>T-103
+   </td>
+   <td>LP – Contact form
+   </td>
+   <td>Validación básica y confirmación
+   </td>
+   <td>6
+   </td>
+   <td>Joaquín
+   </td>
+   <td>In-Progress
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-04</strong>
+   </td>
+   <td>Landing responsive
+   </td>
+   <td>T-104
+   </td>
+   <td>LP – Responsive
+   </td>
+   <td>Breakpoints móviles y &lt;2s FCP
+   </td>
+   <td>5
+   </td>
+   <td>Sebastián
+   </td>
+   <td>Done
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-05</strong>
+   </td>
+   <td>Iniciar sesión
+   </td>
+   <td>T-105
+   </td>
+   <td>API Login (POST /auth/login)
+   </td>
+   <td>Credenciales + respuesta JWT
+   </td>
+   <td>6
+   </td>
+   <td>Alejandro
+   </td>
+   <td>Done
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-06</strong>
+   </td>
+   <td>Mensajes de error login
+   </td>
+   <td>T-106
+   </td>
+   <td>UX errores login
+   </td>
+   <td>Mapear códigos y mensajes claros
+   </td>
+   <td>3
+   </td>
+   <td>Joaquín
+   </td>
+   <td>Done
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-07</strong>
+   </td>
+   <td>Persistencia de sesión
+   </td>
+   <td>T-107
+   </td>
+   <td>Session keep-alive
+   </td>
+   <td>Refresh token / expiración
+   </td>
+   <td>4
+   </td>
+   <td>Alejandro
+   </td>
+   <td>Done
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-08</strong>
+   </td>
+   <td>Ver tabla inventario
+   </td>
+   <td>T-108
+   </td>
+   <td>GET /items + tabla
+   </td>
+   <td>Endpoint y consumo en tabla
+   </td>
+   <td>5
+   </td>
+   <td>Jose
+   </td>
+   <td>Done
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-10</strong>
+   </td>
+   <td>Agregar producto
+   </td>
+   <td>T-109
+   </td>
+   <td>POST /items + form
+   </td>
+   <td>Validaciones nombre/stock/precio
+   </td>
+   <td>6
+   </td>
+   <td>Alejandro
+   </td>
+   <td>Done
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-18</strong>
+   </td>
+   <td>Exportar inventario
+   </td>
+   <td>T-110
+   </td>
+   <td>Export CSV
+   </td>
+   <td>Exportación desde tabla
+   </td>
+   <td>3
+   </td>
+   <td>Equipo
+   </td>
+   <td>Done
+   </td>
+  </tr>
+</table>
 
 ## 5.2.1.1.4. Sprint Backlog 2
 
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
+<table>
+  <tr>
+   <td colspan="2" ><strong>Spring 2</strong>
+   </td>
+   <td colspan="6" ><strong>Spring 2</strong>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" ><strong>User Story</strong>
+   </td>
+   <td colspan="3" ><strong>Work-Item / Task</strong>
+   </td>
+   <td><strong>Estimation (Hours)</strong>
+   </td>
+   <td><strong>Assigned To</strong>
+   </td>
+   <td><strong>Status</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Id</strong>
+   </td>
+   <td><strong>Title</strong>
+   </td>
+   <td><strong>Id</strong>
+   </td>
+   <td><strong>Title</strong>
+   </td>
+   <td><strong>Description</strong>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-09</strong>
+   </td>
+   <td>Filtrar productos
+   </td>
+   <td>T-201
+   </td>
+   <td>API query + UI filtros
+   </td>
+   <td>name/category; barra de búsqueda
+   </td>
+   <td>6
+   </td>
+   <td>Jose
+   </td>
+   <td>Done
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-11</strong>
+   </td>
+   <td>Editar producto
+   </td>
+   <td>T-202
+   </td>
+   <td>PUT /items/{id} + form
+   </td>
+   <td>Edición parcial con validaciones
+   </td>
+   <td>6
+   </td>
+   <td>Sebastián
+   </td>
+   <td>Done
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-12</strong>
+   </td>
+   <td>Eliminar producto
+   </td>
+   <td>T-203
+   </td>
+   <td>DELETE /items/{id}
+   </td>
+   <td>Confirm modal + manejo de errores
+   </td>
+   <td>4
+   </td>
+   <td>Joaquín
+   </td>
+   <td>Done
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-13</strong>
+   </td>
+   <td>KPIs en dashboard
+   </td>
+   <td>T-204
+   </td>
+   <td>KPIs básicos
+   </td>
+   <td>Total ítems, bajo stock, rotación simple
+   </td>
+   <td>5
+   </td>
+   <td>Alejandro
+   </td>
+   <td>Done
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-14</strong>
+   </td>
+   <td>Tarjetas estadísticas
+   </td>
+   <td>T-205
+   </td>
+   <td>UI cards KPI
+   </td>
+   <td>Tarjetas responsivas en dashboard
+   </td>
+   <td>4
+   </td>
+   <td>Sebastián
+   </td>
+   <td>Done
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-15</strong>
+   </td>
+   <td>Navegación sidebar
+   </td>
+   <td>T-206
+   </td>
+   <td>Sidebar + estados
+   </td>
+   <td>Activo/colapsable en móvil
+   </td>
+   <td>3
+   </td>
+   <td>Joaquín
+   </td>
+   <td>Done
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-16</strong>
+   </td>
+   <td>Interfaz responsive
+   </td>
+   <td>T-207
+   </td>
+   <td>Layout adaptativo
+   </td>
+   <td>Ajustes grid y breakpoints
+   </td>
+   <td>4
+   </td>
+   <td>Jose
+   </td>
+   <td>Done
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-17</strong>
+   </td>
+   <td>Validación formularios
+   </td>
+   <td>T-208
+   </td>
+   <td>Validación genérica
+   </td>
+   <td>Reglas comunes en forms
+   </td>
+   <td>3
+   </td>
+   <td>Equipo
+   </td>
+   <td>Done
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-25</strong>
+   </td>
+   <td>API &lt;1s / 100 concurrentes
+   </td>
+   <td>T-209
+   </td>
+   <td>Perf & caching
+   </td>
+   <td>Índices, compresión, cache headers
+   </td>
+   <td>5
+   </td>
+   <td>Alejandro
+   </td>
+   <td>Done
+   </td>
+  </tr>
+</table>
 
 ## 5.2.1.1.5. Sprint Backlog 3
 
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
+<table>
+  <tr>
+   <td colspan="2" ><strong>Spring 3</strong>
+   </td>
+   <td colspan="6" ><strong>Spring 3</strong>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" ><strong>User Story</strong>
+   </td>
+   <td colspan="3" ><strong>Work-Item / Task</strong>
+   </td>
+   <td><strong>Estimation (Hours)</strong>
+   </td>
+   <td><strong>Assigned To</strong>
+   </td>
+   <td><strong>Status</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Id</strong>
+   </td>
+   <td><strong>Title</strong>
+   </td>
+   <td><strong>Id</strong>
+   </td>
+   <td><strong>Title</strong>
+   </td>
+   <td><strong>Description</strong>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-19</strong>
+   </td>
+   <td>Notificación stock bajo
+   </td>
+   <td>T-301
+   </td>
+   <td>Alertas de stock
+   </td>
+   <td>Umbral configurable y badge en UI
+   </td>
+   <td>5
+   </td>
+   <td>Joaquín
+   </td>
+   <td>To-Do
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-20</strong>
+   </td>
+   <td>Búsqueda avanzada
+   </td>
+   <td>T-302
+   </td>
+   <td>Filtros combinados
+   </td>
+   <td>name/category/min/max/stock
+   </td>
+   <td>6
+   </td>
+   <td>Alejandro
+   </td>
+   <td>In-Process
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-21</strong>
+   </td>
+   <td>API segura login
+   </td>
+   <td>T-303
+   </td>
+   <td>Auth JWT hardening
+   </td>
+   <td>Refresh/blacklist/rotación
+   </td>
+   <td>5
+   </td>
+   <td>Jose
+   </td>
+   <td>Done
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-22</strong>
+   </td>
+   <td>Persistencia en BD
+   </td>
+   <td>T-304
+   </td>
+   <td>Integración ORM/DB
+   </td>
+   <td>Migraciones y repositorios
+   </td>
+   <td>6
+   </td>
+   <td>Alejandro
+   </td>
+   <td>To-Review
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-23</strong>
+   </td>
+   <td>Validación de roles
+   </td>
+   <td>T-305
+   </td>
+   <td>RBAC en endpoints
+   </td>
+   <td>Guards por rol Admin/Viewer
+   </td>
+   <td>5
+   </td>
+   <td>Sebastián
+   </td>
+   <td>Done
+   </td>
+  </tr>
+  <tr>
+   <td><strong>US-24</strong>
+   </td>
+   <td>CRUD conectado backend
+   </td>
+   <td>T-306
+   </td>
+   <td>Integración CRUD completa
+   </td>
+   <td>Items end-to-end + errores
+   </td>
+   <td>8
+   </td>
+   <td>Jose
+   </td>
+   <td>Done
+   </td>
+  </tr>
+</table>
+
 
 ## 5.2.1.1.6. Development Evidence for Sprint Review
 
 Spring 1
 
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
+<table>
+  <tr>
+   <td><strong>Repository</strong>
+   </td>
+   <td><strong>Branch</strong>
+   </td>
+   <td><strong>Commit Id</strong>
+   </td>
+   <td><strong>Commit Message</strong>
+   </td>
+   <td><strong>Commit Message Body</strong>
+   </td>
+   <td><strong>Committed on (Date)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-backend
+   </td>
+   <td>feature/sprint1
+   </td>
+   <td><strong>9a3c1f2</strong>
+   </td>
+   <td>feat(auth): POST /auth/login (US-05)
+   </td>
+   <td>Valida credenciales, emite JWT y códigos de error claros
+   </td>
+   <td>2025-09-1
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-frontend
+   </td>
+   <td>feature/sprint1
+   </td>
+   <td><strong>b7e42d9</strong>
+   </td>
+   <td>feat(ui): login form + errores (US-05, US-06)
+   </td>
+   <td>Form + estados de error; limpia mensaje al reintentar
+   </td>
+   <td>2025-09-1
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-backend
+   </td>
+   <td>feature/sprint1
+   </td>
+   <td><strong>c41ed77</strong>
+   </td>
+   <td>feat(items): GET /items (US-08)
+   </td>
+   <td>Lista con orden y paginación simple
+   </td>
+   <td>2025-09-1
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-frontend
+   </td>
+   <td>feature/sprint1
+   </td>
+   <td><strong>d2a9c0b</strong>
+   </td>
+   <td>feat(ui): tabla inventario (US-08)
+   </td>
+   <td>Tabla reactiva, loading y vacíos
+   </td>
+   <td>2025-09-2
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-backend
+   </td>
+   <td>feature/sprint1
+   </td>
+   <td><strong>e8f0a61</strong>
+   </td>
+   <td>feat(items): POST /items (US-10)
+   </td>
+   <td>Validaciones y respuestas 4xx/5xx
+   </td>
+   <td>2025-09-2
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-frontend
+   </td>
+   <td>feature/sprint1
+   </td>
+   <td><strong>a52c9de</strong>
+   </td>
+   <td>feat(lp): hero/about/contact (US-01, US-02, US-03)
+   </td>
+   <td>Secciones base + estilos
+   </td>
+   <td>2025-09-3
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-frontend
+   </td>
+   <td>feature/sprint1
+   </td>
+   <td><strong>f13b8a4</strong>
+   </td>
+   <td>perf(lp): responsive & FCP&lt;2s (US-04)
+   </td>
+   <td>Media queries y optimización assets
+   </td>
+   <td>2025-09-4
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-frontend
+   </td>
+   <td>feature/sprint1
+   </td>
+   <td><strong>ab92f77</strong>
+   </td>
+   <td>feat(export): CSV desde tabla (US-18)
+   </td>
+   <td>Exportación de inventario
+   </td>
+   <td>2025-09-4
+   </td>
+  </tr>
+</table>
 
 Spring 2
 
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
+<table>
+  <tr>
+   <td><strong>Repository</strong>
+   </td>
+   <td><strong>Branch</strong>
+   </td>
+   <td><strong>Commit Id</strong>
+   </td>
+   <td><strong>Commit Message</strong>
+   </td>
+   <td><strong>Commit Message Body</strong>
+   </td>
+   <td><strong>Committed on (Date)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-backend
+   </td>
+   <td>feature/sprint2
+   </td>
+   <td><strong>0f9ab12</strong>
+   </td>
+   <td>feat(items): filtros y búsqueda (US-09)
+   </td>
+   <td>Query params
+   </td>
+   <td>2025-09-5
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-frontend
+   </td>
+   <td>feature/sprint2
+   </td>
+   <td><strong>13c97e0</strong>
+   </td>
+   <td>feat(ui): filtros + búsqueda (US-09)
+   </td>
+   <td>Inputs y combinación de filtros
+   </td>
+   <td>2025-09-5
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-backend
+   </td>
+   <td>feature/sprint2
+   </td>
+   <td><strong>2b4fa88</strong>
+   </td>
+   <td>feat(items): PUT /items/{id} (US-11)
+   </td>
+   <td>Validación y actualización parcial
+   </td>
+   <td>2025-09-5
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-frontend
+   </td>
+   <td>feature/sprint2
+   </td>
+   <td><strong>44b1e52</strong>
+   </td>
+   <td>feat(ui): editar producto (US-11)
+   </td>
+   <td>Form inline + snackbar
+   </td>
+   <td>2025-09-6
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-backend
+   </td>
+   <td>feature/sprint2
+   </td>
+   <td><strong>39c2d55</strong>
+   </td>
+   <td>feat(items): DELETE /items/{id} (US-12)
+   </td>
+   <td>Soft delete + 404 si no existe
+   </td>
+   <td>2025-09-6
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-backend
+   </td>
+   <td>feature/sprint2
+   </td>
+   <td><strong>5e8ba4a</strong>
+   </td>
+   <td>feat(kpi): servicio KPIs (US-13)
+   </td>
+   <td>Totales, bajo stock, rotación
+   </td>
+   <td>2025-09-7
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-frontend
+   </td>
+   <td>feature/sprint2
+   </td>
+   <td><strong>4a7c1c3</strong>
+   </td>
+   <td>feat(ui): tarjetas KPI (US-14)
+   </td>
+   <td>Cards responsive
+   </td>
+   <td>2025-09-8
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-backend
+   </td>
+   <td>feature/sprint2
+   </td>
+   <td><strong>6cd4e9f</strong>
+   </td>
+   <td>perf(api): &lt;1s + gzip + índices (US-25)
+   </td>
+   <td>Índices DB, gzip, cache-control
+   </td>
+   <td>2025-09-9
+   </td>
+  </tr>
+</table>
+
 
 Spring 3
 
-||
-||
-||
-||
-||
-||
-||
-||
-||
+<table>
+  <tr>
+   <td><strong>Repository</strong>
+   </td>
+   <td><strong>Branch</strong>
+   </td>
+   <td><strong>Commit Id</strong>
+   </td>
+   <td><strong>Commit Message</strong>
+   </td>
+   <td><strong>Commit Message Body</strong>
+   </td>
+   <td><strong>Committed on (Date)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-backend
+   </td>
+   <td>feature/sprint3
+   </td>
+   <td><strong>71c9e0a</strong>
+   </td>
+   <td>feat(alerts): low-stock notifications (US-19)
+   </td>
+   <td>Umbral y endpoint para alertas
+   </td>
+   <td>2025-09-210
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-backend
+   </td>
+   <td>feature/sprint3
+   </td>
+   <td><strong>82b4f1d</strong>
+   </td>
+   <td>feat(search): filtros combinados (US-20)
+   </td>
+   <td>name/category/price/stock range
+   </td>
+   <td>2025-09-210
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-backend
+   </td>
+   <td>feature/sprint3
+   </td>
+   <td><strong>93a1d5b</strong>
+   </td>
+   <td>feat(auth): refresh/blacklist (US-21)
+   </td>
+   <td>Rotación tokens y revocación
+   </td>
+   <td>2025-09-210
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-backend
+   </td>
+   <td>feature/sprint3
+   </td>
+   <td><strong>a4d8c20</strong>
+   </td>
+   <td>feat(db): migraciones y repos (US-22)
+   </td>
+   <td>Persistencia y seeds
+   </td>
+   <td>2025-09-211
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-backend
+   </td>
+   <td>feature/sprint3
+   </td>
+   <td><strong>b5f0a66</strong>
+   </td>
+   <td>feat(auth): RBAC guards (US-23)
+   </td>
+   <td>Roles Admin/Viewer en endpoints
+   </td>
+   <td>2025-09-212
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-frontend
+   </td>
+   <td>feature/sprint3
+   </td>
+   <td><strong>c6a7e19</strong>
+   </td>
+   <td>feat(ui): integración CRUD completa (US-24)
+   </td>
+   <td>Create / Read / Update/ Delete
+   </td>
+   <td>2025-09-213
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-backend
+   </td>
+   <td>feature/sprint3
+   </td>
+   <td><strong>d7c4b2e</strong>
+   </td>
+   <td>chore(api): contratos OpenAPI actualizados
+   </td>
+   <td>Documenta endpoints actuales
+   </td>
+   <td>2025-09-213
+   </td>
+  </tr>
+</table>
 
 ## 5.2.1.1.7. Services Documentation Evidence for Sprint Review
 
@@ -3243,28 +4765,378 @@ Commits vinculados a documentación:
 
 Servicios avanzados: edición/eliminación de items y catálogo auxiliar.
 
-||
-||
-||
-||
-||
+<table>
+  <tr>
+   <td>Método
+   </td>
+   <td>Path
+   </td>
+   <td>Sintaxis
+   </td>
+   <td>Parámetros
+   </td>
+   <td>Ejemplo Request
+   </td>
+   <td>Ejemplo Response
+   </td>
+  </tr>
+  <tr>
+   <td>PUT
+   </td>
+   <td>/api/items/{id}/
+   </td>
+   <td>PUT {baseURL}/api/items/{id}/
+   </td>
+   <td>path: id
+   </td>
+   <td>{ \
+	"item_name": "Airpods", \
+	"description": "Latest Apple Airpods", \
+	"current_quantity": 50, \
+	"minimum_stock_level": 3, \
+	"unit_price": "545.00", \
+	"supplier": 1, \
+	"category": 1 \
+}
+   </td>
+   <td>{ \
+	"id": 9, \
+	"supplier_name": "TechCorp", \
+	"category_name": "Electronics", \
+	"item_name": "Airpods", \
+	"current_quantity": 50, \
+	"minimum_stock_level": 3, \
+	"unit_price": "545.00", \
+	"description": "Latest Apple Airpods", \
+	"supplier": 1, \
+	"category": 1 \
+}
+   </td>
+  </tr>
+  <tr>
+   <td>DELETE
+   </td>
+   <td>/api/items/{id}/
+   </td>
+   <td>DELETE {baseURL}/api/items/{id}/
+   </td>
+   <td>path: id
+   </td>
+   <td>{ \
+	"item_name": "Airpods", \
+	"description": "Latest Apple Airpods", \
+	"current_quantity": 50, \
+	"minimum_stock_level": 3, \
+	"unit_price": "545.00", \
+	"supplier": 1, \
+	"category": 1 \
+}
+   </td>
+   <td>—
+   </td>
+  </tr>
+  <tr>
+   <td>GET
+   </td>
+   <td>/api/categories/
+   </td>
+   <td>GET {baseURL}/api/categories/
+   </td>
+   <td>—
+   </td>
+   <td>—
+   </td>
+   <td>[ \
+	{ \
+    	"id": 1, \
+    	"category_name": "Electronics" \
+	}, \
+	{ \
+    	"id": 2, \
+    	"category_name": "Office Supplies" \
+	}, \
+	{ \
+    	"id": 3, \
+    	"category_name": "Tools" \
+	}, \
+	{ \
+    	"id": 4, \
+    	"category_name": "Materials" \
+	}, \
+	{ \
+    	"id": 5, \
+    	"category_name": "Equipment" \
+	} \
+]
+   </td>
+  </tr>
+</table>
 
 Commits vinculados a documentación:
 
-||
-||
-||
-||
+<table>
+  <tr>
+   <td>Repository
+   </td>
+   <td>Branch
+   </td>
+   <td>Commit Id
+   </td>
+   <td>Commit Message
+   </td>
+   <td>Commit Message Body
+   </td>
+   <td>Committed on
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-backend
+   </td>
+   <td>feature/sprint2
+   </td>
+   <td>4bc17a2
+   </td>
+   <td>docs(openapi): items PUT/DELETE
+   </td>
+   <td>Paths /api/items/{id} con respuestas 200/404/409
+   </td>
+   <td>2025-09-14
+   </td>
+  </tr>
+  <tr>
+   <td>user/inventorypro-backend
+   </td>
+   <td>feature/sprint2
+   </td>
+   <td>6a2c9fd
+   </td>
+   <td>docs(openapi): filtros & paginación
+   </td>
+   <td>Parámetros name,category,page,size
+   </td>
+   <td>2025-09-14
+   </td>
+  </tr>
+</table>
 
 Servicios complementarios: proveedores/usuarios/
 
-||
-||
-||
-||
-||
-||
-||
+<table>
+  <tr>
+   <td>Método
+   </td>
+   <td>Path
+   </td>
+   <td>Sintaxis
+   </td>
+   <td>Parámetros
+   </td>
+   <td>Ejemplo Request
+   </td>
+   <td>Ejemplo Response
+   </td>
+  </tr>
+  <tr>
+   <td>GET
+   </td>
+   <td>/api/suppliers/
+   </td>
+   <td>GET {baseURL}/api/suppliers/
+   </td>
+   <td>—
+   </td>
+   <td>—
+   </td>
+   <td>[ \
+	{ \
+    	"id": 1, \
+    	"company_name": "blablabla studios", \
+    	"supplier_name": "TechCorp", \
+    	"ruc_n": "20123456789", \
+    	"address": "", \
+    	"company": 1 \
+	}, \
+	{ \
+    	"id": 2, \
+    	"company_name": "blablabla studios", \
+    	"supplier_name": "PaperPlus", \
+    	"ruc_n": "20987654321", \
+    	"address": "", \
+    	"company": 1 \
+	}, \
+	{ \
+    	"id": 3, \
+    	"company_name": "blablabla studios", \
+    	"supplier_name": "ToolMaster", \
+    	"ruc_n": "20321654987", \
+        "address": "", \
+    	"company": 1 \
+	}, \
+	{ \
+    	"id": 4, \
+    	"company_name": "blablabla studios", \
+    	"supplier_name": "MetalWorks", \
+    	"ruc_n": "20654321789", \
+    	"address": "", \
+    	"company": 1 \
+	}, \
+	{ \
+    	"id": 5, \
+    	"company_name": "blablabla studios", \
+    	"supplier_name": "ErgoDesk", \
+    	"ruc_n": "4645645654645", \
+    	"address": "edadadsdsa", \
+    	"company": 1 \
+	}, \
+	{ \
+    	"id": 6, \
+    	"company_name": "blablabla studios", \
+ 	   "supplier_name": "SafetyFirst", \
+    	"ruc_n": "3434343434", \
+    	"address": "", \
+    	"company": 1 \
+	}, \
+	{ \
+    	"id": 8, \
+    	"company_name": "bla …
+   </td>
+  </tr>
+  <tr>
+   <td>POST
+   </td>
+   <td>/api/suppliers/
+   </td>
+   <td>POST {baseURL}/api/suppliers/
+   </td>
+   <td>—
+   </td>
+   <td>{ \
+	"company_name": "blablabla studios", \
+	"supplier_name": "CoolMaster", \
+	"ruc_n": "20321654965", \
+	"address": "", \
+	"company": 1 \
+}
+   </td>
+   <td>{ \
+	"id": 9, \
+	"company_name": "blablabla studios", \
+	"supplier_name": "CoolMaster", \
+	"ruc_n": "20321654965", \
+	"address": "", \
+	"company": 1 \
+}
+   </td>
+  </tr>
+  <tr>
+   <td>PUT
+   </td>
+   <td>/api/suppliers/{id}/
+   </td>
+   <td>PUT {baseURL}/api/suppliers/{id}/
+   </td>
+   <td>path: id
+   </td>
+   <td>{ \
+	"company_name": "blablabla studios", \
+	"supplier_name": "CoolMasterReload", \
+	"ruc_n": "20321654965", \
+	"address": "", \
+	"company": 1 \
+}
+   </td>
+   <td>{ \
+	"id": 9, \
+	"company_name": "blablabla studios", \
+	"supplier_name": "CoolMasterReload", \
+	"ruc_n": "20321654965", \
+	"address": "", \
+	"company": 1 \
+}
+   </td>
+  </tr>
+  <tr>
+   <td>DELETE
+   </td>
+   <td>/api/suppliers/{id}/
+   </td>
+   <td>DELETE {baseURL}/api/suppliers/{id}/
+   </td>
+   <td>path: id
+   </td>
+   <td>{ \
+	"company_name": "blablabla studios", \
+	"supplier_name": "CoolMasterReload", \
+	"ruc_n": "20321654965", \
+	"address": "", \
+	"company": 1 \
+}
+   </td>
+   <td>—
+   </td>
+  </tr>
+  <tr>
+   <td>GET
+   </td>
+   <td>/api/users/
+   </td>
+   <td>GET {baseURL}/api/users/
+   </td>
+   <td>—
+   </td>
+   <td>—
+   </td>
+   <td>[ \
+	{ \
+    	"id": 4, \
+    	"username": "Employee123", \
+    	"email": "Employee123@gmail.com", \
+    	"company": 1, \
+    	"company_name": "blablabla studios", \
+    	"groups": [ \
+        	{ \
+            	"id": 3, \
+            	"name": "Employee" \
+        	} \
+    	] \
+	}, \
+	{ \
+    	"id": 3, \
+    	"username": "your_username", \
+    	"email": "your_email@example.com", \
+    	"company": 1, \
+    	"company_name": "blablabla studios", \
+    	"groups": [ \
+        	{ \
+            	"id": 1, \
+            	"name": "Manager" \
+        	} \
+    	] \
+	}, \
+	{ \
+    	"id": 2, \
+    	"username": "manager123", \
+    	"email": "manager123@gmail.com", \
+    	"company": 1, \
+    	"company_name": "blablabla studios", \
+    	"groups": [ \
+        	{ \
+            	"id": 1, \
+            	"name": "Manager" \
+        	} \
+    	] \
+	}, \
+	{ \
+    	"id": 1, \
+    	"username": "admin@gmail.com", \
+    	"email": "admin@gmail.com", \
+    	"company": null, \
+    	"groups": [] \
+	} \
+]
+   </td>
+  </tr>
+</table>
 
 Commits vinculados a documentación:
 
@@ -3294,10 +5166,10 @@ PRs.
 ||
 ||
 
-<img src="./media/image35.png"
+<img src="./media/image34.png"
 style="width:6.26772in;height:3.34722in" />
 
-<img src="./media/image27.png"
+<img src="./media/image23.png"
 style="width:6.26772in;height:1.73611in" />
 
 ## 
@@ -3315,21 +5187,21 @@ style="width:6.26772in;height:1.73611in" />
 - **Home Section:**
 
 > **  **
-> <img src="./media/image24.png"
+> <img src="./media/image19.png"
 > style="width:4.3908in;height:3.93859in" />**  **
 
 - **Features Overview:**
 
-> <img src="./media/image2.png" style="width:5.30885in;height:4.125in" />**  **
+> <img src="./media/image12.png" style="width:5.30885in;height:4.125in" />**  **
 
 - **Prices:**
 
-> <img src="./media/image19.png"
+> <img src="./media/image36.png"
 > style="width:5.64337in;height:3.49664in" />**  **
 
 - **Footer:**
 
-> <img src="./media/image23.png"
+> <img src="./media/image9.png"
 > style="width:5.34896in;height:5.16237in" />
 >
 > **Video Demonstration:**
@@ -3347,21 +5219,21 @@ style="width:6.26772in;height:1.73611in" />
 
 - **Manager Section**
 
-> <img src="./media/image8.png"
+> <img src="./media/image13.png"
 > style="width:5.49178in;height:4.57813in" />
 >
-> <img src="./media/image4.png"
+> <img src="./media/image6.png"
 > style="width:5.50157in;height:5.40104in" />**  
 >   **
-> <img src="./media/image5.png"
+> <img src="./media/image3.png"
 > style="width:5.27526in;height:4.70313in" />
 
 - **Employee Section:  **
 
-> <img src="./media/image36.png"
+> <img src="./media/image21.png"
 > style="width:4.80787in;height:4.81745in" />**  **
 >
-> <img src="./media/image54.png"
+> <img src="./media/image57.png"
 > style="width:4.86746in;height:4.85938in" />
 >
 > **Video Demonstration:  **
@@ -3384,7 +5256,7 @@ style="width:6.26772in;height:1.73611in" />
 
 - **Admin Panel (Django):  
     **
-  <img src="./media/image58.png"
+  <img src="./media/image41.png"
   style="width:5.44271in;height:3.25478in" />
 
 - **API Endpoints Tested (Postman):  
@@ -3392,7 +5264,7 @@ style="width:6.26772in;height:1.73611in" />
 
 - **Database Tables Overview:  
     **
-  <img src="./media/image61.png"
+  <img src="./media/image48.png"
   style="width:5.18229in;height:5.69019in" />
 
 > **Video Demonstration:  **
@@ -3407,15 +5279,37 @@ style="width:6.26772in;height:1.73611in" />
 | /api/items/ | **GET**, **POST** | GET/POST http://backend-e5e8.onrender.com/api/items/ | GET: sin parámetros POST: name, price, stock |
 | /api/items/{id}/ | **PUT**, **DELETE** | PUT/DELETE http://backend-e5e8.onrender.com/api/items/{id}/ | Path param: {id} (int) |
 
-<img src="./media/image60.png"
+<img src="./media/image66.png"
 style="width:6.26772in;height:2.88889in" />
 
-<img src="./media/image79.png"
+<img src="./media/image75.png"
 style="width:6.26772in;height:2.80556in" />
 
 ## 5.2.8. Team Collaboration Insights
 
 # **5.3. Video About-the-Product.**
+
+En esta sección presentamos el Video About-the-Product, orientado a los
+visitantes de nuestro Landing Page y a los usuarios potenciales de las
+aplicaciones de la solución.
+
+El video resume el modelo de negocio de la startup, describe las
+principales características y beneficios de los productos desarrollados
+e incluye escenas de interacción real con el software. Además, se
+incorpora el testimonio positivo de un usuario que participó en las
+entrevistas de validación, destacando la facilidad de uso y la utilidad
+de la solución.
+
+A continuación, se muestra un screenshot del video junto con los enlaces
+a las versiones publicadas en OneDrive y YouTube, así como la duración
+total del mismo.
+
+<img src="./media/image63.png"
+style="width:6.26772in;height:3.44444in" />
+
+Link del video:
+
+[<u>https://upcedupe-my.sharepoint.com/personal/u201621281_upc_edu_pe/\_layouts/15/stream.aspx?sw=bypass&bypassReason=abandoned&id=%2Fpersonal%2Fu201621281_upc_edu_pe%2FDocuments%2FDisenoDeExperimentos-InventoryPro%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E097afc11-bc72-4c26-bc6c-5b87f2b9fa9e</u>](https://upcedupe-my.sharepoint.com/personal/u201621281_upc_edu_pe/_layouts/15/stream.aspx?sw=bypass&bypassReason=abandoned&id=%2Fpersonal%2Fu201621281_upc_edu_pe%2FDocuments%2FDisenoDeExperimentos-InventoryPro%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E097afc11-bc72-4c26-bc6c-5b87f2b9fa9e)
 
 # **Conclusiones.**
 
@@ -3436,13 +5330,13 @@ style="width:6.26772in;height:2.80556in" />
 <!-- -->
 
 - El análisis de la competencia nos permitió identificar un nicho de
-  mercado muy especifico. Esta estrategia es clave para diferenciar a
+  mercado muy específico. Esta estrategia es clave para diferenciar a
   InventoryPro de otras soluciones más complejas y costosas, ofreciendo
   una herramienta accesible y específica para las tiendas de abarrotes.
 
 # **Anexos.**
 
-# **Bibliografia.**
+# **Bibliografía.**
 
 Alegra. (s. f.). [<u>https://www.alegra.com</u>](https://www.alegra.com)
 
