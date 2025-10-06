@@ -40,19 +40,23 @@ Project Report Collaboration Insights
 
 **Report**
 
-<img src="./media/image43.png"
+<img src="./media/image130.png"
 style="width:6.26772in;height:1.51389in" />
 
 **Frontend**
 
-<img src="./media/image87.png"
+<img src="./media/image131.png"
 style="width:6.26772in;height:1.70833in" />
 
 **Backend**
 
-<img src="./media/image44.png"
+<img src="./media/image132.png"
 style="width:6.26772in;height:1.52778in" />
 
+**Movil**
+
+<img src="./media/image133.png"
+style="width:6.26772in;height:1.52778in" />
 Contenido
 
 **<span class="mark">Student Outcome</span>**
@@ -401,98 +405,10 @@ Contenido
 
 StudentOutcome
 
-<table>
-  <tr>
-   <td>Criterio específico
-   </td>
-   <td>Acciones Realizadas
-   </td>
-   <td>Conclusiones
-   </td>
-  </tr>
-  <tr>
-   <td><strong>4.c.1 Reconoce responsabilidad</strong>
-<p>
-<strong>ética y profesional en</strong>
-<p>
-<strong>situaciones de ingeniería de</strong>
-<p>
-<strong>software</strong>
-   </td>
-   <td><strong>TB1</strong>
-<p>
-<strong>Barturen Guzman, Alejandro Nicolas</strong>
-<p>
-<strong>  </strong>
-<p>
-<strong>Beingolea Montalvo Sebastián Martín </strong>
-<p>
-Me encargue de desarrollar todo lo que tiene que ver con mobile y también los diagramas de contexto de contenedores y de componentes
-<p>
-<strong>Cuba Pareja Joaquin</strong>
-<p>
-Desarrollo Mobile, documentación de los springs y RESTFul API documentation
-<p>
-<strong>Martinez Valdivia Jose Luis </strong>
-   </td>
-   <td><strong>TB1</strong>
-<p>
-<strong>Barturen Guzman, Alejandro Nicolas</strong>
-<p>
-<strong>  </strong>
-<p>
-<strong>Beingolea Montalvo Sebastián Martín </strong>
-<p>
-En esta etapa de desarrollo note que es muy importante el trabajo en equipo como también la coherencia entre el mobile y la web también el hecho de que los diagrama te ayudan a ver de mejor forma la app.
-<p>
-<strong>Cuba Pareja Joaquin</strong>
-<p>
-Se reconoce que la ética se plantea directamente en el desarrollo de software al encontrarse con el desarrollo correcto de manejo de datos en el software.
-<p>
-<strong>Martinez Valdivia Jose Luis </strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>4.c.2 Emite juicios informados considerando el impacto de las</strong>
-<p>
-<strong>soluciones de ingeniería de</strong>
-<p>
-<strong>software en contextos globales,</strong>
-<p>
-<strong>económicos, ambientales y</strong>
-<p>
-<strong>sociales</strong>
-   </td>
-   <td><strong>TB1</strong>
-<p>
-<strong>Barturen Guzman, Alejandro Nicolas</strong>
-<p>
-<strong>  </strong>
-<p>
-<strong>Beingolea Montalvo Sebastián Martín </strong>
-<p>
-Me encargue de desarrollar todo lo que tiene que ver con mobile y también los diagramas de contexto de contenedores y de componentes
-<p>
-<strong>Cuba Pareja Joaquin </strong>
-<p>
-<strong>Martinez Valdivia Jose Luis </strong>
-   </td>
-   <td><strong>TB1</strong>
-<p>
-<strong>Barturen Guzman, Alejandro Nicolas</strong>
-<p>
-<strong>  </strong>
-<p>
-<strong>Beingolea Montalvo Sebastián Martín </strong>
-<p>
-En esta etapa de desarrollo note que es muy importante el trabajo en equipo como también la coherencia entre el mobile y la web también el hecho de que los diagrama te ayudan a ver de mejor forma la app. Tambien el desarrollo de esta aplicación tendra un gran impacto en los sistemas de inventario.
-<p>
-<strong>Cuba Pareja Joaquin </strong>
-<p>
-<strong>Martinez Valdivia Jose Luis </strong>
-   </td>
-  </tr>
-</table>
+| Criterio específico  | Accione            Realizadas    |Conclusiones    |
+|--------|------|---|
+ 4.c.1 Reconoce responsabilidad ética y profesional en situaciones de ingeniería de software                                                                  | TP1 Beingolea Montalvo Sebastian Martin: Me encargue de realizar los test respectivos del todo el proyecto. TB1 Barturen Guzman, Alejandro Nicolas Me encargue del desarrollo de la documentación como el definir las entrevistas o las bases del proyecto , para que mis definiciones y desarrollo del startup sea lo más fiel a la realidad tuve que poner un contexto realista con sus respectivas normas eticas    Beingolea Montalvo Sebastián Martín  Me encargue de desarrollar todo lo que tiene que ver con mobile y también los diagramas de contexto de contenedores y de componentes Cuba Pareja Joaquin Desarrollo Mobile, documentación de los springs y RESTFul API documentation Martinez Valdivia Jose Luis  Me encarga del desarrollo del frontend y backend del aplicativo web. Realize el deployment y testeo de endoinpts. TP Barturen Guzman, Alejandro Nicolas En esta entrega me encargue del desarrollo del capitulo 7 tuve que realizar el proyecto tomando en cuenta todas las herramientas profesionales que se necesitan para realizar el trabajo de la manera mas eficiente y realista posible   Martinez Valdivia Jose Luis En esta entrega me encargue de implementar los cambios pertinentes señalados en la entrega del TB1.                | En conjunto, el proyecto fortaleció nuestras habilidades técnicas y éticas, destacando la importancia del trabajo en equipo, la coherencia entre plataformas y el uso de pruebas y diagramas para mejorar la calidad del software y garantizar un desarrollo responsable.                                                                             |
+| 4.c.2 Emite juicios informados considerando el impacto de las soluciones de ingeniería de software en contextos globales, económicos, ambientales y sociales | TP1 Beingolea Montalvo Sebastian Martin: Me encargue de realizar los test respectivos del todo el proyecto. TB1 Barturen Guzman, Alejandro Nicolas Me encargue del desarrollo de la documentación como el definir las entrevistas o las bases del proyecto, para llevar  a cabo satisfactoriamente este proyecto tome en cuenta los posibles escenarios y sectores  en los que impacta el proyecto una vez desarrollado   Beingolea Montalvo Sebastián Martín  Me encargue de desarrollar todo lo que tiene que ver con mobile y también los diagramas de contexto de contenedores y de componentes Cuba Pareja Joaquin  Martinez Valdivia Jose Luis  Tome en cuenta los escenarios y usuarios a lso cuales esta dirigido el aplicativo web. Se adapto a las necesidades del publico objetivo. TP Barturen Guzman, Alejandro Nicolas En esta entrega me encargue del desarrollo del capitulo 7 , para realizar esta parte  tome en cuenta el contexto global en el sentido de cuales son los softwares mas usados en el presente , para que encajen perfectamente con nuestro proyecto y que use tecnologias actuales  Martinez Valdivia Jose Luis  Tome en cuenta los puntos a mejorar en cuanto al diseño y usabilidad del aplicativo web y se implemento en la plataforma. | Durante esta etapa se consolidó la importancia del trabajo colaborativo y la coherencia entre plataformas, logrando un código más estable y testeable. La aplicación de buenas prácticas de pruebas permitió detectar y corregir errores de raíz, fortaleciendo la calidad del sistema e impulsando un impacto positivo en la gestión de inventarios. |
 
 Capítulo I: Introducción
 
@@ -1723,56 +1639,74 @@ Mapping</u>](https://miro.com/app/board/uXjVJL9XI3s=/?share_link_id=891875236003
 | **US-03** | Landing Page | Como visitante, quiero un formulario de contacto. | **Escenario 1:** Dado que completo el formulario, cuando envío datos válidos, entonces recibo confirmación de envío.**Escenario 2:** Dado que ingreso un email inválido, cuando presiono enviar, entonces debo recibir un mensaje de error. |
 | **US-04** | Landing Page | Como visitante, quiero que la landing sea responsive. | **Escenario 1:** Dado que ingreso desde distintos dispositivos, cuando se carga la página, entonces el diseño debe adaptarse.**Escenario 2:** Dado que la página carga, cuando se mide el tiempo de respuesta, entonces debe ser menor a 2s. |
 | **US-05** | Frontend (Auth) | Como usuario, quiero iniciar sesión con correo y contraseña. | **Escenario 1:** Dado que ingreso credenciales correctas, cuando presiono “Login”, entonces debo acceder al dashboard.**Escenario 2:** Dado que ingreso credenciales inválidas, cuando intento loguear, entonces debo recibir un mensaje de error. |
-| **US-06** | Frontend (Auth) | Como usuario, quiero recibir mensajes de error claros en login. | **Escenario 1:** Dado que la contraseña es errónea, cuando presiono “Login”, entonces debo ver un mensaje claro de error.**Escenario 2:** Dado que intento nuevamente, cuando reingreso credenciales, entonces el mensaje anterior desaparece. |
-| **US-07** | Frontend (Auth) | Como admin, quiero que la sesión se mantenga activa. | **Escenario 1:** Dado que inicio sesión, cuando recargo la página, entonces debo seguir logueado.**Escenario 2:** Dado que no interactúo por X horas, cuando expira el tiempo, entonces debo ser desconectado automáticamente. |
-| **US-08** | Frontend (Inventario) | Como usuario, quiero ver una tabla con todos los productos. | **Escenario 1:** Dado que accedo al inventario, cuando la tabla carga, entonces debo ver la lista completa de productos.**Escenario 2:** Dado que hay conexión con backend, cuando se consultan los datos, entonces deben mostrarse en la tabla. |
-| **US-09** | Frontend (Inventario) | Como usuario, quiero filtrar productos. | **Escenario 1:** Dado que ingreso texto en el filtro, cuando aplico búsqueda, entonces la tabla debe mostrar coincidencias.**Escenario 2:** Dado que el campo filtro está vacío, cuando aplico búsqueda, entonces se debe mostrar el listado completo. |
-| **US-10** | Frontend (Inventario) | Como admin, quiero agregar un producto. | **Escenario 1:** Dado que completo el formulario correctamente, cuando lo envío, entonces el producto se guarda y aparece en la tabla.**Escenario 2:** Dado que ingreso datos inválidos, cuando presiono guardar, entonces debo recibir un error. |
-| **US-11** | Frontend (Inventario) | Como admin, quiero editar un producto. | **Escenario 1:** Dado que modifico un campo válido, cuando guardo cambios, entonces se actualiza el producto.**Escenario 2:** Dado que ingreso datos inválidos, cuando intento guardar, entonces el sistema rechaza la edición. |
-| **US-12** | Frontend (Inventario) | Como admin, quiero eliminar un producto. | **Escenario 1:** Dado que selecciono eliminar, cuando confirmo la acción, entonces el producto desaparece de la tabla.**Escenario 2:** Dado que cancelo la confirmación, cuando cierro el modal, entonces el producto sigue existiendo. |
-| **US-13** | Frontend (Dashboard) | Como usuario, quiero ver métricas clave en dashboard. | **Escenario 1:** Dado que accedo al dashboard, cuando carga la vista, entonces debo ver KPIs relevantes.**Escenario 2:** Dado que el backend actualiza datos, cuando refresco dashboard, entonces debo ver los cambios reflejados. |
-| **US-14** | Frontend (Dashboard) | Como admin, quiero ver tarjetas estadísticas. | **Escenario 1:** Dado que accedo al dashboard, cuando carga, entonces debo ver tarjetas con métricas en tiempo real. |
-| **US-15** | Frontend (UX) | Como usuario, quiero navegar desde el sidebar. | **Escenario 1:** Dado que hago clic en una opción, cuando se carga la sección, entonces esta aparece como activa.**Escenario 2:** Dado que accedo desde móvil, cuando abro el sidebar, entonces debe poder colapsarse. |
-| **US-16** | Frontend (UX) | Como usuario, quiero interfaz responsive. | **Escenario 1:** Dado que accedo desde móvil o tablet, cuando cargo la app, entonces el layout debe adaptarse.**Escenario 2:** Dado que oculto el sidebar en móvil, cuando navego, entonces la pantalla se aprovecha completa. |
-| **US-17** | Frontend (UX) | Como usuario, quiero validación en formularios. | **Escenario 1:** Dado que dejo campos obligatorios vacíos, cuando intento guardar, entonces recibo error.**Escenario 2:** Dado que completo todos los campos válidos, cuando envío formulario, entonces se guarda con éxito. |
-| **US-18** | Frontend (Extensión) | Como usuario, quiero exportar inventario a Excel/CSV. | **Escenario 1:** Dado que estoy en la tabla de inventario, cuando presiono “Exportar”, entonces descargo un archivo con todos los registros. |
-| **US-19** | Frontend (Extensión) | Como admin, quiero recibir notificaciones de stock bajo. | **Escenario 1:** Dado que un producto llega al umbral, cuando entro al dashboard, entonces debo ver una alerta visible. |
-| **US-20** | Frontend (Extensión) | Como usuario avanzado, quiero búsqueda avanzada con filtros combinados. | **Escenario 1:** Dado que aplico varios filtros, cuando ejecuto búsqueda, entonces la tabla muestra coincidencias correctas. |
-| **US-21** | Backend | Como admin, quiero una API segura para login con tokens. | **Escenario 1:** Dado que envío credenciales válidas, cuando hago login, entonces recibo un JWT válido.**Escenario 2:** Dado que el token expira, cuando intento acceder, entonces debo volver a loguear. |
-| **US-22** | Backend | Como usuario, quiero que los datos se guarden en BD. | **Escenario 1:** Dado que agrego un producto, cuando guardo, entonces se persiste en la base.**Escenario 2:** Dado que recargo la aplicación, cuando consulto, entonces los datos siguen disponibles. |
-| **US-23** | Backend | Como admin, quiero validación de roles en endpoints. | **Escenario 1:** Dado que soy admin, cuando llamo a un endpoint de CRUD, entonces la operación se ejecuta.**Escenario 2:** Dado que soy usuario, cuando intento CRUD, entonces recibo 403 Forbidden. |
-| **US-24** | Backend | Como usuario, quiero que CRUD de inventario conecte con backend. | **Escenario 1:** Dado que creo/edito/eliminó un producto, cuando confirmo acción, entonces se refleja en la base.**Escenario 2:** Dado que ocurre un error, cuando intento guardar, entonces recibo mensaje de fallo. |
-| **US-25** | Backend | Como usuario, quiero que la API responda rápido (\<1s). | **Escenario 1:** Dado que consulto inventario, cuando envío request, entonces la respuesta debe tardar \<1s.**Escenario 2:** Dado que hay 100 usuarios concurrentes, cuando realizan consultas, entonces el sistema sigue respondiendo. |
+| **US-06** | Frontend (Auth) | Como usuario, quiero que la sesión se mantenga activa. | **Escenario 1:** Dado que inicio sesión, cuando recargo la página, entonces debo seguir logueado.**Escenario 2:** Dado que no interactúo por X horas, cuando expira el tiempo, entonces debo ser desconectado automáticamente. |
+| **US-07** | Frontend (Inventario) | Como usuario Manager-Propietario, quiero ver una tabla con todos los productos. | **Escenario 1:** Dado que accedo al inventario, cuando la tabla carga, entonces debo ver la lista completa de productos.**Escenario 2:** Dado que hay conexión con backend, cuando se consultan los datos, entonces deben mostrarse en la tabla. |
+| **US-08** | Frontend (Inventario) | Como usuario Manager-Propietario, quiero filtrar productos. | **Escenario 1:** Dado que ingreso texto en el filtro, cuando aplico búsqueda, entonces la tabla debe mostrar coincidencias.**Escenario 2:** Dado que el campo filtro está vacío, cuando aplico búsqueda, entonces se debe mostrar el listado completo. |
+| **US-9** | Frontend (Inventario) | Como usuario Manager-Propietario, quiero agregar un producto. | **Escenario 1:** Dado que completo el formulario correctamente, cuando lo envío, entonces el producto se guarda y aparece en la tabla.**Escenario 2:** Dado que ingreso datos inválidos, cuando presiono guardar, no se guardan los datos |
+| **US-10** | Frontend (Inventario) | Como usuario Manager-Propietario, quiero editar un producto. | **Escenario 1:** Dado que modifico un campo válido, cuando guardo cambios, entonces se actualiza el producto.**Escenario 2:** Dado que ingreso datos inválidos, cuando intento guardar, entonces el sistema rechaza la edición. |
+| **US-11** | Frontend (Inventario) | Como usuario Manager-Propietario, quiero eliminar un producto. | **Escenario 1:** Dado que selecciono eliminar, cuando confirmo la acción, entonces el producto desaparece de la tabla.**Escenario 2:** Dado que cancelo la confirmación, cuando cierro el modal, entonces el producto sigue existiendo. |
+| **US-12** | Frontend (Dashboard) | Como usuario Employee-Trabajador, quiero ver métricas clave en dashboard. | **Escenario 1:** Dado que accedo al dashboard, cuando carga la vista, entonces debo ver KPIs relevantes.**Escenario 2:** Dado que el backend actualiza datos, cuando refresco dashboard, entonces debo ver los cambios reflejados. |
+| **US-13** | Frontend (Dashboard) | Como usuario Employee-Trabajador, quiero ver tarjetas estadísticas. | **Escenario 1:** Dado que accedo al dashboard, cuando carga, entonces debo ver tarjetas con métricas en tiempo real. |
+| **US-14** | Frontend (UX) | Como usuario, quiero navegar desde el sidebar. | **Escenario 1:** Dado que hago clic en una opción, cuando se carga la sección, entonces esta aparece como activa.**Escenario 2:** Dado que accedo desde móvil, cuando abro el sidebar, entonces debe poder colapsarse. |
+| **US-15** | Frontend (UX) | Como usuario, quiero interfaz responsive. | **Escenario 1:** Dado que accedo desde móvil o tablet, cuando cargo la app, entonces el layout debe adaptarse.**Escenario 2:** Dado que oculto el sidebar en móvil, cuando navego, entonces la pantalla se aprovecha completa. |
+| **US-16** | Frontend (UX) | Como usuario, quiero validación en formularios. | **Escenario 1:** Dado que dejo campos obligatorios vacíos, cuando intento guardar, entonces recibo error.**Escenario 2:** Dado que completo todos los campos válidos, cuando envío formulario, entonces se guarda con éxito. |
+| **US-17** | Frontend (Extensión) | Como usuario Employee-Trabajador, quiero exportar inventario a Excel/CSV. | **Escenario 1:** Dado que estoy en la tabla de inventario, cuando presiono “Exportar”, entonces descargo un archivo con todos los registros. |
+| **US-18** | Frontend (Extensión) | Como usuario Manager-Propietario, quiero recibir notificaciones de stock bajo. | **Escenario 1:** Dado que un producto llega al umbral, cuando entro al dashboard, entonces debo ver una alerta visible. |
+| **US-19** | Frontend (Extensión) | Como usuario Manager-Propietario, quiero búsqueda avanzada con filtros combinados. | **Escenario 1:** Dado que aplico varios filtros, cuando ejecuto búsqueda, entonces la tabla muestra coincidencias correctas. |
+| **US-20** | Backend | Como usuario, quiero una API segura para login con tokens. | **Escenario 1:** Dado que envío credenciales válidas, cuando hago login, entonces recibo un JWT válido.**Escenario 2:** Dado que el token expira, cuando intento acceder, entonces debo volver a loguear. |
+| **US-21** | Backend | Como usuario Manager-Propietario, quiero que los datos se guarden en BD. | **Escenario 1:** Dado que agrego un producto, cuando guardo, entonces se persiste en la base.**Escenario 2:** Dado que recargo la aplicación, cuando consulto, entonces los datos siguen disponibles. |
+| **US-22** | Backend | Como admin, quiero validación de roles en endpoints. | **Escenario 1:** Dado que soy admin, cuando llamo a un endpoint de CRUD, entonces la operación se ejecuta.**Escenario 2:** Dado que soy usuario, cuando intento CRUD, entonces recibo 403 Forbidden. |
+| **US-23** | Móvil | Como usuario, quiero iniciar sesión con correo y contraseña. | **Escenario 1:** Dado que ingreso credenciales correctas, cuando presiono “Login”, entonces debo acceder al dashboard.**Escenario 2:** Dado que ingreso credenciales inválidas, cuando intento loguear, entonces debo recibir un mensaje de error. |
+| **US-24** | Móvil | Como usuario, quiero que la sesión se mantenga activa. | **Escenario 1:** Dado que inicio sesión, cuando recargo la página, entonces debo seguir logueado.**Escenario 2:** Dado que no interactúo por X horas, cuando expira el tiempo, entonces debo ser desconectado automáticamente. |
+| **US-25** | Móvil | Como usuario Manager-Propietario, quiero ver una tabla con todos los productos. | **Escenario 1:** Dado que accedo al inventario, cuando la tabla carga, entonces debo ver la lista completa de productos.**Escenario 2:** Dado que hay conexión con backend, cuando se consultan los datos, entonces deben mostrarse en la tabla. |
+| **US-26** | Móvil | Como usuario Manager-Propietario, quiero filtrar productos. | **Escenario 1:** Dado que ingreso texto en el filtro, cuando aplico búsqueda, entonces la tabla debe mostrar coincidencias.**Escenario 2:** Dado que el campo filtro está vacío, cuando aplico búsqueda, entonces se debe mostrar el listado completo. |
+| **US-27** | Móvil | Como usuario Manager-Propietario, quiero agregar un producto. | **Escenario 1:** Dado que completo el formulario correctamente, cuando lo envío, entonces el producto se guarda y aparece en la tabla.**Escenario 2:** Dado que ingreso datos inválidos, cuando presiono guardar, no se guardan los datos |
+| **US-28** | Móvil | Como usuario Manager-Propietario, quiero editar un producto. | **Escenario 1:** Dado que modifico un campo válido, cuando guardo cambios, entonces se actualiza el producto.**Escenario 2:** Dado que ingreso datos inválidos, cuando intento guardar, entonces el sistema rechaza la edición. |
+| **US-29** | Móvil | Como usuario Manager-Propietario, quiero eliminar un producto. | **Escenario 1:** Dado que selecciono eliminar, cuando confirmo la acción, entonces el producto desaparece de la tabla.**Escenario 2:** Dado que cancelo la confirmación, cuando cierro el modal, entonces el producto sigue existiendo. |
+| **US-30** | Móvil | Como usuario Employee-Trabajador, quiero ver métricas clave en dashboard. | **Escenario 1:** Dado que accedo al dashboard, cuando carga la vista, entonces debo ver KPIs relevantes.**Escenario 2:** Dado que el backend actualiza datos, cuando refresco dashboard, entonces debo ver los cambios reflejados. |
+| **US-31** | Móvil | Como usuario, quiero validación en formularios. | **Escenario 1:** Dado que dejo campos obligatorios vacíos, cuando intento guardar, entonces recibo error.**Escenario 2:** Dado que completo todos los campos válidos, cuando envío formulario, entonces se guarda con éxito. |
+| **US-32** | Móvil | Como usuario Manager-Propietario, quiero búsqueda avanzada con filtros combinados. | **Escenario 1:** Dado que aplico varios filtros, cuando ejecuto búsqueda, entonces la tabla muestra coincidencias correctas. |
+| **US-33** | Móvil | Como usuario Manager-Propietario, quiero que los datos se guarden en BD. | **Escenario 1:** Dado que agrego un producto, cuando guardo, entonces se persiste en la base.**Escenario 2:** Dado que recargo la aplicación, cuando consulto, entonces los datos siguen disponibles. |
+| **US-34** | Móvil | Como admin, quiero validación de roles en endpoints. | **Escenario 1:** Dado que soy admin, cuando llamo a un endpoint de CRUD, entonces la operación se ejecuta.**Escenario 2:** Dado que soy usuario, cuando intento CRUD, entonces recibo 403 Forbidden. |
 
 # **3.3. Product Backlog.**
 
-| **Prioridad** | **User Story ID** | **Título HU**            | **Story Points** |
-|---------------|-------------------|--------------------------|------------------|
-| Alta          | US-01             | Página de inicio clara   | 3                |
-| Media         | US-02             | Sección “Sobre nosotros” | 2                |
-| Media         | US-03             | Formulario de contacto   | 3                |
-| Alta          | US-04             | Landing responsive       | 5                |
-| Alta          | US-05             | Iniciar sesión           | 5                |
-| Alta          | US-06             | Mensajes de error login  | 2                |
-| Media         | US-07             | Persistencia de sesión   | 3                |
-| Alta          | US-08             | Ver tabla inventario     | 5                |
-| Alta          | US-09             | Filtrar productos        | 5                |
-| Alta          | US-10             | Agregar producto         | 5                |
-| Alta          | US-11             | Editar producto          | 5                |
-| Media         | US-12             | Eliminar producto        | 3                |
-| Media         | US-13             | Dashboard con métricas   | 5                |
-| Media         | US-14             | Tarjetas estadísticas    | 3                |
-| Alta          | US-15             | Navegación sidebar       | 3                |
-| Alta          | US-16             | Interfaz responsive      | 5                |
-| Media         | US-17             | Validación formularios   | 3                |
-| Baja          | US-18             | Exportar inventario      | 2                |
-| Media         | US-19             | Notificación stock bajo  | 5                |
-| Media         | US-20             | Búsqueda avanzada        | 5                |
-| Alta          | US-21             | API segura login         | 5                |
-| Alta          | US-22             | Persistencia en BD       | 5                |
-| Alta          | US-23             | Validación de roles      | 5                |
-| Alta          | US-24             | CRUD conectado backend   | 8                |
-| Media         | US-25             | API con respuesta \<1s   | 3                |
+| **Prioridad** | **User Story ID** | **Título HU** | **Story Points** |
+|----|----|----|----|
+| Alta | US-01 | Página de inicio clara y atractiva | 3 |
+| Alta | US-02 | Sección “Sobre nosotros” | 2 |
+| Alta | US-03 | Formulario de contacto con validación | 3 |
+| Media | US-04 | Landing responsive y rápida (\<2s) | 5 |
+| Alta | US-05 | Login con correo y contraseña (frontend) | 5 |
+| Media | US-06 | Sesión persistente y expiración automática | 3 |
+| Alta | US-07 | Tabla de inventario con productos | 5 |
+| Media | US-08 | Filtro de productos en inventario | 3 |
+| Alta | US-09 | Agregar producto | 5 |
+| Media | US-10 | Editar producto | 3 |
+| Media | US-11 | Eliminar producto | 3 |
+| Media | US-12 | Dashboard con métricas clave | 5 |
+| Baja | US-13 | Tarjetas estadísticas en dashboard | 2 |
+| Media | US-14 | Navegación mediante sidebar | 3 |
+| Media | US-15 | Interfaz responsive (UX general) | 3 |
+| Alta | US-16 | Validación en formularios | 4 |
+| Media | US-17 | Exportar inventario a Excel/CSV | 3 |
+| Media | US-18 | Notificaciones de stock bajo | 3 |
+| Media | US-19 | Búsqueda avanzada combinada | 5 |
+| Alta | US-20 | API segura con tokens JWT | 8 |
+| Alta | US-21 | Guardar datos en BD | 5 |
+| Alta | US-22 | Validación de roles en endpoints | 5 |
+| Alta | US-23 | Login móvil con correo y contraseña | 5 |
+| Media | US-24 | Sesión persistente móvil | 3 |
+| Alta | US-25 | Tabla de inventario móvil | 5 |
+| Media | US-26 | Filtro de productos móvil | 3 |
+| Alta | US-27 | Agregar producto móvil | 5 |
+| Media | US-28 | Editar producto móvil | 3 |
+| Media | US-29 | Eliminar producto móvil | 3 |
+| Media | US-30 | Dashboard móvil con métricas | 5 |
+| Alta | US-31 | Validación de formularios móvil | 4 |
+| Media | US-32 | Búsqueda avanzada móvil | 5 |
+| Alta | US-33 | Guardar datos BD móvil | 5 |
+| Alta | US-34 | Validación de roles móvil | 5 |
 
 # **3.4. Impact Mapping.**
 
@@ -5311,6 +5245,622 @@ Link del video:
 
 [<u>https://upcedupe-my.sharepoint.com/personal/u201621281_upc_edu_pe/\_layouts/15/stream.aspx?sw=bypass&bypassReason=abandoned&id=%2Fpersonal%2Fu201621281_upc_edu_pe%2FDocuments%2FDisenoDeExperimentos-InventoryPro%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E097afc11-bc72-4c26-bc6c-5b87f2b9fa9e</u>](https://upcedupe-my.sharepoint.com/personal/u201621281_upc_edu_pe/_layouts/15/stream.aspx?sw=bypass&bypassReason=abandoned&id=%2Fpersonal%2Fu201621281_upc_edu_pe%2FDocuments%2FDisenoDeExperimentos-InventoryPro%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E097afc11-bc72-4c26-bc6c-5b87f2b9fa9e)
 
+Capítulo VI: Product Verification & Validation
+
+# **6.1. Testing Suites & Validation**
+
+## 6.1.1. Core Entities Unit Tests.
+
+<span class="mark">Los Core Entities Unit Tests son esenciales en el
+desarrollo de software, ya que garantizan la calidad y correcto
+funcionamiento de las entidades centrales, previniendo errores y
+facilitando el mantenimiento del código.</span>
+
+1.  <span class="mark">Permission Test</span>
+
+<img src="./media/image133.png"
+style="width:6.05212in;height:3.93847in" />
+
+2.  Model Test
+
+<img src="./media/image134.png"
+style="width:5.5984in;height:3.98026in" />
+
+3.  Serializer Test
+
+<img src="./media/image135.png"
+style="width:5.59844in;height:4.58477in" />
+
+Resultados:
+
+<img src="./media/image136.png"
+style="width:5.67188in;height:0.80085in" />
+
+## 6.1.2. Core Integration Tests.
+
+1.  Controller Base
+
+<img src="./media/image137.png"
+style="width:6.26772in;height:5.16667in" />
+
+2.  Auth Token
+
+<img src="./media/image138.png"
+style="width:6.26772in;height:2.59722in" />
+
+3.  User View Set
+
+<img src="./media/image139.png" style="width:6.26772in;height:4.375in" />
+
+4.  Company View Set
+
+<img src="./media/image140.png"
+style="width:6.26772in;height:2.95833in" />
+
+5.  Supplier View Set
+
+<img src="./media/image141.png"
+style="width:6.26772in;height:4.36111in" />
+
+6.  Category View Set
+
+<img src="./media/image142.png"
+style="width:6.26772in;height:2.55556in" />
+
+7.  Item View Set
+
+<img src="./media/image143.png"
+style="width:6.26772in;height:5.26389in" />
+
+8.  Current User View
+
+<img src="./media/image144.png"
+style="width:6.26772in;height:2.97222in" />
+
+9.  Group View Set
+
+<img src="./media/image145.png"
+style="width:6.26772in;height:3.63889in" />
+
+10. Log Entry View Set
+
+<img src="./media/image146.png"
+style="width:6.26772in;height:4.29167in" />
+
+Resultados:
+
+<img src="./media/image147.png"
+style="width:6.26772in;height:0.95833in" />
+
+## **6.1.3.Core Behavior-Driven Development**
+
+<table>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 14%" />
+<col style="width: 25%" />
+<col style="width: 49%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>User Story ID</strong></th>
+<th style="text-align: center;"><strong>Módulo</strong></th>
+<th style="text-align: center;"><strong>Historia de
+Usuario</strong></th>
+<th style="text-align: center;"><strong>Escenarios</strong></th>
+</tr>
+<tr>
+<th><strong><mark>US-01</mark></strong></th>
+<th><mark>Landing Page</mark></th>
+<th>Como visitante, quiero ver una página de inicio clara y atractiva
+para entender de qué trata la aplicación.</th>
+<th><strong>Escenario 1:</strong> Dado que accedo a la web, cuando la
+página carga, entonces debo ver el título, descripción y
+CTA.<strong>Escenario 2:</strong> Dado que accedo desde móvil, cuando se
+renderiza la página, entonces el diseño debe ajustarse al tamaño de
+pantalla.</th>
+</tr>
+<tr>
+<th><strong><mark>US-02</mark></strong></th>
+<th><mark>Landing Page</mark></th>
+<th>Como visitante, quiero acceder a una sección de “Sobre
+nosotros”.</th>
+<th><strong>Escenario 1:</strong> Dado que ingreso al landing, cuando
+hago scroll, entonces debo ver la sección “Sobre
+nosotros”.<strong>Escenario 2:</strong> Dado que accedo desde móvil,
+cuando entro a la sección, entonces la información debe ser legible sin
+romper diseño.</th>
+</tr>
+<tr>
+<th><strong><mark>US-03</mark></strong></th>
+<th><mark>Landing Page</mark></th>
+<th><mark>Como visitante, quiero un formulario de contacto.</mark></th>
+<th><mark><strong>Escenario 1:</strong> Dado que completo el formulario,
+cuando envío datos válidos, entonces recibo confirmación de
+envío.<strong>Escenario 2:</strong> Dado que ingreso un email inválido,
+cuando presiono enviar, entonces debo recibir un mensaje de
+error.</mark></th>
+</tr>
+<tr>
+<th><strong><mark>US-04</mark></strong></th>
+<th><mark>Landing Page</mark></th>
+<th>Como visitante, quiero que la landing sea responsive.</th>
+<th><strong>Escenario 1:</strong> Dado que ingreso desde distintos
+dispositivos, cuando se carga la página, entonces el diseño debe
+adaptarse.<strong>Escenario 2:</strong> Dado que la página carga, cuando
+se mide el tiempo de respuesta, entonces debe ser menor a 2s.</th>
+</tr>
+<tr>
+<th><strong>US-05</strong></th>
+<th>Frontend (Auth)</th>
+<th>Como usuario, quiero iniciar sesión con correo y contraseña.</th>
+<th><strong>Escenario 1:</strong> Dado que ingreso credenciales
+correctas, cuando presiono “Login”, entonces debo acceder al
+dashboard.</th>
+</tr>
+<tr>
+<th colspan="4"><img src="./media/image148.png"
+style="width:6.125in;height:2.61111in" /></th>
+</tr>
+<tr>
+<th><strong><mark>US-06</mark></strong></th>
+<th><mark>Frontend (Auth)</mark></th>
+<th><mark>Como usuario, quiero recibir mensajes de error claros en
+login.</mark></th>
+<th><mark><strong>Escenario 1:</strong> Dado que intento nuevamente,
+cuando reingreso credenciales, entonces me deja entrar al sistema.
+<strong>Escenario 2:</strong> Dado que la contraseña es errónea, cuando
+presiono “Login”, entonces no me deja entrar al sistema y te devuelve a
+la misma vista .</mark></th>
+</tr>
+<tr>
+<th><strong><mark>US-07</mark></strong></th>
+<th><mark>Frontend (Auth)</mark></th>
+<th>Como usuario, quiero que la sesión se mantenga activa.</th>
+<th><strong>Escenario 1:</strong> Dado que inicio sesión, cuando recargo
+la página, entonces debo seguir logueado.<strong>Escenario 2:</strong>
+<mark>Dado que no interactúo por X horas, cuando expira el tiempo,
+entonces debo ser desconectado automáticamente.</mark></th>
+</tr>
+<tr>
+<th><strong>US-08</strong></th>
+<th>Frontend (Inventario)</th>
+<th>Como usuario Manager-Propietario, quiero ver una tabla con todos los
+productos.</th>
+<th><strong>Escenario 1:</strong> Dado que accedo al inventario, cuando
+la tabla carga, entonces debo ver la lista completa de
+productos.<strong>Escenario 2:</strong> Dado que hay conexión con
+backend, cuando se consultan los datos, entonces deben mostrarse en la
+tabla.</th>
+</tr>
+<tr>
+<th colspan="4"><img src="./media/image149.png"
+style="width:6.125in;height:2.72222in" /></th>
+</tr>
+<tr>
+<th><strong>US-09</strong></th>
+<th>Frontend (Inventario)</th>
+<th>Como usuario Manager-Propietario, quiero filtrar productos.</th>
+<th><strong>Escenario 1:</strong> Dado que ingreso texto en el filtro,
+cuando aplico búsqueda, entonces la tabla debe mostrar
+coincidencias.<strong>Escenario 2:</strong> Dado que el campo filtro
+está vacío, cuando aplico búsqueda, entonces se debe mostrar el listado
+completo.</th>
+</tr>
+<tr>
+<th colspan="4"><img src="./media/image150.png"
+style="width:6.125in;height:1.56944in" /></th>
+</tr>
+<tr>
+<th><strong>US-10</strong></th>
+<th>Frontend (Inventario)</th>
+<th>Como usuario Manager-Propietario, quiero agregar un producto.</th>
+<th><strong>Escenario 1:</strong> Dado que completo el formulario
+correctamente, cuando lo envío, entonces el producto se guarda y aparece
+en la tabla.<strong>Escenario 2:</strong> Dado que ingreso datos
+inválidos, cuando presiono guardar, entonces debo recibir un error.</th>
+</tr>
+<tr>
+<th colspan="4"><img src="./media/image151.png"
+style="width:6.125in;height:2.58333in" /></th>
+</tr>
+<tr>
+<th><strong>US-11</strong></th>
+<th>Frontend (Inventario)</th>
+<th>Como usuario Manager-Propietario, quiero editar un producto.</th>
+<th><strong>Escenario 1:</strong> Dado que modifico un campo válido,
+cuando guardo cambios, entonces se actualiza el producto.</th>
+</tr>
+<tr>
+<th colspan="4"><img src="./media/image152.png"
+style="width:6.125in;height:2.76389in" /></th>
+</tr>
+<tr>
+<th><strong>US-12</strong></th>
+<th>Frontend (Inventario)</th>
+<th>Como usuario Manager-Propietario, quiero eliminar un producto.</th>
+<th><strong>Escenario 1:</strong> Dado que selecciono eliminar, cuando
+confirmo la acción, entonces el producto desaparece de la
+tabla.<strong>Escenario 2:</strong> Dado que cancelo la confirmación,
+cuando cierro el modal, entonces el producto sigue existiendo.</th>
+</tr>
+<tr>
+<th colspan="4"><img src="./media/image153.png"
+style="width:6.125in;height:2.75in" /></th>
+</tr>
+<tr>
+<th><strong>US-13</strong></th>
+<th>Frontend (Dashboard)</th>
+<th>Como usuario Employee-Trabajador, quiero ver métricas clave en
+dashboard.</th>
+<th><strong>Escenario 1:</strong> Dado que accedo al dashboard, cuando
+carga la vista, entonces debo ver KPIs relevantes.<strong>Escenario
+2:</strong> Dado que el backend actualiza datos, cuando refresco
+dashboard, entonces debo ver los cambios reflejados.</th>
+</tr>
+<tr>
+<th colspan="4"><img src="./media/image154.png"
+style="width:6.125in;height:2.97222in" /></th>
+</tr>
+<tr>
+<th><strong><mark>US-14</mark></strong></th>
+<th><mark>Frontend (Dashboard)</mark></th>
+<th>Como usuario Employee-Trabajador, quiero ver tarjetas
+estadísticas.</th>
+<th><strong>Escenario 1:</strong> Dado que accedo al dashboard, cuando
+carga, entonces debo ver tarjetas con métricas en tiempo real.</th>
+</tr>
+<tr>
+<th><strong>US-15</strong></th>
+<th>Frontend (UX)</th>
+<th>Como usuario, quiero navegar desde el sidebar.</th>
+<th><strong>Escenario 1:</strong> Dado que hago clic en una opción,
+cuando se carga la sección, entonces esta aparece como
+activa.<strong>Escenario 2:</strong> <mark>Dado que accedo desde móvil,
+cuando abro el sidebar, entonces debe poder colapsarse.</mark></th>
+</tr>
+<tr>
+<th colspan="4"><img src="./media/image155.png"
+style="width:6.125in;height:2.93056in" /></th>
+</tr>
+<tr>
+<th><strong><mark>US-16</mark></strong></th>
+<th><mark>Frontend (UX)</mark></th>
+<th>Como usuario, quiero interfaz responsive.</th>
+<th><strong>Escenario 1:</strong> Dado que accedo desde móvil o tablet,
+cuando cargo la app, entonces el layout debe adaptarse.<strong>Escenario
+2:</strong> Dado que oculto el sidebar en móvil, cuando navego, entonces
+la pantalla se aprovecha completa.</th>
+</tr>
+<tr>
+<th><strong><mark>US-17</mark></strong></th>
+<th><mark>Frontend (UX)</mark></th>
+<th>Como usuario, quiero validación en formularios.</th>
+<th><strong>Escenario 1:</strong> Dado que dejo campos obligatorios
+vacíos, cuando intento guardar, entonces recibo error.<strong>Escenario
+2:</strong> Dado que completo todos los campos válidos, cuando envío
+formulario, entonces se guarda con éxito.</th>
+</tr>
+<tr>
+<th><strong>US-18</strong></th>
+<th>Frontend (Extensión)</th>
+<th>Como usuario Employee-Trabajador, quiero exportar inventario a
+Excel/CSV.</th>
+<th><strong>Escenario 1:</strong> Dado que estoy en la tabla de
+inventario, cuando presiono “Exportar”, entonces descargo un archivo con
+todos los registros.</th>
+</tr>
+<tr>
+<th colspan="4"><img src="./media/image156.png"
+style="width:6.125in;height:2.73611in" /></th>
+</tr>
+<tr>
+<th><strong><mark>US-19</mark></strong></th>
+<th><mark>Frontend (Extensión)</mark></th>
+<th>Como usuario Manager-Propietario, ver un estado distinto</th>
+<th><strong>Escenario 1:</strong> Dado que un producto llega al umbral,
+cuando entro al dashboard, entonces debo ver un estado de stock
+bajo.</th>
+</tr>
+<tr>
+<th><strong>US-20</strong></th>
+<th>Frontend (Extensión)</th>
+<th>Como usuario Manager-Propietario, quiero búsqueda avanzada con
+filtros combinados.</th>
+<th><strong>Escenario 1:</strong> Dado que aplico varios filtros, cuando
+ejecuto búsqueda, entonces la tabla muestra coincidencias
+correctas.</th>
+</tr>
+<tr>
+<th colspan="4"><img src="./media/image157.png"
+style="width:6.125in;height:3.16667in" /></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+## **6.1.4. Core System Tests.**
+
+Esta sección aborda las técnicas de prueba estática y verificación del
+código, garantizando que el software satisfaga los requisitos de calidad
+y seguridad antes de ejecutarse. Estas metodologías facilitan la
+detección de defectos durante las primeras etapas del ciclo de
+desarrollo.
+
+El análisis estático de código consiste en examinar el código fuente sin
+ejecutarlo, mediante el uso de herramientas automatizadas y revisiones
+por pares. Esta aproximación permite identificar errores,
+vulnerabilidades de seguridad y posibilidades de optimización en el
+código, contribuyendo así a elevar la calidad global del software y
+disminuir los costos asociados a correcciones en fases posteriores del
+proceso de desarrollo.
+
+**6.2.1.1. Coding standard & Code conventions**
+
+Las normas de codificación y las convenciones son directrices que el
+equipo sigue para asegurar un código legible, mantenible y coherente en
+Back, Front y Mobile. En este proyecto aplicamos los siguientes
+principios:
+
+• **Clean Code**: Se emplean nombres claros y descriptivos para
+variables, funciones, clases y componentes. Las funciones y métodos son
+cortos y con una sola responsabilidad; se elimina código muerto y
+comentarios innecesarios. Se respeta PEP 8 en Python/Django y las guías
+de TypeScript (ESLint + Prettier) en React/React Native. Las pruebas se
+nombran de forma consistente (test\_\* en backend; \*.test.ts(x) en
+frontend/mobile) y se prioriza la cobertura de casos críticos para
+facilitar la colaboración y el mantenimiento.
+
+• **Arquitectura por Capas (MVC / Service–Repository)**: En lugar de
+DDD, el sistema se organiza en capas simples. En el backend (Django
+REST) la capa de presentación la conforman views/viewsets y serializers;
+la lógica de negocio vive en servicios (services/*) y el acceso a datos
+en repositorios que usan el ORM (repositories/*, models/*). En frontend
+y mobile (React + TS/React Native) la presentación son componentes y
+páginas, la lógica se concentra en hooks y servicios (hooks/*,
+services/api.ts) y los datos se gestionan mediante clientes HTTP tipados
+(types/\*). Esta separación reduce el acoplamiento, mejora la
+reutilización y facilita las pruebas unitarias e integrales.
+
+**6.2.1.2. Code Quality & Code Security**
+
+La calidad y la protección del software son pilares del proyecto en Back
+(Django REST), Front (React+TS) y Mobile (React Native).
+
+**• Calidad del código:**  
+Se controlan KPIs como cobertura de pruebas y complejidad. Usamos
+pytest/pytest-cov en backend y Jest + React Testing Library en
+frontend/mobile; el objetivo mínimo de cobertura es acordado por módulo.
+El estilo se valida con PEP8/Flake8/Black/Mypy (Python) y ESLint +
+Prettier + tsc --noEmit (TS). En CI (GitHub Actions) se ejecutan
+pruebas, linters y el análisis de SonarQube/SonarCloud con Quality Gate
+para vigilar deuda técnica y hotspots. Para evitar regresiones, se
+aplican ganchos de pre-commit (husky/pre-commit) que bloquean commits si
+fallan tests o lint.
+
+• **Seguridad del código:**  
+Se previenen inyecciones y XSS mediante el ORM de Django, validadores en
+serializers y sanitización de entrada/salida. React escapa por defecto;
+se prohíbe dangerouslySetInnerHTML y, si se requiere HTML dinámico, se
+sanitiza (p. ej., DOMPurify). En backend se emplea SimpleJWT con
+expiraciones cortas, rotación de tokens y almacenamiento seguro de
+secretos por .env (nunca en el repositorio). Dependencias se auditan con
+pip-audit/Bandit (Python) y npm audit (TS). Todo el tráfico es HTTPS y
+se recomienda CSP/HSTS en el despliegue. En mobile, credenciales se
+guardan en Keychain/Keystore.
+
+• **Análisis en el IDE:**  
+Durante el desarrollo se usa SonarLint / SonarQube para avisos
+inmediatos (p. ej., imports sin uso, accesibilidad como “label asociado
+a control”, aserciones redundantes o bucles mejorables). Esto permite
+corregir en el acto y mantener una cultura de mejora continua desde el
+primer commit.
+
+<img src="./media/image158.png"
+style="width:6.26772in;height:4.13889in" />
+
+**6.2.2. Reviews**
+
+En este proyecto (Back: Django REST, Front: React+TS, Mobile: React
+Native) las revisiones de código aseguran calidad, seguridad y
+consistencia. Se combinan evaluaciones humanas y chequeos automáticos.
+
+- **Modalidades**  
+  - Revisión por pares: otro integrante valida legibilidad, tipados,
+  manejo de errores y patrones del repo.  
+  - Walkthrough técnico (formal): sesión breve y guiada con checklist
+  cuando el cambio impacta API, seguridad o modelo de datos.  
+  – Análisis automatizado: SonarLint en el IDE y SonarQube/SonarCloud en
+  CI para detectar code smells, bugs, deuda técnica y riesgos.
+
+• **Flujo de trabajo**  
+– Checklist de revisión: incluye claridad del código, tipados TS,
+accesibilidad (labels/ARIA en Front), permisos/validaciones en DRF,
+eficiencia de consultas (evitar N+1), manejo de estados/efectos en
+Mobile y cobertura de pruebas.  
+– Comentarios y correcciones: feedback específico y accionable; el autor
+resuelve o justifica cada observación antes de solicitar aprobación.  
+– Aprobación: al menos 1 revisor externo al autor (2 si afecta seguridad
+o contratos públicos) y CI en verde.
+
+• **Criterios de aceptación**  
+– Quality Gate aprobado (sin issues *blocker/critical*).  
+– Pruebas y cobertura: tests pasando y ≥ 80% en los módulos tocados.  
+– Seguridad: sin uso de dangerouslySetInnerHTML sin sanitización,
+validaciones en serializers, manejo correcto de auth/JWT y secretos
+fuera del repo.  
+– Estilo: linters formatean sin errores (PEP8/Black/Flake8/Mypy en Back;
+ESLint/Prettier/tsc en Front/Mobile).
+
+• **Frecuencia**  
+– Por PR (revisión continua) y corte de sprint para cambios de alto
+impacto. Se favorecen PRs pequeños y atómicos para acelerar la revisión
+y evitar acumulación de deuda.
+
+Capítulo VII: DevOps Practices
+
+# **7.1. Continuous Integration**
+
+## 7.1.1. Tools and Practices.
+
+Para continuar con la integración continua , huevos usado las siguientes
+herramientas que nos ayudan a gestionar el control de versiones de
+nuestro proyecto
+
+- Github: GitHub permite llevar un control de versiones de mi proyecto,
+  asegurando que no se pierda el trabajo y pueda acceder a versiones
+  anteriores. También facilita la colaboración y organización con ramas
+  y commits.
+
+<img src="./media/image159.png"
+style="width:3.25521in;height:2.16684in" />
+
+## 7.1.2. Build & Test Suite Pipeline Components.
+
+-SonarQube: Lo usamos porque nos permite analizar la calidad del código
+en React y Django automáticamente y detecta errores, vulnerabilidades
+antes de que lleguen a producción.
+
+<img src="./media/image160.png"
+style="width:5.3125in;height:1.39583in" />
+
+-Lighthouse CL :Lo usamos porque mide rendimiento, accesibilidad y SEO
+de nuestra aplicación web en Vercel y nos muestra reportes con métricas
+como velocidad de carga y usabilidad.
+
+<img src="./media/image161.png"
+style="width:3.94271in;height:2.46732in" />
+
+# **07.2. Continuous Delivery**
+
+## 7.2.1. Tools and Practices.
+
+Elegimos GitHub Actions porque se integra con nuestro repositorio en
+GitHub. Con esta herramienta configuramos workflows que ejecutan las
+pruebas, validan la calidad del código con SonarQube y el rendimiento
+con Lighthouse, y luego realizan el despliegue automático en Vercel
+(frontend) y Render (backend). Esto garantiza que cada cambio en el
+proyecto pase por un proceso controlado de validación y despliegue,
+asegurando rapidez, confiabilidad y reducción de errores en la entrega
+del software.
+
+<img src="./media/image162.png"
+style="width:2.20313in;height:2.20313in" />
+
+## 7.2.2. Stages Deployment Pipeline Components.
+
+El pipeline de despliegue de InventoryPro se compone de varias etapas
+que garantizan la entrega continua del sistema de manera ordenada y
+segura:
+
+Build Stage:
+
+En esta etapa, GitHub Actions construye los componentes del proyecto. Se
+instalan las dependencias del frontend (React) y del backend (Django), y
+se generan los archivos necesarios para el despliegue.
+
+Test Stage:
+
+Se ejecutan pruebas automatizadas con Jest (frontend) y Pytest
+(backend), además de los análisis de calidad de código con SonarQube y
+auditorías de rendimiento con Lighthouse CI, asegurando que el sistema
+mantenga su calidad y estabilidad.
+
+Staging Deployment:
+
+El sistema se despliega en un entorno de staging para realizar
+validaciones internas. En esta etapa se prueban nuevas funcionalidades y
+se verifican métricas de rendimiento antes de liberar la versión final.
+
+Manual Approval:
+
+Se realiza una revisión manual por parte del equipo para confirmar que
+todas las pruebas fueron exitosas y que la aplicación funciona
+correctamente antes de pasar a producción.
+
+Production Deployment:
+
+Finalmente, se despliega automáticamente en Vercel (frontend) y Render
+(backend). Este paso asegura que la versión más reciente y validada del
+proyecto esté disponible para los usuarios finales.
+
+Post-Deployment Validation:
+
+Una vez en producción, se ejecutan pruebas rápidas de verificación
+(smoke tests) para confirmar que la aplicación esté activa, accesible y
+funcionando correctamente.
+
+# **7.3. Continuous deployment**
+
+El Continuous Deployment permite entregar y desplegar nuevas versiones
+de InventoryPro en producción de forma totalmente automática justo
+después de que cualquier cambio de código haya pasado las pruebas. El
+objetivo es ofrecer rápidas iteraciones y valor constante a los usuarios
+de las tiendas de abarrotes en Lima con nuevas funciones y correcciones
+sin demora.
+
+## 7.3.1. Tools and Practices.
+
+Existen varias herramientas que utilizaremos para el continuous
+deployment:
+
+a\. Herramienta de Control de Versiones: Usamos GitHub con el modelo
+GitFlow para gestionar el código de la aplicación.
+
+b\. Automatización de Pruebas: Implementamos pruebas automatizadas, las
+pruebas pruebas unitarias se realizaron con (Jest) (frontend), pruebas
+de integración con Pytest (backend) y validamos los endpoints usando
+Postman, para corroborar que el software tenga un correcto
+funcionamiento a la hora de desplegarlo.
+
+c\. Entornos de Desarrollo y Pruebas: Nuestros entornos de desarrollo,
+testing y producción los tenemos lo más similares posible, utilizando
+Docker Compose y bases de datos SQLite (desarrollo) y PostgreSQL
+(staging/producción), para minimizar inconvenientes durante el
+despliegue.
+
+d\. Pipeline de Despliegue: Creamos un pipeline automatizado con GitHub
+Actions que incluye las etapas de compilación, pruebas, despliegue en
+testing y despliegue en producción.
+
+e\. Monitoreo y Retroalimentación: Implementamos sistemas de monitoreo y
+logging proporcionados por Render (backend) y Vercel (frontend), lo que
+nos permite tener un control del rendimiento y la estabilidad de la
+aplicación en producción, e poder identificar problemas en tiempo real.
+
+## 7.3.2. Production Deployment Pipeline Components
+
+Los componentes clave de un pipeline de despliegue en producción son:
+
+a\. Compilación (Build): En esta etapa, el frontend desarrollado en
+React + TypeScript se compila en Vercel, y el backend desarrollado en
+Django se empaqueta en contenedores Docker listos para desplegar en
+Render.
+
+b\. Pruebas (Testing): Aquí se ejecutan pruebas automatizadas (Jest,
+Pytest, Postman) para garantizar que la aplicación cumple con su
+correcto funcionamiento.
+
+c\. Entorno de Preproducción (Staging): Antes de desplegar en
+producción, la aplicación se despliega en un entorno de staging con
+Docker, donde el equipo realiza pruebas adicionales y validación de
+usuarios internos.
+
+d\. Despliegue en Producción (Production Deployment): En esta etapa, el
+código se despliega automáticamente en el entorno de producción, con
+Render para el backend y Vercel para el frontend.
+
+e\. Monitoreo Continuo (Continuous Monitoring): Una vez en producción,
+se monitorea constantemente el rendimiento y la estabilidad de la
+aplicación, utilizando logs, métricas de Render y dashboards de Vercel
+para identificar problemas en tiempo real.
+
+f\. Reversión (Rollback): Si se detecta algún problema en producción, el
+pipeline permite la reversión rápida a una versión anterior de la
+aplicación utilizando Semantic Versioning y el historial de despliegues
+en GitHub Actions.
+
 # **Conclusiones.**
 
 - El proceso de investigación que consistió en las entrevistas a
@@ -5333,6 +5883,14 @@ Link del video:
   mercado muy específico. Esta estrategia es clave para diferenciar a
   InventoryPro de otras soluciones más complejas y costosas, ofreciendo
   una herramienta accesible y específica para las tiendas de abarrotes.
+
+<!-- -->
+
+- Asimismo, la integración de prácticas DevOps mediante GitHub Actions,
+  Docker, SonarQube y Lighthouse permitió establecer un pipeline
+  automatizado que garantiza la calidad del código, la eficiencia de los
+  despliegues y la trazabilidad de cada versión del producto. Esto
+  optimizó el flujo de desarrollo y redujo errores en producción.
 
 # **Anexos.**
 
