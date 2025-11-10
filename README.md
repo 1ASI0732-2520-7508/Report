@@ -5596,6 +5596,11 @@ código, contribuyendo así a elevar la calidad global del software y
 disminuir los costos asociados a correcciones en fases posteriores del
 proceso de desarrollo.
 
+
+# **6.2. Static testing & Verification**
+
+## **6.2.1. Static Code Analysis**
+
 **6.2.1.1. Coding standard & Code conventions**
 
 Las normas de codificación y las convenciones son directrices que el
@@ -5697,6 +5702,135 @@ ESLint/Prettier/tsc en Front/Mobile).
 – Por PR (revisión continua) y corte de sprint para cambios de alto
 impacto. Se favorecen PRs pequeños y atómicos para acelerar la revisión
 y evitar acumulación de deuda.
+
+# **6.3. Validation Interview** 
+
+##**6.3.1. Diseño Entrevistas**
+
+**Segmento 1: Propietarios de tiendas de abarrotes:**
+
+**Preguntas demográficas:**
+
+- Nombre y apellido:
+- Edad:
+- Distrito:
+- Nivel educativo:
+- Años como propietario de la tienda:
+- ¿Cuenta con acceso a internet en la tienda? (Sí/No)
+
+**Preguntas principales – Landing Page:**
+
+- ¿Qué impresión le genera el diseño general del Landing Page al ingresar por primera vez?
+- ¿Le resultó fácil identificar de qué trata la aplicación desde la página principal?
+- Considera que la información presentada en “Sobre nosotros” es clara y relevante?
+- ¿Tuvo dificultades para encontrar o completar el formulario de contacto?
+- ¿Le parece atractiva la estructura visual y el uso de colores?
+
+**Preguntas principales – Aplicación Web:**
+
+- ¿Tuvo alguna dificultad para iniciar sesión en la aplicación?
+- ¿Le resultó fácil identificar la tabla de inventario y sus columnas?
+- ¿Qué tan sencillo le pareció filtrar productos por nombre o categoría?
+- ¿Qué tan intuitivo le pareció agregar o eliminar productos del inventario?
+- ¿Cómo evaluaría la rapidez del sistema al guardar o mostrar los datos?
+- ¿Encontró útil la opción de exportar el inventario a Excel o CSV?
+- ¿Hay alguna función o información que esperaba encontrar y no está disponible?
+
+**Preguntas complementarias:**
+
+- ¿Considera que el diseño y los textos son fáciles de entender?
+- ¿Qué tan cómodo se sintió usando la aplicación sin ayuda externa?
+- Si pudiera mejorar algo del sistema, ¿qué cambiaría?
+
+
+**Segmento 2: Trabajadores o encargados de inventario:**
+
+**Preguntas demográficas:**
+
+- Nombre y apellido:
+- Edad:
+- Distrito:
+- Nivel educativo:
+- Años como propietario de la tienda:
+- ¿Cuenta con acceso a internet en la tienda? (Sí/No)
+
+**Preguntas principales – Landing Page:**
+
+- ¿Qué impresión le genera el diseño general del Landing Page al ingresar por primera vez?
+- ¿Le resultó fácil identificar de qué trata la aplicación desde la página principal?
+- ¿Considera que la información presentada en “Sobre nosotros” es clara y relevante?
+- ¿Tuvo dificultades para encontrar o completar el formulario de contacto?
+- ¿Le parece atractiva la estructura visual y el uso de colores?
+
+**Preguntas principales – Aplicación Móvil:**
+
+- ¿Le resultó fácil ingresar al sistema y entender la pantalla inicial?
+- ¿Cómo califica la claridad de los íconos y botones principales?
+- ¿Tuvo dificultades para identificar el inventario y los niveles de stock?
+- ¿Fue sencillo agregar un nuevo producto desde la app?
+- ¿Qué tan intuitivo fue el proceso para editar un producto existente?
+- ¿Le pareció clara la navegación entre las secciones (Dashboard, Inventario, Perfil)?
+- ¿Considera que los colores usados ayudan a identificar productos con poco stock o agotados?
+- ¿Tuvo algún error o confusión durante el uso de la aplicación?
+
+**Preguntas complementarias:**
+
+- ¿Qué tan cómodo se sintió realizando las tareas en el celular?
+- ¿Le gustaría que la aplicación funcione sin conexión a internet?
+- ¿Cree que esta app le ahorraría tiempo en su trabajo diario?
+- ¿Recomendaría esta aplicación a otros compañeros de su rubro?
+
+#**Registro de Entrevistas**
+
+**Segmento Objetivo: Trabajadores o encargados de inventario**
+
+[**<u>Ver Entrevistas Trabajadores o Encargados de
+Inventario</u>**]()
+
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 34%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>Entrevista</strong></th>
+<th style="text-align: left;"><strong>Nombre:</strong></th>
+<th colspan="2" style="text-align: left;">Victor</th>
+</tr>
+<tr>
+<th style="text-align: left;">1</th>
+<th style="text-align: left;"><strong>Apellido:</strong></th>
+<th colspan="2" style="text-align: left;">Meneses</th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Edad:</strong></th>
+<th style="text-align: left;"><strong>25</strong></th>
+<th style="text-align: left;"><strong>Distrito:</strong></th>
+<th style="text-align: left;">Pueblo Libre</th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><img src="./media/entrevistaVictor.png"
+style="width:6.05729in;height:3.41224in" /></th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><strong>Resumen:</strong> Víctor tuvo una experiencia muy positiva al probar la plataforma Stocker, destacando tanto su landing page como su aplicación móvil/web. Señaló que el diseño es atractivo, la información clara y la navegación intuitiva. No tuvo dificultades para entender el propósito del sitio ni para usar las funciones principales, como agregar o editar productos. Valoró la claridad de los íconos, la utilidad de los colores para identificar el stock y la fluidez general del sistema. Además, se sintió cómodo usando la app en el celular, sugirió que funcione sin conexión y afirmó que le ahorraría tiempo en su trabajo diario, recomendándola a otros del rubro.
+</th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><strong>Intervalo de Tiempo:
+0:00 - </strong></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+**Segmento Objetivo: Propietarios de tiendas de abarrotes**
+
+##**6.3.3. Evaluaciones según heurísticas**
 
 Capítulo VII: DevOps Practices
 
@@ -5860,6 +5994,207 @@ f\. Reversión (Rollback): Si se detecta algún problema en producción, el
 pipeline permite la reversión rápida a una versión anterior de la
 aplicación utilizando Semantic Versioning y el historial de despliegues
 en GitHub Actions.
+
+# **7.4. Continuous Monitoring**
+
+## **7.4.1. Tools and Practices**
+
+Algunas de las herramientas y prácticas para poder realizar un monitoreo continuo efectivo en nuestra aplicación son las siguientes: 
+
+- Para un monitoreo continuo eficaz, se emplean diversas herramientas que recopilan datos sobre el rendimiento de las aplicaciones y los sistemas. Entre las opciones más comunes se encuentran Prometheus, Grafana y ELK Stack (que incluye Elasticsearch, Logstash y Kibana). Además, existen soluciones especializadas de monitoreo de aplicaciones como New Relic o Datadog.
+
+- Métricas Clave: Es fundamental identificar las métricas esenciales para la aplicación, tales como el tiempo de respuesta, el consumo de recursos (CPU, memoria), el porcentaje de errores, la operatividad y el volumen de tráfico, entre otras.
+
+- Implementación de registros (logging): Para facilitar la depuración y la identificación de problemas, es esencial implementar sistemas de registro que capturen los eventos y la actividad de la aplicación.
+
+- Es crucial supervisar la infraestructura subyacente, incluyendo servidores, bases de datos y servicios de red, además de la propia aplicación.
+
+- Automatizar la recopilación de datos y la generación de informes de monitoreo es clave para minimizar la intervención manual y asegurar la coherencia en los datos.
+
+## **7.4.2. Monitoring Pipeline Components**
+
+- **Recopilación de Datos**: Durante esta fase, las herramientas de monitoreo recolectan información de diversas fuentes, tales como la aplicación, los sistemas de soporte y los registros.
+
+- **Almacenamiento de Datos**: Los datos se guardan en una base de datos o sistema de almacenamiento apropiado para su posterior análisis.
+
+- **Procesamiento y Análisis**: Los datos recopilados se someten a un proceso de análisis exhaustivo para identificar patrones, detectar anomalías y observar tendencias. Este examen busca revelar posibles problemas de rendimiento o la existencia de errores. 
+
+- **Visualización**: Se presentan tableros y gráficos con la información analizada, facilitando a los equipos de operaciones y desarrollo la comprensión del estado de la aplicación.
+
+
+## **7.4.3. Alerting Pipeline Components**
+
+La función de alerta es esencial para el monitoreo continuo: 
+
+- **Definición de Reglas**: Se configuran reglas y límites específicos para activar alertas. Por ejemplo, se podría generar una alerta si la tasa de errores excede un nivel preestablecido.
+
+- **Generación de Alertas**: Cuando las reglas preestablecidas se cumplen, se emiten alertas. Estas pueden manifestarse como notificaciones visuales en paneles de control o como mensajes dirigidos a los sistemas de notificación pertinentes.
+
+- **Notificación a Equipos**: Las alertas generadas se comunican a los equipos apropiados, como los de desarrollo y operaciones, facilitando así una acción correctiva oportuna.
+
+
+## **7.4.4. Notification Pipeline Components.**
+
+- **Canales de Comunicación**: Se implementarán diversos canales, como correo electrónico, mensajes de texto y aplicaciones de chat (por ejemplo, Slack), para enviar notificaciones de manera efectiva.
+
+- **Priorización de Alertas**: Es posible establecer una prioridad para las alertas basándose en su gravedad, lo que facilita que los equipos dirijan su atención inicialmente hacia las de mayor criticidad.
+
+- **Registro de Acciones**: Se mantiene un historial de incidentes y se fomenta el aprendizaje continuo mediante el registro de cada acción ejecutada en respuesta a una alerta.
+
+Capítulo VIII: Experiment-Driven Development
+
+# **8.1. Experiment Planning**
+
+## **8.1.1. As-Is Summary**
+ 
+Actualmente, InventoryPro se encuentra en una etapa funcional donde los usuarios pueden registrar, visualizar y actualizar productos del inventario tanto desde la versión web como móvil.
+Sin embargo, durante la etapa de validación y auditorías se identificaron algunos puntos de mejora relacionados con la experiencia de usuario y la eficiencia operativa, especialmente en tareas como la búsqueda, actualización y exportación de datos.
+
+## **8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.**
+
+**Ideas**
+
+- Incorporar envío automático de reportes por correo electrónico para mantener informados a los usuarios sin necesidad de ingreso manual.
+
+
+- Implementar internacionalización (i18n) para ofrecer la aplicación en múltiples idiomas 
+
+
+- Incluir modo oscuro para mejorar la accesibilidad y confort visual.
+
+
+- Añadir notificaciones internas que alerten sobre actualizaciones o movimientos de stock.
+
+
+- Desarrollar generación automática de reportes PDF para exportar información lista para impresión o análisis.
+
+
+**Claims** 
+
+- “Recibir reportes automáticos por correo ahorra tiempo y mejora el control del negocio.”
+
+
+- “La opción multilenguaje incrementa el número de usuarios internacionales.”
+
+
+- “El modo oscuro reduce la fatiga visual y aumenta la satisfacción del usuario.”
+
+
+- “Las notificaciones dentro de la app mejoran la comunicación y reducen errores.”
+
+
+- “La generación automática de PDFs simplifica la elaboración de informes y mejora la presentación de datos.”
+
+
+**Assumptions** 
+
+- Si los usuarios reciben reportes automáticos por correo, el tiempo dedicado a consultar datos manualmente disminuirá en un 30%, aumentando la eficiencia operativa semanal.
+
+
+- Al implementar soporte multilenguaje, la tasa de adopción y retención de usuarios internacionales aumentará en un 20% en los primeros tres meses de lanzamiento.
+
+
+- La incorporación del modo oscuro incrementará la satisfacción del usuario en un 25% y reducirá la tasa de abandono durante sesiones prolongadas en un 15%.
+
+
+- Con la activación de notificaciones internas, el tiempo promedio de respuesta ante alertas de stock bajo o eventos críticos se reducirá en un 40%.
+
+
+- Al generar reportes automáticos en PDF, el tiempo de preparación de informes administrativos se reducirá en un 35%, y la percepción de profesionalismo del sistema aumentará en un 20% según encuestas de satisfacción.
+
+**Knowledge Gaps** 
+
+- Se desconoce si los usuarios realmente revisarían reportes enviados por correo o seguirían accediendo manualmente.
+
+
+- No hay datos sobre el impacto del modo oscuro en la retención o satisfacción del usuario.
+
+
+- Falta evidencia sobre cómo las notificaciones afectan la productividad.
+
+
+- No se sabe cuál es el idioma preferido o la necesidad real de internacionalización.
+
+
+- No está medido el ahorro de tiempo al generar PDFs automáticos frente a hacerlo manualmente.
+
+## **8.1.3. Experiment-Ready Questions.**
+
+**Preguntas impulsadas por creencias (Belief-led)**
+
+- ¿El envío automático de reportes por correo aumenta la eficiencia y reduce el tiempo de consulta manual?
+
+- ¿La internacionalización mejora la adopción de la app por parte de usuarios internacionales?
+
+- ¿El modo oscuro incrementa la satisfacción general de los usuarios durante sesiones prolongadas?
+
+- ¿Las notificaciones internas mejoran la capacidad de respuesta ante eventos importantes (alertas o stock bajo)?
+
+- ¿La generación automática de PDFs reduce el tiempo total de preparación de informes y mejora la presentación visual?
+  
+**Preguntas exploratorias (Exploratory)**
+ 
+- ¿Qué tan frecuentemente los usuarios abren los reportes enviados por correo y cómo interpretan su contenido?
+
+- ¿Qué idiomas resultan prioritarios para los nuevos usuarios al ingresar a la app?
+
+- ¿En qué contextos los usuarios prefieren el modo oscuro sobre el modo claro (entorno, hora del día, tipo de dispositivo)?
+
+- ¿Qué tipos de notificaciones son percibidas como más útiles o menos intrusivas?
+
+- ¿Qué formato de reporte PDF es considerado más profesional o comprensible por los usuarios?
+
+
+## **8.1.4. Question Backlog.**
+
+| Pregunta Experimental      | Tipo         | Por qué (Motivación)      | Confianza(C) | Riesgo(R) | Impacto(I) | Interés(T) | Prioridad  |
+|---------|--------------|------------|--------------|-----------|------------|------------|------------|
+| ¿El envío automático de reportes por correo aumenta la eficiencia y reduce el tiempo de consulta manual? | Belief-led   | Validar la automatización como mejora de eficiencia operativa.  | 3            | 5         | 5          | 5          | Alta       |
+| ¿La generación automática de PDFs reduce el tiempo total de preparación de informes?                     | Belief-led   | Determinar si la generación directa aporta un beneficio me      | 3            | 4         | 5          | 5          | Alta       |
+| ¿Las notificaciones internas mejoran la capacidad de respuesta ante eventos de stock o alertas?          | Belief-led   | Verificar si la comunicación in-app reduce tiempos de reacción. | 4            | 4         | 4          | 4          | Media-Alta |
+| ¿El modo oscuro incrementa la satisfacción de los usuarios durante sesiones prolongadas?                 | Belief-led   | Evaluar el impacto visual y de confort del modo oscuro.         | 3            | 4         | 4          | 4          | Media      |
+| ¿La internacionalización mejora la adopción entre usuarios internacionales?                              | Belief-led   | Explorar si el idioma influye en la retención.                  | 3            | 3         | 4          | 4          | Media      |
+| ¿Qué tan frecuentemente los usuarios abren los reportes enviados por correo?                             | Exploratoria | Medir el engagement real con los reportes automatizados.        | 2            | 3         | 3          | 4          | Media-Baja |
+| ¿Qué tipos de notificaciones son percibidas como más útiles o menos intrusivas?                          | Exploratoria | Optimizar la relevancia de la mensajería interna.               | 2            | 3         | 3          | 3          | Media-Baja |
+| ¿En qué contextos los usuarios prefieren el modo oscuro sobre el claro?                                  | Exploratoria | Comprender la adopción según entorno y hora de uso.             | 2            | 2         | 3          | 3          | Baja       |
+
+## **8.1.5.  Experiment Cards.**
+
+| Pregunta             | ¿El envío automático de reportes por correo aumenta la eficiencia y reduce el tiempo de consulta manual?    |
+|----------------------|-------------------------------------------------------------------------------------------------------------|
+| Por qué              | Evaluar si la automatización aporta valor operativo.                                                        |
+| Hipótesis            | Si los usuarios reciben reportes automáticos, reducirán en un 30% el tiempo destinado a la revisión manual. |
+| Simples Useful Thing | Implementar envío semanal de reportes automáticos y medir reducción de consultas manuales.                  |
+
+
+| Pregunta             | ¿La generación automática de PDFs reduce el tiempo total de preparación de informes y mejora su presentación? |
+|----------------------|---------------------------------------------------------------------------------------------------------------|
+| Por qué              | Validar si esta función mejora eficiencia y profesionalismo.                                                  |
+| Hipótesis            | Si los reportes se generan automáticamente, los usuarios reducirán su tiempo de elaboración en al menos 40%.  |
+| Simples Useful Thing | Comparar informes generados manualmente vs PDF automático.                                                    |
+
+
+| Pregunta             | ¿Las notificaciones internas mejoran la capacidad de respuesta ante eventos de stock o alertas? |
+|----------------------|-------------------------------------------------------------------------------------------------|
+| Por qué              | Determinar si la comunicación en tiempo real impacta la eficiencia.                             |
+| Hipótesis            | Si se implementan notificaciones, los usuarios reaccionarán un 25% más rápido.                  |
+| Simples Useful Thing | Activar alertas internas ante stock bajo y medir tiempo de respuesta.                           |
+
+
+| Pregunta             | ¿El modo oscuro incrementa la satisfacción de los usuarios durante sesiones prolongadas? |
+|----------------------|------------------------------------------------------------------------------------------|
+| Por qué              | Evaluar impacto visual y de confort.                                                     |
+| Hipótesis            | El modo oscuro aumentará la satisfacción del usuario en al menos 15%.                    |
+| Simples Useful Thing | Comparar sesiones de uso con modo claro y oscuro.                                        |
+
+
+| Pregunta             | ¿La internacionalización mejora la adopción de la app por parte de usuarios internacionales? |
+|----------------------|----------------------------------------------------------------------------------------------|
+| Por qué              | Validar si el soporte multilenguaje impacta la retención.                                    |
+| Hipótesis            | La tasa de adopción aumentará en al menos 20% en usuarios que usan su idioma nativo.         |
+| Simples Useful Thing | Habilitar versión en inglés y medir crecimiento de usuarios no hispanohablantes.             |
+
+# **8.2.  Experiment Design.**
 
 # **Conclusiones.**
 
