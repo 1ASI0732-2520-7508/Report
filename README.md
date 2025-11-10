@@ -5780,7 +5780,7 @@ y evitar acumulación de deuda.
 - ¿Cree que esta app le ahorraría tiempo en su trabajo diario?
 - ¿Recomendaría esta aplicación a otros compañeros de su rubro?
 
-#**Registro de Entrevistas**
+# **Registro de Entrevistas**
 
 **Segmento Objetivo: Trabajadores o encargados de inventario**
 
@@ -5830,7 +5830,7 @@ style="width:6.05729in;height:3.41224in" /></th>
 
 **Segmento Objetivo: Propietarios de tiendas de abarrotes**
 
-##**6.3.3. Evaluaciones según heurísticas**
+## **6.3.3. Evaluaciones según heurísticas**
 
 Capítulo VII: DevOps Practices
 
