@@ -6614,6 +6614,29 @@ Para evaluar el impacto de los experimentos y validar las hipótesis planteadas,
 
 **Optimización y Retroalimentación**: Se harán ajustes continuos en la plataforma según los hallazgos, combinando datos cuantitativos con la retroalimentación directa de los usuarios para mejorar su experiencia.
 
+## 8.3. Experimentation
+
+### 8.3.1. To-Be User Stories
+
+| User Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
+|---|---|---|---|---|
+| UA01 | Validar valores correctos en el campo de stock | Como usuario que gestiona inventario, quiero que el campo de stock solo permita números positivos, para evitar errores y mantener la información confiable. | **Escenario 1: Validación al ingresar stock**<br>**Given** el usuario está en la vista de registro o edición de producto.<br>**When** ingresa un valor negativo o letras.<br>**Then** el sistema muestra mensaje de error y bloquea el registro. | E01 |
+| UA02 | Optimizar filtros de búsqueda de productos | Como usuario, quiero buscar productos fácilmente mediante coincidencias parciales, para encontrar rápidamente los ítems dentro del inventario. | **Escenario 1: Búsqueda reactiva**<br>**Given** el usuario escribe en el campo de filtro.<br>**When** ingresa parte del nombre del producto.<br>**Then** la tabla lista resultados que coinciden parcialmente. | E01 |
+| UA03 | Mostrar notificaciones en acciones de inventario | Como usuario, quiero recibir notificaciones al agregar, editar o eliminar productos, para confirmar que mis acciones fueron registradas correctamente. | **Escenario 1: Mensaje de confirmación**<br>**Given** el usuario realiza una acción de inventario.<br>**When** se confirma la operación.<br>**Then** se muestra una notificación tipo “toast” visible y clara. | E02 |
+| UA04 | Mejorar diferenciación visual entre botones críticos | Como usuario, quiero que los botones de guardar y eliminar tengan diferencias visuales claras, para evitar errores al interactuar. | **Escenario 1: Prevención de errores**<br>**Given** el usuario se encuentra en la vista de edición.<br>**When** observa los botones.<br>**Then** el botón “Eliminar” se presenta en un color de advertencia y separado del botón “Guardar”. | E03 |
+| UA05 | Validar datos obligatorios en registro de usuario | Como administrador, quiero que el registro requiera campos completos y correos válidos, para asegurar la integridad de usuarios creados. | **Escenario 1: Validación de campos**<br>**Given** el usuario está registrando una cuenta.<br>**When** deja campos vacíos o ingresa un correo inválido.<br>**Then** el sistema muestra advertencia y evita continuar. | E04 |
+
+
+### 8.3.2. To-Be Product Backlog
+
+| Orden | User Story ID | Título | Story Points (1 / 2 / 3 / 5 / 8) |
+|---|---|---|---|
+| 1 | UA01 | Validar valores correctos en el campo de stock | 3 |
+| 2 | UA02 | Optimizar filtros de búsqueda en productos | 3 |
+| 3 | UA03 | Mostrar notificaciones “toast” en acciones CRUD | 2 |
+| 4 | UA04 | Diferenciar botones críticos mediante estilo visual | 2 |
+| 5 | UA05 | Validar campos y correo en registro de usuario | 3 |
+
 
 # **Conclusiones.**
 
