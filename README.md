@@ -6196,6 +6196,189 @@ Sin embargo, durante la etapa de validación y auditorías se identificaron algu
 
 # **8.2.  Experiment Design.**
 
+## **8.2.1.  Hypotheses.**
+
+| Funcionalidad       | Hipótesis de trabajo      | Hipótesis nula           | Medibilidad               |
+|-----------|-----------|-------|--------------------|
+| Envío automático de reportes por correo | Si se implementa el envío automático, los usuarios reducirán en 30% el tiempo de consulta manual. | No existe diferencia significativa en el tiempo de consulta manual con o sin reportes automáticos. | Tiempo promedio de consulta antes/después de la automatización. |
+| Generación automática de PDFs           | Si los reportes se generan automáticamente, el tiempo de elaboración se reducirá al menos 40%.    | No hay reducción significativa en el tiempo de elaboración.                                        | Duración promedio de generación de reportes.                    |
+| Notificaciones internas                 | Si se activan notificaciones, los usuarios responderán un 25% más rápido ante alertas.            | Las notificaciones no modifican el tiempo de respuesta.                                            | Tiempo de reacción ante alertas de stock bajo.                  |
+| Modo oscuro                             | Si se habilita el modo oscuro, la satisfacción del usuario aumentará en al menos 15%.             | No hay diferencia en la satisfacción entre usuarios con modo claro u oscuro.                       | Encuestas de satisfacción (escala Likert 1–5).                  |
+| Internacionalización                    | Si se implementa multilenguaje, la adopción internacional aumentará al menos 20%.                 | No existe cambio significativo en la adopción de usuarios internacionales.                         | Crecimiento porcentual de usuarios no hispanohablantes.         |
+
+## **8.2.2.  Domain Business Metrics.**
+
+| Métrica     | Descripción      | Fórmula      | Tecnica de recoleccion      | Meta         |
+|-----------|------------|----------------|-----------------|--------------|
+| Tiempo promedio de consulta manual | Mide cuánto tardan los usuarios en acceder a datos sin reportes automáticos. | Σ(tiempo consulta manual) / N                                      | Registro de logs y temporizador de sesión  | Reducir 30%  |
+| Tiempo de generación de reportes   | Evalúa la eficiencia en la creación de informes administrativos.             | Σ(tiempo generación) / N                                           | Análisis de tiempos del módulo de reportes | Reducir 40%  |
+| Tiempo de respuesta ante alertas   | Mide la rapidez en responder a notificaciones críticas.                      | Σ(tiempo respuesta) / N                                            | Registro de eventos y logs de alertas      | Reducir 25%  |
+| Nivel de satisfacción del usuario  | Determina la percepción general del usuario.                                 | Promedio encuesta Likert (1–5)                                     | Encuestas post-uso                         | Aumentar 15% |
+| Tasa de adopción internacional     | Mide el crecimiento de usuarios no hispanohablantes.                         | (Usuarios internacionales nuevos / Total de nuevos usuarios) × 100 | Análisis de datos de registro              | Aumentar 20% |
+
+## **8.2.3.  Measures.**
+
+- **Envío automático de reportes**: Se mide por la cantidad de reportes abiertos y la reducción de consultas manuales. Si los usuarios abren más reportes y consultan menos el panel, hay mayor eficiencia y adopción del sistema.
+
+
+- **Generación automática de reportes en PDF**: Se evalúa por el número de reportes automáticos y la disminución del tiempo de creación manual. Más reportes automáticos y menos tiempo manual indican mayor productividad.
+
+
+- **Notificaciones internas**: Se analiza el número de notificaciones recibidas y el tiempo de respuesta ante alertas. Respuestas más rápidas y eficientes reflejan mejor gestión y comunicación.
+
+
+- **Modo oscuro**: Se mide por la cantidad de usuarios que activan esta opción y su nivel de satisfacción. Más usuarios y mayor satisfacción indican una mejor experiencia visual y mayor retención.
+
+
+- **Internacionalización (i18n)**: Se observa el número de usuarios que usan otros idiomas y su tasa de retención. Más usuarios internacionales activos muestran éxito en la expansión global.
+
+
+- **Eficiencia operativa y satisfacción general**: Se evalúa mediante el tiempo promedio de interacción y la frecuencia de uso semanal. Un uso equilibrado y frecuente refleja valor, fidelización y eficiencia del sistema.
+
+## **8.2.4.  Conditions.**
+
+- **Público Objetivo**: Las pruebas estarán dirigidas a PYMEs del sector retail y abarrotes en Perú, principalmente en Lima Metropolitana, que ya usan InventoryPro para gestionar su inventario.
+
+
+- **Entorno de Pruebas**: Los experimentos se harán en la versión beta de InventoryPro, con un grupo experimental (nuevas funciones) y otro de control (versión estándar), tanto en web como en móvil.
+
+
+- **Empresas Participantes**: Participarán 10 empresas minoristas representativas, seleccionadas por su uso frecuente del sistema y su disposición a dar retroalimentación.
+
+
+- **Período de Pruebas**: Las pruebas durarán cuatro semanas, activando gradualmente las nuevas funciones y registrando métricas de uso, desempeño y satisfacción.
+
+
+- **Control de Variables Externas**: Se controlarán factores externos como demanda estacional, conectividad o actualizaciones, asegurando condiciones similares entre los grupos.
+
+
+- **Participación Activa de Usuarios**: Se motivará la participación con tutoriales, incentivos y canales de retroalimentación dentro de la app para mejorar continuamente el sistema.
+
+
+- **Consentimiento Informado**: Los participantes serán informados sobre los objetivos, datos recopilados y condiciones del estudio, garantizando confidencialidad y uso ético de los datos.
+
+
+- **Muestra Representativa**: La muestra incluirá unos 120 usuarios activos, divididos entre grupo experimental y de control, con distintos roles empresariales para asegurar diversidad.
+
+
+- **Colaboración con Empresas Participantes**: Se firmarán acuerdos con las empresas para definir alcance, duración y canales de comunicación directa con el equipo de desarrollo y soporte.
+
+
+- **Medición y Evaluación Continua**: Se recopilarán y analizarán datos de forma continua durante el experimento, comparando ambos grupos para ajustar y optimizar las funcionalidades antes del lanzamiento final.
+
+## **8.2.5.  Scale Calculations and Decisions.**
+
+- **Tamaño de la Muestra Piloto**: Se elegirá una muestra representativa de usuarios activos, ajustando su tamaño según la funcionalidad, el alcance de los cambios y la capacidad técnica del sistema.
+
+
+- **Pruebas en Pequeña Escala**: Las nuevas funciones se probarán inicialmente con un grupo reducido de usuarios de universidades como la UPC, Universidad de Lima o PUCP, para detectar errores y medir la aceptación inicial.
+
+
+- **Expansión Gradual**: Tras validar los resultados positivos de la fase piloto, las pruebas se ampliarán progresivamente a más universidades y regiones del país, comprobando la estabilidad en distintos entornos.
+
+
+- **Escalabilidad Técnica y Recursos**: La expansión dependerá de la capacidad del sistema y del soporte técnico disponible, evaluando estabilidad, velocidad y seguridad antes de aumentar el número de usuarios.
+
+
+- **Monitoreo y Control Continuo**: Se supervisará constantemente el rendimiento del sistema mediante métricas como tasa de errores, tiempos de carga y satisfacción del usuario, garantizando una experiencia estable.
+
+
+- **Evaluación de Resultados**: Al final de cada fase se analizarán los resultados cuantitativos y cualitativos para medir el impacto en la interacción, retención y frecuencia de uso, orientando las decisiones futuras.
+
+
+- **Comunicación y Coordinación con Instituciones**: Se mantendrá contacto permanente con las universidades participantes para informar sobre avances, beneficios y resultados, asegurando una implementación fluida y colaborativa.
+
+
+- **Retroalimentación del Usuario**: Se recogerán opiniones mediante encuestas y formularios, y sus comentarios servirán para ajustar y mejorar las funcionalidades antes de su implementación masiva.
+
+
+## **8.2.6.  Methods Selection.**
+
+- **Selección de Metodologías**: Se elegirán las técnicas más adecuadas según los objetivos, la viabilidad técnica y el tipo de variable a analizar (comportamiento, rendimiento o satisfacción).
+
+
+- **Pruebas A/B**: Se compararán dos versiones de una misma funcionalidad para determinar cuál genera mayor interacción, retención o satisfacción entre los usuarios.
+
+
+- **Grupos de Control y Experimentales**: Se usarán grupos de control (versión actual) y experimentales (nuevas funciones) para medir objetivamente los efectos de las mejoras y reducir sesgos externos.
+
+
+- **Experimentos en Entornos Reales**: Se realizarán pruebas en contextos reales de uso para obtener datos más precisos sobre la usabilidad, estabilidad y aceptación de las nuevas funcionalidades.
+
+
+- **Análisis Cuantitativo y Cualitativo**: Se combinarán métricas numéricas (uso, tiempos, frecuencia) con datos cualitativos (encuestas y entrevistas) para lograr una visión completa del impacto.
+
+
+- **Criterios de Selección del Método**: La elección final dependerá del tipo de experimento, recursos, cantidad de usuarios y nivel de riesgo, priorizando métodos confiables que no afecten la experiencia del usuario.
+
+## **8.2.7. Data Analytics: Goals, KPIs and Metrics Selection.**
+
+Para evaluar el impacto de los experimentos y validar las hipótesis planteadas, se establecerá un plan de análisis de datos que permita interpretar de forma clara los resultados obtenidos. Este plan definirá los objetivos de análisis, las métricas clave de rendimiento (KPIs) y las métricas específicas para medir el éxito de las implementaciones.
+
+**Objetivos del Análisis de Datos**: El principal objetivo será determinar si las nuevas funcionalidades o prácticas implementadas generan una mejora significativa en la interacción, participación y satisfacción de los usuarios. Además, se buscará identificar patrones de comportamiento que ayuden a optimizar la experiencia y el rendimiento de la plataforma.
+
+**Métricas Clave de Rendimiento (KPIs)**: Se establecerán indicadores que permitan medir el desempeño general de los usuarios y del sistema, tales como:
+
+- **Tasa de participación activa**: porcentaje de usuarios que utilizan regularmente las nuevas funcionalidades.
+
+
+- **Nivel de interacción**: cantidad promedio de acciones realizadas por usuario (como creación de contenido, envío de mensajes o actualizaciones de perfil).
+
+
+- **Retención de usuarios**: porcentaje de usuarios que permanecen activos después del periodo de prueba.
+
+
+- **Satisfacción del usuario**: resultado promedio obtenido a través de encuestas de retroalimentación o valoraciones.
+
+
+**Métricas Específicas de Evaluación**: Para un análisis más detallado, se considerarán métricas específicas según el tipo de funcionalidad evaluada, como:
+
+- Número de perfiles creados o actualizados, para medir compromiso.
+
+- Tiempo promedio de respuesta o carga, para evaluar la eficiencia del sistema.
+
+- Frecuencia de uso de nuevas herramientas o secciones.
+
+- Número de interacciones entre usuarios (mensajes, colaboraciones, comentarios).
+
+
+**Análisis e Interpretación de Resultados**: Los datos recopilados se procesarán utilizando técnicas estadísticas descriptivas y comparativas, permitiendo identificar tendencias, correlaciones y variaciones significativas entre grupos. Los resultados serán interpretados en función de los objetivos iniciales del experimento para determinar si las hipótesis se cumplen o requieren ajustes.
+
+**Reporte y Toma de Decisiones**: Finalmente, los hallazgos serán documentados en informes de resultados, los cuales servirán como base para la toma de decisiones sobre futuras implementaciones o mejoras. Se elaborarán visualizaciones y resúmenes ejecutivos que faciliten la comunicación de los resultados a los equipos de desarrollo, diseño y gestión.
+
+## **8.2.8. Web and Mobile Tracking Plan.**
+
+**Objetivo General**: Crear un plan integral de seguimiento de datos en las versiones web y móvil para medir el comportamiento del usuario y el impacto de las mejoras.
+
+
+**Herramientas de Seguimiento**: Se integrarán sistemas de analítica como Google Analytics, Firebase Analytics o Mixpanel para registrar eventos clave en tiempo real (uso, retención, navegación, conversiones).
+
+
+**Eventos y Variables a Monitorear**:
+
+- Registro y actualización de perfiles.
+
+- Envío/recepción de mensajes o notificaciones.
+
+- Participación en actividades o eventos.
+
+- Uso de nuevas funcionalidades.
+
+- Interacciones en módulos clave (búsquedas, filtros, accesos).
+
+
+**Sincronización entre Plataformas**: Se garantizará coherencia entre los datos de la versión web y móvil para obtener una visión unificada del comportamiento del usuario.
+
+
+**Privacidad y Cumplimiento Normativo**: Se respetarán las leyes de protección de datos (Ley peruana y RGPD europeo), asegurando consentimiento informado y uso ético de la información.
+
+
+**Análisis y Monitoreo Continuo**: Los datos se analizarán periódicamente mediante dashboards interactivos que mostrarán métricas y tendencias en tiempo real para apoyar decisiones basadas en evidencia.
+
+
+**Optimización y Retroalimentación**: Se harán ajustes continuos en la plataforma según los hallazgos, combinando datos cuantitativos con la retroalimentación directa de los usuarios para mejorar su experiencia.
+
+
 # **Conclusiones.**
 
 - El proceso de investigación que consistió en las entrevistas a
