@@ -5828,11 +5828,247 @@ style="width:6.05729in;height:3.41224in" /></th>
 </tbody>
 </table>
 
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 34%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>Entrevista</strong></th>
+<th style="text-align: left;"><strong>Nombre:</strong></th>
+<th colspan="2" style="text-align: left;">Victor</th>
+</tr>
+<tr>
+<th style="text-align: left;">1</th>
+<th style="text-align: left;"><strong>Apellido:</strong></th>
+<th colspan="2" style="text-align: left;">Meneses</th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Edad:</strong></th>
+<th style="text-align: left;"><strong>25</strong></th>
+<th style="text-align: left;"><strong>Distrito:</strong></th>
+<th style="text-align: left;">Pueblo Libre</th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><img src="./media/entrevistaVictor.png"
+style="width:6.05729in;height:3.41224in" /></th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><strong>Resumen:</strong> Víctor tuvo una experiencia muy positiva al probar la plataforma Stocker, destacando tanto su landing page como su aplicación móvil/web. Señaló que el diseño es atractivo, la información clara y la navegación intuitiva. No tuvo dificultades para entender el propósito del sitio ni para usar las funciones principales, como agregar o editar productos. Valoró la claridad de los íconos, la utilidad de los colores para identificar el stock y la fluidez general del sistema. Además, se sintió cómodo usando la app en el celular, sugirió que funcione sin conexión y afirmó que le ahorraría tiempo en su trabajo diario, recomendándola a otros del rubro.
+</th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><strong>Intervalo de Tiempo:
+0:00 - </strong></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 34%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>Entrevista</strong></th>
+<th style="text-align: left;"><strong>Nombre:</strong></th>
+<th colspan="2" style="text-align: left;">Victor</th>
+</tr>
+<tr>
+<th style="text-align: left;">1</th>
+<th style="text-align: left;"><strong>Apellido:</strong></th>
+<th colspan="2" style="text-align: left;">Meneses</th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Edad:</strong></th>
+<th style="text-align: left;"><strong>25</strong></th>
+<th style="text-align: left;"><strong>Distrito:</strong></th>
+<th style="text-align: left;">Pueblo Libre</th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><img src="./media/entrevistaVictor.png"
+style="width:6.05729in;height:3.41224in" /></th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><strong>Resumen:</strong> Víctor tuvo una experiencia muy positiva al probar la plataforma Stocker, destacando tanto su landing page como su aplicación móvil/web. Señaló que el diseño es atractivo, la información clara y la navegación intuitiva. No tuvo dificultades para entender el propósito del sitio ni para usar las funciones principales, como agregar o editar productos. Valoró la claridad de los íconos, la utilidad de los colores para identificar el stock y la fluidez general del sistema. Además, se sintió cómodo usando la app en el celular, sugirió que funcione sin conexión y afirmó que le ahorraría tiempo en su trabajo diario, recomendándola a otros del rubro.
+</th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><strong>Intervalo de Tiempo:
+0:00 - </strong></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
 **Segmento Objetivo: Propietarios de tiendas de abarrotes**
+
+### Segmento Objetivo: Propietarios de tiendas de abarrotes
+
+#### Entrevista 1
+**Nombre:** Maruja Montalvo Cobos  
+**Edad:** 58 años  
+**Distrito:** Cuzco  
+**Intervalo:** 0:00 – 5:24
+
+**Resumen:**  
+Maruja considera la aplicación muy útil, ya que responde a las principales dificultades en la gestión de inventario. Destaca especialmente la facilidad de uso, lo cual confirma la intención de desarrollar una herramienta accesible incluso para usuarios mayores. Además, valora la funcionalidad de exportar inventarios a Excel, que considera práctica para su manejo diario.
+
+---
+
+#### Entrevista 2
+**Nombre:** Valeria Carpio Cori  
+**Edad:** 25 años  
+**Distrito:** Surco  
+**Intervalo:** 0:00 – 4:38
+
+**Resumen:**  
+Valeria destaca el diseño atractivo de la aplicación y la paleta de colores utilizada. Considera que la organización de la landing page y las pantallas internas es intuitiva y fácil de comprender. Al igual que otros usuarios, resalta la funcionalidad de exportar datos a Excel por su simplicidad y utilidad en la gestión del negocio.
+
+---
+
+#### Entrevista 3
+**Nombre:** Esteban Luis Tenorio  
+**Edad:** 30 años  
+**Distrito:** Cuzco  
+**Intervalo:** 0:00 – 4:47
+
+**Resumen:**  
+Esteban encontró la aplicación muy sencilla de utilizar. Si bien considera que los colores son adecuados, mencionó que podrían ser más llamativos para mejorar el atractivo visual. Valoró positivamente que todas las funciones sean claras y fáciles de entender, lo que contribuyó a una experiencia satisfactoria.
+
+---
+
+
 
 ## **6.3.3. Evaluaciones según heurísticas**
 
 Capítulo VII: DevOps Practices
+
+## 6.4. Auditoría de Experiencias de Usuario
+
+### 6.4.1. Auditoría realizada
+
+#### 6.4.1.1. Información del grupo auditado
+
+**Nombre del grupo:** StockMind  
+**Producto:** InventoryPro
+
+**Integrantes:**
+- Barturen Guzmán, Alejandro Nicolás
+- Beingolea Montalvo, Sebastián Martín
+- Cuba Pareja, Joaquín
+- Martínez Valdivia, José Luis
+
+#### 6.4.1.2. Cronograma de auditoría realizada
+
+La auditoría de experiencia de usuario se llevó a cabo el **09 de noviembre de 2025**, durante la semana 11 del curso, siguiendo el plan de verificación y validación establecido en el informe del proyecto y el pipeline de experimentación.  
+La sesión consistió en:
+- Revisión del flujo de interacción
+- Evaluación heurística
+- Prueba exploratoria
+- Registro de observaciones
+
+#### 6.4.1.3. Contenido de auditoría realizada
+
+Durante el desarrollo del proyecto **InventoryPro**, el equipo **StockMind** demostró un desempeño organizado, colaborativo y consistente en las entregas TB1 y TP. Cada integrante asumió funciones clave:
+
+- **Alejandro Barturen:** Documentación del proyecto, diseño y análisis de entrevistas. Su trabajo permitió establecer una base conceptual sólida.
+- **Sebastián Beingolea:** Liderazgo en arquitectura del sistema y desarrollo móvil. Su aporte garantizó la coherencia entre visión e implementación técnica.
+- **Joaquín Cuba:** Desarrollo móvil, documentación de sprints y elaboración de la RESTful API Documentation.
+- **José Luis Martínez:** Desarrollo frontend y backend de la aplicación web, integración de API y pruebas funcionales.
+
+El equipo mostró disciplina, coordinación y orientación a resultados, cumpliendo plazos con calidad y obteniendo evaluaciones equivalentes a **20/20**.  
+Esto evidencia gestión estructurada, comunicación interna eficiente y alineación clara respecto a la visión del producto.
+
+---
+
+### 6.4.2. Auditoría recibida
+
+#### 6.4.2.1. Información del grupo auditor
+
+La auditoría fue realizada por el grupo **Go6U**, representado por **Paolo Torres**.
+
+**Objetivo:** Evaluar usabilidad, arquitectura de información, consistencia visual y calidad de interacción para propietarios y trabajadores de tiendas de abarrotes.
+
+#### 6.4.2.2. Cronograma de auditoría recibida
+
+La auditoría se realizó el **09 de noviembre de 2025**, durante la semana 11 del curso **Diseño de Experimentos de Ingeniería de Software**.
+
+#### 6.4.2.3. Contenido de auditoría recibida
+
+**Evaluación:** UX Heuristics & Principles – Usability – Inclusive Design – Information Architecture  
+**Carrera:** Ingeniería de Software  
+**Profesor:** Julio Manuel Noriega Meléndez  
+**Auditor:** Paolo Torres  
+**Cliente:** Grupo StockMind
+
+**Aplicación evaluada:** *InventoryPro*  
+Aplicación para gestión de inventarios y control de stock en tiendas de abarrotes.
+
+**Tareas evaluadas:**
+- Registro de usuario
+- Inicio de sesión
+- Visualización de inventario
+- Agregar producto
+- Editar stock
+- Filtros de búsqueda
+- Visualización de alertas por bajo stock
+
+**Tareas no incluidas:**
+- Exportación de reportes
+- Integración con proveedores
+- Notificaciones automáticas
+- Módulo de analíticas
+
+##### Escala de severidad
+| Nivel | Descripción |
+|------|-------------|
+| 1 | Problema superficial |
+| 2 | Problema menor |
+| 3 | Problema mayor |
+| 4 | Problema muy grave |
+
+##### Tabla resumen de problemas
+| # | Problema | Severidad | Heurística violada |
+|---|----------|-----------|-------------------|
+| 1 | Stock permite valores inválidos | 3 | Prevención de errores |
+| 2 | Filtros no actualizan correctamente | 2 | Findability |
+| 3 | Registro permite campos incompletos | 3 | Consistencia y estándares |
+| 4 | No hay notificaciones claras | 3 | Visibilidad del estado del sistema |
+| 5 | Botones críticos sin diferenciación visual | 2 | Señales y jerarquía visual |
+
+##### Descripción de Problemas (resumen)
+
+1. **Stock inválido** → Implementar validación estricta numérica.
+2. **Filtros poco funcionales** → Mejorar búsqueda a coincidencias parciales y actualización reactiva.
+3. **Registro incompleto** → Agregar validadores obligatorios y guías.
+4. **Sin retroalimentación** → Agregar notificaciones de éxito/error (toasts).
+5. **Botones sin jerarquía visual** → Aplicar colores y espaciado diferenciado.
+
+**Versión del documento:** V1.0  
+**Puntaje total:** 20
+
+---
+
+### 6.4.2.4. Resumen de modificaciones para subsanar hallazgos
+
+Mejoras implementadas tras la auditoría:
+- Validación reforzada del stock (solo valores numéricos positivos).
+- Búsqueda optimizada con coincidencias parciales y actualización en tiempo real.
+- Registro seguro con validaciones obligatorias y formatos.
+- Notificaciones claras en acciones CRUD.
+- Jerarquía visual mejorada en botones críticos.
+
+Estas mejoras fortalecen la **consistencia, confiabilidad y fluidez** de la experiencia, alineando InventoryPro con principios de **diseño centrado en el usuario**.
+
 
 # **7.1. Continuous Integration**
 
