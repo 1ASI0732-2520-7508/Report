@@ -5705,7 +5705,7 @@ y evitar acumulación de deuda.
 
 # **6.3. Validation Interview** 
 
-##**6.3.1. Diseño Entrevistas**
+## **6.3.1. Diseño Entrevistas**
 
 **Segmento 1: Propietarios de tiendas de abarrotes:**
 
@@ -6636,6 +6636,762 @@ Para evaluar el impacto de los experimentos y validar las hipótesis planteadas,
 | 3 | UA03 | Mostrar notificaciones “toast” en acciones CRUD | 2 |
 | 4 | UA04 | Diferenciar botones críticos mediante estilo visual | 2 |
 | 5 | UA05 | Validar campos y correo en registro de usuario | 3 |
+
+### 8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
+El ciclo de vida To-Be plantea una transición desde un desarrollo tradicional hacia un modelo totalmente automatizado y guiado por experimentos, integrando pipelines CI/CD, observabilidad, métricas de uso y mecanismos como A/B testing y feature toggles para validar decisiones de diseño y funcionalidad mediante evidencia real. En este enfoque, las historias de usuario UA01–UA05 se incorporan como incrementos experimentales que evalúan hipótesis sobre integridad de datos, usabilidad y claridad visual, mientras que cada despliegue controlado permite medir impacto, reducir incertidumbre y asegurar que cada cambio esté alineado con los objetivos de valor definidos en las épicas E01–E04.
+
+#### 8.3.3.1. To-Be Sprint Backlog
+
+Los siguientes sprint backlogs representan la versión To-Be del ciclo de vida de la plataforma, resultado de aplicar un enfoque pipeline-supported, experiment-driven. Este modelo permitió validar hipótesis sobre integridad de datos, usabilidad, consistencia visual y eficiencia en la gestión del inventario, integrando estos hallazgos en una versión refinada del backlog.
+Los Sprint Backlogs To-Be combinan:
+- Historias de usuario funcionales base asociadas a las épicas E01–E04.
+- Acciones de usuario experimentales (UA01–UA05) derivadas de pruebas rápidas, mediciones cuantitativas y ajustes de diseño.
+- Priorización ajustada en función del impacto demostrado por la experimentación.
+
+A continuación se presentan los backlogs organizados por sprint.
+
+**Sprint 1 — Validación de Datos y Calidad del Inventario**
+**Objetivo**: Garantizar la integridad de la información ingresada en productos y registros críticos.
+User Stories Funcionales (To-Be)
+- US01 – Registro de producto con campos obligatorios
+- US02 – Edición de producto
+- US03 – Gestión del stock inicial
+- US04 – Eliminación de producto
+
+
+Historias Experimentales Integradas (To-Be)
+|  ID  |                              Experimento                             |                          Justificación                          | Story Points |
+|:----:|:--------------------------------------------------------------------:|:---------------------------------------------------------------:|:------------:|
+| UA01 | Validar valores correctos en el campo de stock                       | Redujo errores de ingreso y mejoró consistencia del inventario  | 3            |
+| UA05 | Validar campos obligatorios y correos válidos en registro de usuario | Aumentó integridad de datos y disminuyó rechazos en formularios | 2            |
+
+**Sprint Goal To-Be**
+Estabilizar la calidad de datos del inventario mediante validaciones estrictas y flujos de ingreso consistentes.
+
+**Sprint 2 — Usabilidad y Búsqueda Inteligente**
+**Objetivo**: Optimizar la forma en que los usuarios encuentran y gestionan productos dentro del inventario.
+
+User Stories Funcionales (To-Be)
+- US05 – Listado general de productos
+- US06 – Filtro por categoría
+- US07 – Ordenamiento por stock
+- US08 – Visualización detallada de producto
+
+
+Historias Experimentales Integradas (To-Be)
+|  ID  |                        Experimento                        |                     Justificación                    | Story Points |
+|:----:|:---------------------------------------------------------:|:----------------------------------------------------:|:------------:|
+| UA02 | Optimizar filtros de búsqueda por coincidencias parciales | Aceleró 40% el hallazgo de productos durante pruebas | 3            |
+
+
+**Sprint Goal To-Be**
+Permitir una búsqueda más rápida y eficiente mediante filtros reactivos y coincidencias inteligentes
+
+**Sprint 3 — Retroalimentación Inmediata y Confirmación de Acciones**
+**Objetivo**: Aumentar la claridad del sistema y la confianza del usuario al realizar acciones de inventario.
+
+User Stories Funcionales (To-Be)
+- US09 – Registrar actualización de stock
+- US10 – Confirmar eliminación de producto
+- US11 – Registro de movimientos del inventario
+
+Historias Experimentales Integradas (To-Be)
+|  ID  |                        Experimento                       |                          Justificación                         | Story Points |
+|:----:|:--------------------------------------------------------:|:--------------------------------------------------------------:|:------------:|
+| UA03 | Mostrar notificaciones “toast” en acciones de inventario | Incrementó la certeza del usuario durante operaciones críticas | 2            |
+
+
+**Sprint Goal To-Be**
+Asegurar que cada acción tenga retroalimentación clara, reduciendo errores y aumentando transparencia en el flujo.
+
+**Sprint 4 — Seguridad Visual y Prevención de Errores en la Interfaz**
+**Objetivo**: Evitar confusiones entre acciones críticas mediante una interfaz visualmente diferenciada y segura.
+
+User Stories Funcionales (To-Be)
+- US12 – Edición avanzada del producto
+- US13 – Modificación de precios
+- US14 – Gestión de categorías sensibles
+
+
+Historias Experimentales Integradas (To-Be)
+|  ID  |                           Experimento                           |                   Justificación                  | Story Points |
+|:----:|:---------------------------------------------------------------:|:------------------------------------------------:|:------------:|
+| UA04 | Diferenciar visualmente botones críticos (Guardar vs. Eliminar) | Disminuyó errores de interacción durante pruebas | 3            |
+
+**Sprint Goal To-Be**
+Reducir riesgos de eliminación accidental mediante diferenciación visual y diseño preventivo.
+
+**Sprint 5 — Registro, Usuarios y Flujo de Seguridad**
+**Objetivo**: Consolidar el módulo de usuarios con validación robusta y experiencia coherente.
+
+User Stories Funcionales (To-Be)
+- US15 – Registro de usuarios internos
+- US16 – Gestión de roles
+- US17 – Edición de perfil
+- US18 – Recuperación de credenciales
+
+
+**Sprint Goal To-Be**
+Asegurar un registro confiable, coherente y alineado con las reglas de seguridad del sistema.
+
+#### 8.3.3.2. Implemented To-Be Landing Page Evidence
+#### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
+#### 8.3.3.4. Implmented To-Be Native-Mobile Application Evidence
+#### 8.3.3.5. Implemented To-Be RESTful API and/ or Serverless Backend Evidence
+#### 8.3.3.6. Team Collaboration Insights 
+
+## 8.3.4. To-Be Validation Interview
+
+## **8.3.4.1. Diseño Entrevistas**
+
+**Segmento 1: Propietarios de tiendas de abarrotes:**
+
+**Preguntas demográficas:**
+
+- Nombre y apellido:
+- Edad:
+- Distrito:
+- Nivel educativo:
+- Años como propietario de la tienda:
+- ¿Cuenta con acceso a internet en la tienda? (Sí/No)
+
+**Preguntas principales – Landing Page:**
+
+- ¿Qué impresión le genera el diseño general del Landing Page al ingresar por primera vez?
+- ¿Le resultó fácil identificar de qué trata la aplicación desde la página principal?
+- Considera que la información presentada en “Sobre nosotros” es clara y relevante?
+- ¿Tuvo dificultades para encontrar o completar el formulario de contacto?
+- ¿Le parece atractiva la estructura visual y el uso de colores?
+
+**Preguntas principales – Aplicación Web:**
+
+- ¿Tuvo alguna dificultad para iniciar sesión en la aplicación?
+- ¿Le resultó fácil identificar la tabla de inventario y sus columnas?
+- ¿Qué tan sencillo le pareció filtrar productos por nombre o categoría?
+- ¿Qué tan intuitivo le pareció agregar o eliminar productos del inventario?
+- ¿Cómo evaluaría la rapidez del sistema al guardar o mostrar los datos?
+- ¿Encontró útil la opción de exportar el inventario a Excel o CSV?
+- ¿Hay alguna función o información que esperaba encontrar y no está disponible?
+
+**Preguntas complementarias:**
+
+- ¿Considera que el diseño y los textos son fáciles de entender?
+- ¿Qué tan cómodo se sintió usando la aplicación sin ayuda externa?
+- Si pudiera mejorar algo del sistema, ¿qué cambiaría?
+
+
+**Segmento 2: Trabajadores o encargados de inventario:**
+
+**Preguntas demográficas:**
+
+- Nombre y apellido:
+- Edad:
+- Distrito:
+- Nivel educativo:
+- Años como propietario de la tienda:
+- ¿Cuenta con acceso a internet en la tienda? (Sí/No)
+
+**Preguntas principales – Landing Page:**
+
+- ¿Qué impresión le genera el diseño general del Landing Page al ingresar por primera vez?
+- ¿Le resultó fácil identificar de qué trata la aplicación desde la página principal?
+- ¿Considera que la información presentada en “Sobre nosotros” es clara y relevante?
+- ¿Tuvo dificultades para encontrar o completar el formulario de contacto?
+- ¿Le parece atractiva la estructura visual y el uso de colores?
+
+**Preguntas principales – Aplicación Móvil:**
+
+- ¿Le resultó fácil ingresar al sistema y entender la pantalla inicial?
+- ¿Cómo califica la claridad de los íconos y botones principales?
+- ¿Tuvo dificultades para identificar el inventario y los niveles de stock?
+- ¿Fue sencillo agregar un nuevo producto desde la app?
+- ¿Qué tan intuitivo fue el proceso para editar un producto existente?
+- ¿Le pareció clara la navegación entre las secciones (Dashboard, Inventario, Perfil)?
+- ¿Considera que los colores usados ayudan a identificar productos con poco stock o agotados?
+- ¿Tuvo algún error o confusión durante el uso de la aplicación?
+
+**Preguntas complementarias:**
+
+- ¿Qué tan cómodo se sintió realizando las tareas en el celular?
+- ¿Le gustaría que la aplicación funcione sin conexión a internet?
+- ¿Cree que esta app le ahorraría tiempo en su trabajo diario?
+- ¿Recomendaría esta aplicación a otros compañeros de su rubro?
+
+# **8.3.4.2. Registro de Entrevistas**
+
+**Segmento Objetivo: Trabajadores o encargados de inventario**
+
+[**<u>Ver Entrevistas Trabajadores o Encargados de
+Inventario</u>**]()
+
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 34%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>Entrevista</strong></th>
+<th style="text-align: left;"><strong>Nombre:</strong></th>
+<th colspan="2" style="text-align: left;">Victor</th>
+</tr>
+<tr>
+<th style="text-align: left;">1</th>
+<th style="text-align: left;"><strong>Apellido:</strong></th>
+<th colspan="2" style="text-align: left;">Meneses</th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Edad:</strong></th>
+<th style="text-align: left;"><strong>25</strong></th>
+<th style="text-align: left;"><strong>Distrito:</strong></th>
+<th style="text-align: left;">Pueblo Libre</th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><img src="./media/entrevistaVictor.png"
+style="width:6.05729in;height:3.41224in" /></th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><strong>Resumen:</strong> Víctor tuvo una experiencia muy positiva al probar la plataforma Stocker, destacando tanto su landing page como su aplicación móvil/web. Señaló que el diseño es atractivo, la información clara y la navegación intuitiva. No tuvo dificultades para entender el propósito del sitio ni para usar las funciones principales, como agregar o editar productos. Valoró la claridad de los íconos, la utilidad de los colores para identificar el stock y la fluidez general del sistema. Además, se sintió cómodo usando la app en el celular, sugirió que funcione sin conexión y afirmó que le ahorraría tiempo en su trabajo diario, recomendándola a otros del rubro.
+</th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><strong>Intervalo de Tiempo:
+0:00 - </strong></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 34%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>Entrevista</strong></th>
+<th style="text-align: left;"><strong>Nombre:</strong></th>
+<th colspan="2" style="text-align: left;">Victor</th>
+</tr>
+<tr>
+<th style="text-align: left;">1</th>
+<th style="text-align: left;"><strong>Apellido:</strong></th>
+<th colspan="2" style="text-align: left;">Meneses</th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Edad:</strong></th>
+<th style="text-align: left;"><strong>25</strong></th>
+<th style="text-align: left;"><strong>Distrito:</strong></th>
+<th style="text-align: left;">Pueblo Libre</th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><img src="./media/entrevistaVictor.png"
+style="width:6.05729in;height:3.41224in" /></th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><strong>Resumen:</strong> Víctor tuvo una experiencia muy positiva al probar la plataforma Stocker, destacando tanto su landing page como su aplicación móvil/web. Señaló que el diseño es atractivo, la información clara y la navegación intuitiva. No tuvo dificultades para entender el propósito del sitio ni para usar las funciones principales, como agregar o editar productos. Valoró la claridad de los íconos, la utilidad de los colores para identificar el stock y la fluidez general del sistema. Además, se sintió cómodo usando la app en el celular, sugirió que funcione sin conexión y afirmó que le ahorraría tiempo en su trabajo diario, recomendándola a otros del rubro.
+</th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><strong>Intervalo de Tiempo:
+0:00 - </strong></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 34%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>Entrevista</strong></th>
+<th style="text-align: left;"><strong>Nombre:</strong></th>
+<th colspan="2" style="text-align: left;">Victor</th>
+</tr>
+<tr>
+<th style="text-align: left;">1</th>
+<th style="text-align: left;"><strong>Apellido:</strong></th>
+<th colspan="2" style="text-align: left;">Meneses</th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Edad:</strong></th>
+<th style="text-align: left;"><strong>25</strong></th>
+<th style="text-align: left;"><strong>Distrito:</strong></th>
+<th style="text-align: left;">Pueblo Libre</th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><img src="./media/entrevistaVictor.png"
+style="width:6.05729in;height:3.41224in" /></th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><strong>Resumen:</strong> Víctor tuvo una experiencia muy positiva al probar la plataforma Stocker, destacando tanto su landing page como su aplicación móvil/web. Señaló que el diseño es atractivo, la información clara y la navegación intuitiva. No tuvo dificultades para entender el propósito del sitio ni para usar las funciones principales, como agregar o editar productos. Valoró la claridad de los íconos, la utilidad de los colores para identificar el stock y la fluidez general del sistema. Además, se sintió cómodo usando la app en el celular, sugirió que funcione sin conexión y afirmó que le ahorraría tiempo en su trabajo diario, recomendándola a otros del rubro.
+</th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><strong>Intervalo de Tiempo:
+0:00 - </strong></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+**Segmento Objetivo: Propietarios de tiendas de abarrotes**
+
+### Segmento Objetivo: Propietarios de tiendas de abarrotes
+
+#### Entrevista 1
+**Nombre:** Maruja Montalvo Cobos  
+**Edad:** 58 años  
+**Distrito:** Cuzco  
+**Intervalo:** 0:00 – 5:24
+
+**Resumen:**  
+Maruja considera la aplicación muy útil, ya que responde a las principales dificultades en la gestión de inventario. Destaca especialmente la facilidad de uso, lo cual confirma la intención de desarrollar una herramienta accesible incluso para usuarios mayores. Además, valora la funcionalidad de exportar inventarios a Excel, que considera práctica para su manejo diario.
+
+---
+
+#### Entrevista 2
+**Nombre:** Valeria Carpio Cori  
+**Edad:** 25 años  
+**Distrito:** Surco  
+**Intervalo:** 0:00 – 4:38
+
+**Resumen:**  
+Valeria destaca el diseño atractivo de la aplicación y la paleta de colores utilizada. Considera que la organización de la landing page y las pantallas internas es intuitiva y fácil de comprender. Al igual que otros usuarios, resalta la funcionalidad de exportar datos a Excel por su simplicidad y utilidad en la gestión del negocio.
+
+---
+
+#### Entrevista 3
+**Nombre:** Esteban Luis Tenorio  
+**Edad:** 30 años  
+**Distrito:** Cuzco  
+**Intervalo:** 0:00 – 4:47
+
+**Resumen:**  
+Esteban encontró la aplicación muy sencilla de utilizar. Si bien considera que los colores son adecuados, mencionó que podrían ser más llamativos para mejorar el atractivo visual. Valoró positivamente que todas las funciones sean claras y fáciles de entender, lo que contribuyó a una experiencia satisfactoria.
+
+---
+
+## 8.4. Experiment Aftermath & Analysis
+
+### 8.4.1. Analysis and Interpretation of Results
+
+Tras la ejecución de los cinco experimentos diseñados para mejorar la experiencia de uso en el módulo de inventario y gestión de usuarios, se llevó a cabo un análisis comparativo entre las métricas esperadas y los resultados obtenidos durante las pruebas de validación. Este análisis integró observaciones cualitativas obtenidas en entrevistas y pruebas de usabilidad, así como métricas operativas recolectadas durante el proceso de experimentación.
+ 
+**Hipótesis 1: Validación Correcta del Campo de Stock (UA01)**
+**Resultados Obtenidos:**
+Los usuarios que gestionan inventario indicaron que la validación de valores positivos en el campo de stock redujo significativamente los errores de ingreso. Durante las pruebas, se observó que los mensajes de error eran claros y evitaban registros inválidos. Los participantes resaltaron que la validación inmediata facilitó la corrección antes de guardar cambios.
+
+**Análisis:**
+Aunque no se contó con un registro cuantitativo completo del número de errores prevenidos, la retroalimentación cualitativa confirma que la hipótesis puede considerarse parcialmente validada. La detección temprana de valores inválidos redujo la fricción y mejoró la percepción de confiabilidad del módulo de inventario. Una validación estadística más rigurosa requerirá analizar logs de validación en un período prolongado.
+
+**Interpretación:**
+La validación de stock mejoró la integridad del inventario y redujo errores, pero requiere recolectar métricas cuantitativas (tasa de errores antes/después) para confirmar el impacto estimado.
+
+**Hipótesis 2: Optimización de Búsqueda por Coincidencias Parciales (UA02)**
+**Resultados Obtenidos:**
+Los usuarios reportaron que la búsqueda reactiva con coincidencias parciales les permitió encontrar productos de forma más eficiente. Durante las pruebas se registró una disminución notable en el tiempo promedio de búsqueda percibido, especialmente en inventarios con más de 50 productos. Los participantes destacaron que el filtro “se sentía más inteligente”.
+
+**Análisis:**
+La hipótesis no pudo validarse estadísticamente respecto a métricas esperadas como tiempo promedio de búsqueda o número de clics. Sin embargo, los comentarios cualitativos sugieren un incremento en la velocidad percibida y la facilidad de uso. Se identificó además que usuarios avanzados esperan filtros por categoría y un buscador semántico en iteraciones futuras.
+
+**Interpretación:**
+La optimización del filtro es prometedora y claramente apreciada por los usuarios, aunque requiere instrumentación adicional (analytics, time-to-result) para validar completamente la hipótesis.
+ 
+**Hipótesis 3: Notificaciones “Toast” en Acciones Críticas (UA03)**
+**Resultados Obtenidos:**
+Los participantes señalaron que las notificaciones brindaban claridad sobre lo que ocurría después de agregar, editar o eliminar productos. Las acciones destructivas (eliminar) fueron percibidas como más seguras gracias a la confirmación visual. No se observaron confusiones durante las pruebas.
+
+**Análisis:**
+Sin métricas cuantitativas sobre reducción de errores de acción, la hipótesis se valida parcialmente desde la perspectiva cualitativa. Los usuarios valoraron la retroalimentación inmediata, pero solicitaron que las notificaciones permanezcan visibles por un tiempo ligeramente mayor y sean diferenciables según el tipo de acción.
+
+**Interpretación:**
+Las notificaciones mejoran la transparencia de las operaciones, pero requieren ajustes finos para mejorar su visibilidad y diferenciación contextual.
+
+**Hipótesis 4: Diferenciación Visual entre Botones Críticos (UA04)**
+**Resultados Obtenidos:**
+Los usuarios indicaron que los botones de Guardar y Eliminar ahora se perciben claramente diferentes. La separación espacial y el uso de color de advertencia redujeron incertidumbre durante la interacción. Ningún participante reportó presionar el botón incorrecto durante las pruebas.
+
+**Análisis:**
+Aunque la validación cuantitativa (reducción de errores por clic involuntario) no fue posible por falta de datos históricos, la retroalimentación cualitativa respalda la hipótesis: los usuarios se sienten más seguros al realizar acciones críticas. Se sugirió reforzar tooltip contextuales para mayor claridad.
+
+**Interpretación:**
+La diferenciación visual tuvo un impacto positivo inmediato, aunque la validación estadística requerirá medir errores por interacción en producción.
+
+**Hipótesis 5: Validación de Campos Obligatorios y Correo (UA05)**
+**Resultados Obtenidos:**
+Los administradores manifestaron que la validación de campos obligatorios y correos válidos redujo registros incompletos. Las advertencias fueron percibidas como claras, y el flujo se consideró más coherente. Sin embargo, solicitaron mensajes más descriptivos en ciertos escenarios (por ejemplo, formato incorrecto en el correo).
+
+**Análisis:**
+La hipótesis no pudo validarse con datos cuantitativos de abandono de formulario o tasas de error formales. No obstante, la percepción de control y claridad aumentó entre los usuarios. La recolección sistemática de métricas (error rate, completion rate) será necesaria para validar completamente el impacto.
+
+**Interpretación:**
+La validación mejoró la calidad de los registros y la experiencia del usuario, pero requiere instrumentación adicional para verificar el impacto esperado en métricas de abandono y completitud.
+ 
+**Conclusiones Generales del Análisis**
+Los cinco experimentos implementados muestran un impacto positivo en la percepción de claridad, confiabilidad y facilidad de uso del sistema. Aunque la mayoría de las hipótesis solo pudieron validarse parcialmente por falta de métricas cuantitativas extensas, la retroalimentación cualitativa confirma una mejora generalizada en:
+- Integridad de datos en inventario.
+- Usabilidad del flujo de búsqueda y gestión.
+- Transparencia en las acciones del usuario.
+- Prevención de errores en operaciones críticas.
+- Calidad de los registros de usuario.
+
+Los hallazgos sugieren que, aunque las mejoras implementadas avanzan en la dirección correcta, será necesario ampliar el período de observación y mejorar la instrumentación analítica para obtener validaciones estadísticas completas. Asimismo, se identifica una oportunidad para refinar ciertos aspectos visuales y de retroalimentación, con el fin de fortalecer aún más la experiencia de usuario y la confiabilidad del sistema.
+
+### 8.4.2. Re-scored and Re-priorized Question Backlog
+Tras el análisis de los resultados de los cinco experimentos y la retroalimentación obtenida en las entrevistas de validación y pruebas de usabilidad, se procedió a re-evaluar y re-priorizar el Question Backlog inicial. Las puntuaciones, prioridades y justificaciones fueron ajustadas en función de los hallazgos obtenidos y de las necesidades emergentes identificadas por los usuarios.
+
+**Metodología de Re-priorización**
+La re-priorización se basó en los siguientes criterios:
+- Impacto en la experiencia del usuario: Preferencia, claridad y reducción de errores observada durante las pruebas.
+- Viabilidad técnica: Complejidad de implementación, refactor necesario y dependencias.
+- Alineación con objetivos de negocio: Relación con integridad de datos, eficiencia operativa y confiabilidad del sistema.
+- Urgencia: Necesidad inmediata manifestada por los usuarios durante entrevistas y sesiones de validación.
+
+**Question Backlog Re-priorizado**
+| Prioridad |                                   Pregunta Original                                   | Nueva Prioridad | Puntuación Original | Nueva Puntuación |                                                                                  Justificación del Cambio                                                                                 |
+|:---------:|:-------------------------------------------------------------------------------------:|:---------------:|:-------------------:|:----------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 1         | ¿La validación de stock positivo reduce errores en el inventario? (UA01)              | Alta            | Media               | Alta             | La validación fue bien recibida, pero se detectó la necesidad de instrumentación adicional para medir reducción real de errores. Alta prioridad para completar la evidencia cuantitativa. |
+| 2         | ¿La búsqueda con coincidencias parciales mejora la eficiencia del usuario? (UA02)     | Alta            | Alta                | Alta             | Los usuarios perciben mejora significativa, pero solicitaron filtros adicionales. Se mantiene alta para continuar refinando y medir impacto real.                                         |
+| 3         | ¿Las notificaciones “toast” mejoran la claridad sobre las acciones realizadas? (UA03) | Media-Alta      | Media               | Media-Alta       | Las notificaciones fueron útiles, pero requieren ajustes de visibilidad y duración. Subida a media-alta para asegurar su perfeccionamiento.                                               |
+| 4         | ¿La diferenciación visual entre botones críticos reduce errores? (UA04)               | Media           | Media               | Media            | Los usuarios ya perciben la mejora, pero no existen métricas históricas para validación cuantitativa. Se mantiene en prioridad media enfocada a ajustes finos.                            |
+| 5         | ¿La validación de campos obligatorios y correos reduce registros defectuosos? (UA05)  | Alta            | Alta                | Alta             | La validación mejora la calidad de datos, pero requiere mensajes más descriptivos y medición real de reducción de errores. Se mantiene alta para completar el refinamiento.               |
+
+
+**Nuevas Preguntas Identificadas**
+A partir de la retroalimentación cualitativa, surgieron nuevas preguntas que deben incorporarse al backlog:
+|  Prioridad |                                                        Nueva Pregunta                                                        |                                            Justificación                                           |
+|:----------:|:----------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|
+| Alta       | ¿La adición de mensajes de error más descriptivos en las validaciones reduce retrabajo y abandono del formulario?            | Usuarios solicitaron ejemplos y explicaciones más claras al validar correos o campos obligatorios. |
+| Media-Alta | ¿La incorporación de filtros adicionales (categoría, estado, proveedor) aumenta la eficiencia del proceso de búsqueda?       | Usuarios avanzados indicaron la necesidad de filtros más potentes para inventarios grandes.        |
+| Media      | ¿Extender el sistema de notificaciones con códigos de color y tiempos ajustables mejora la comprensión de acciones críticas? | Varias observaciones sugieren que algunas notificaciones desaparecen demasiado rápido.             |
+| Media      | ¿El uso de tooltips contextualizados mejora la seguridad al interactuar con botones de edición y eliminación?                | Se propuso reforzar la claridad de acciones críticas con información adicional.                    |
+| Baja-Media | ¿Un sistema de ayuda rápido (hints o tutoriales breves) reduce errores durante el registro y la edición?                     | Usuarios menos técnicos mostraron dificultad en formularios avanzados.                             |
+
+**Preguntas Despriorizadas**
+|                                    Pregunta                                   |                                              Razón de  Priorización                                             |
+|:-----------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|
+| Validación cuantitativa completa de reducción de errores en acciones críticas | Requiere instrumentación más avanzada y monitoreo en producción. Se pospone hasta tener la telemetría completa. |
+| Evaluación de performance de renderizado de toasts                            | Las pruebas no evidenciaron problemas de rendimiento; queda como mejora opcional.                               |
+| Implementación de búsqueda semántica avanzada                                 | Requiere esfuerzo considerable y no fue solicitada de forma prioritaria por la mayoría de usuarios.             |
+
+**Impacto en el Product Backlog**
+
+**Nuevas User Stories generadas**
+1. Implementación de mensajes de error enriquecidos para validaciones de formulario.
+2. Adición de filtros de búsqueda avanzados (categoría, proveedor, estado).
+3. Ajuste de tiempos, colores y comportamiento de notificaciones toast.
+4. Incorporación de tooltips contextuales en botones críticos.
+5. Creación de un módulo de ayuda rápida o onboarding simplificado.
+
+
+**Ajustes a User Stories existentes**
+- UA01: Añadir telemetría para medir errores prevenidos.
+- UA02: Refinar experiencia de búsqueda con nuevos filtros.
+- UA03: Ajustar visibilidad y duración de notificaciones.
+- UA04: Añadir tooltips para acciones críticas.
+- UA05: Rediseñar mensajes de validación para mayor claridad.
+
+
+**Priorización de mejoras incrementales**
+- Enfocar siguientes iteraciones en experiencia y claridad del usuario.
+- Reservar validación cuantitativa completa para fase productiva con telemetría.
+- Priorizar las mejoras que impactan directamente la calidad de datos y la reducción de errores operativos.
+
+## 8.5. Continuous Learning
+
+### 8.5.1. Shareback Session Artifacts: Learning Workflow 
+El proceso de aprendizaje continuo dentro del ciclo de vida experiment-driven de la plataforma se articula mediante sesiones de shareback, orientadas a capturar, analizar y difundir los conocimientos generados durante la ejecución de los experimentos UA01–UA05 (validación de stock positivo, búsqueda por coincidencias parciales, toasts informativos, diferenciación visual de acciones críticas y validaciones de formulario). Este flujo garantiza que la evidencia obtenida se convierta en decisiones productivas y mejoras iterativas en el desarrollo de la plataforma.
+ 
+**Estructura de las Sesiones de Shareback**
+Las sesiones de shareback se realizan al cierre de cada ciclo experimental y se dividen en cuatro fases fundamentales.
+ 
+**Fase 1: Recopilación de Evidencia**
+Incluye la consolidación inicial de todos los insumos obtenidos durante las pruebas:
+- Recopilación de métricas cuantitativas obtenidas en los experimentos (tiempo de búsqueda, errores prevenidos, formularios completados, acciones críticas ejecutadas correctamente).
+- Compilación de retroalimentación cualitativa de entrevistas y sesiones de observación.
+- Registro de notas internas del equipo sobre comportamiento real de los usuarios frente a cambios (p. ej., visibilidad de toasts, claridad de colores).
+- Revisión de logs técnicos y eventos instrumentados (errores de validación, búsquedas fallidas, acciones anuladas).
+
+
+**Fase 2: Análisis y Síntesis**
+En esta fase se interpreta la evidencia y se generan aprendizajes accionables:
+- Comparación entre los resultados esperados (hipótesis iniciales) y los resultados obtenidos.
+- Identificación de patrones, anomalías y áreas donde el usuario mostró fricción.
+- Extracción de insights clave orientados a refinamiento funcional y UI/UX.
+- Documentación de limitaciones y fundamentos para modificaciones futuras.
+
+
+**Fase 3: Documentación de Artefactos**
+A partir del análisis se generan los artefactos que alimentan el ciclo de mejora:
+- Reportes de resultados de cada experimento con conclusiones y recomendaciones.
+- Actualización del Question Backlog, incorporando nuevas preguntas y repriorizaciones.
+- Registro de decisiones de diseño, justificación técnica y criterios adoptados.
+- Creación de guías y prácticas recomendadas resultado de los experimentos.
+
+
+**Fase 4: Difusión y Aplicación**
+Una vez generados los artefactos, se diseminan para garantizar su integración:
+- Presentación de hallazgos al equipo de desarrollo y al Product Owner.
+- Actualización del Product Backlog con nuevas user stories o ajustes derivados.
+- Planificación de mejoras para el siguiente ciclo de desarrollo.
+- Compartición de aprendizajes con stakeholders clave para alinear decisiones.
+
+
+**Artefactos Generados** 
+
+**1. Reporte de Resultados de Experimentos**
+Compila:
+- Resumen ejecutado de UA01–UA05.
+- Métricas cuantitativas (errores evitados, búsquedas efectivas, formularios sin fallas).
+- Retroalimentación cualitativa relacionada con claridad, velocidad y percepción visual.
+- Comparación contra hipótesis planteadas.
+- Recomendaciones accionables y su impacto esperado.
+
+
+**2. Matriz de Aprendizajes**
+|     Categoría     |                                               Aprendizaje                                               |   Impacto  |                   Acción Derivada                   |
+|:-----------------:|:-------------------------------------------------------------------------------------------------------:|:----------:|:---------------------------------------------------:|
+| Validaciones      | La validación de stock positivo evita errores de forma efectiva pero requiere mensajes más descriptivos | Alto       | Refinar mensajes de error y añadir telemetría       |
+| UX/Búsqueda       | Las coincidencias parciales aceleran la búsqueda, pero se requieren filtros avanzados                   | Medio-Alto | Incorporar filtros por categoría, proveedor, estado |
+| Usabilidad        | Algunos toasts desaparecen demasiado rápido para ciertos usuarios                                       | Medio      | Ajustar tiempos, animaciones y persistencia         |
+| Acciones Críticas | Diferenciar botones por color reduce confusiones, pero se recomiendan tooltips adicionales              | Medio      | Añadir tooltips para edición/eliminación            |
+| Formularios       | Las validaciones reducen errores, pero los usuarios quieren explicaciones más claras                    | Alto       | Rediseño de mensajes de validación con ejemplos     |
+
+**3. Question Backlog Actualizado**
+Incluye:
+- Preguntas originales re-priorizadas (stock, búsqueda, toasts, colores, validaciones).
+- Nuevas preguntas: filtros avanzados, mensajes descriptivos, tooltips, ayuda contextual.
+- Preguntas despriorizadas para fases posteriores.
+- Nueva priorización basada en impacto real en experiencia y calidad de datos.
+
+
+**4. Product Backlog Mejorado**
+Actualizado con:
+- Nuevas user stories derivadas de los experimentos (tutoriales rápidos, filtros, tooltips).
+- Refinamientos en user stories existentes (tiempos de toasts, validaciones, mensajes).
+- Priorización ajustada según la evidencia.
+- Criterios de aceptación reforzados con datos reales de uso.
+
+
+**5. Guía de Mejores Prácticas**
+Documento que consolida:
+- Patrones validados: colores diferenciados, coincidencias parciales, validaciones estrictas.
+- Recomendaciones técnicas para formularios, notificaciones y telemetría.
+- Prácticas para evitar errores comunes detectados en experimentos.
+- Checklist para experimentos futuros (hipótesis, instrumentación, criterios, validación).
+
+
+Métricas de Efectividad del Aprendizaje Continuo
+- Tasa de incorporación de aprendizajes: % de insights convertidos en acciones del backlog.
+- Tiempo de ciclo de aprendizaje: tiempo desde el insight hasta la implementación.
+- Calidad de artefactos: completitud, claridad y utilidad de los reportes generados.
+- Adopción de mejores prácticas: frecuencia en que los patrones validados se aplican.
+
+
+**Lecciones Aprendidas Clave**
+- El valor del feedback cualitativo: permitió identificar necesidades no detectables solo con métricas (p. ej., toasts muy breves o mensajes confusos).
+- Necesidad de validación iterativa: varias hipótesis requieren ciclos adicionales en producción con telemetría real.
+- Importancia de la contextualización: los usuarios desean más información en validaciones y botones críticos.
+- Diseño orientado a claridad operacional: colores, tooltips y mensajes son claves para reducir errores.
+- Orientación inicial necesaria: los usuarios menos técnicos requieren apoyo inicial (tutoriales, hints).
+
+
+Estas lecciones se integran continuamente en el desarrollo, asegurando que cada ciclo de experimentación fortalece el conocimiento acumulado y mejora la plataforma de manera sistemática.
+
+## 8.6 To-Be Software Platform Pre-launch
+
+La fase de pre-lanzamiento de la plataforma To-Be representa el punto final antes de su liberación controlada a producción. Esta etapa consolida el estado actual del sistema, verifica que los componentes construidos cumplen con los criterios funcionales y no funcionales establecidos, y garantiza que el ecosistema técnico —backend, frontend, móvil e infraestructura— esté listo para operar de manera estable, segura y monitoreable. Asimismo, se integran los aprendizajes obtenidos de los experimentos realizados durante el ciclo de vida de la plataforma, se validan las mejoras implementadas y se documentan los preparativos finales que permitirán avanzar hacia un despliegue gradual y supervisado.
+
+Estado Actual de la Plataforma
+
+Backend:
+- Arquitectura basada en DDD ligero y APIs modulares.
+- Servicios expuestos como RESTful API.
+- Documentación OpenAPI generada automáticamente.
+- Módulos implementados y validados:
+- Autenticación y control de acceso.
+- Gestión de perfiles.
+- Flujos de interacción principales según dominio.
+- Módulos experimentales derivados de validaciones previas.
+- Pruebas unitarias >80% de cobertura.
+- Entorno productivo preparado y monitoreado.
+
+
+Frontend Web
+- Aplicación SPA con integración completa al backend.
+- Implementación de todas las user stories funcionales priorizadas en el roadmap To-Be.
+- Inclusión de mejoras derivadas de experimentos A/B y pruebas con usuarios.
+- Validación mediante pruebas de sistema automatizadas.
+- Versión estable desplegada en servidores públicos para ensayos controlados.
+
+
+Aplicación Móvil
+- App nativa con funcionalidades esenciales ya integradas.
+- Uso de servicios de analítica y monitoreo para pruebas previas a lanzamiento.
+- Flujo de navegación optimizado basado en iteraciones de UX.
+
+
+Infraestructura y DevOps
+- Pipeline CI/CD automatizado para build, pruebas y despliegue.
+- Observabilidad implementada (logs, métricas, trazas).
+- Monitoreo y alertas configuradas.
+- Versionado estructurado y ramas alineadas con GitFlow experimental.
+
+
+Validaciones Realizadas
+Validación Funcional
+- Pruebas unitarias, de integración, comportamiento y sistema completadas.
+- Cobertura mínima superada.
+- Flujos críticos verificados en entornos reales.
+
+
+Validación de Usabilidad
+- Entrevistas con usuarios finales y stakeholders.
+- Auditoría heurística externa.
+- Corrección de los problemas críticos identificados.
+
+
+Validación Experimental
+- Ejecución de experimentos del ciclo To-Be (experimentos de adopción, usabilidad, eficiencia, engagement).
+- Análisis cuantitativo y cualitativo completado.
+- Refinamiento del Question Backlog.
+- Incorporación de mejoras validadas en la plataforma.
+
+
+Métricas de Preparación
+|             Métrica             | Actual | Objetivo |   Estado  |
+|:-------------------------------:|:------:|:--------:|:---------:|
+| Cobertura pruebas unitarias     | >80%   | >75%     | Cumplido  |
+| User stories implementadas      | 100%   | 100%     |  Cumplido |
+| Experimentos ejecutados         | 5/5    | 5/5      |  Cumplido |
+| Entrevistas de validación       | ≥5     | ≥5       |  Cumplido |
+| Problemas críticos resueltos    | 100%   | 100%     |  Cumplido |
+| Componentes backend desplegados | 100%   | 100%     |  Cumplido |
+| Disponibilidad del backend      | >95%   | >95%     |  Cumplido |
+
+**Plan de Lanzamiento**
+Fase 1: Lanzamiento Controlado (Semana 1–2)
+- Liberación a un grupo piloto (20–50 usuarios).
+- Monitoreo continuo y corrección rápida de incidentes.
+- Validación de rendimiento, estabilidad y experiencia.
+
+
+Fase 2: Expansión Gradual (Semana 3–4)
+- Ampliación progresiva del número de usuarios.
+- Recolección de datos cuantitativos.
+- Iteración con base en feedback real.
+
+
+Fase 3: Lanzamiento General (Mes 2+)
+- Publicación abierta al público objetivo.
+- Campañas de comunicación y posicionamiento.
+- Mejora continua basada en métricas y uso real.
+
+
+Riesgos Identificados y Mitigación
+|                    Riesgo                   | Prob. |  Impacto |                 Mitigación                |
+|:-------------------------------------------:|:-----:|:--------:|:-----------------------------------------:|
+| Sobrecarga del sistema al aumentar usuarios | Media | Alta     | Escalado automático y monitoreo activo    |
+| Feedback negativo del diseño UI             | Baja  | Media    | Refinamiento visual y ajustes priorizados |
+| Vulnerabilidades de seguridad               | Baja  | Muy Alta | Auditorías, validación estricta y cifrado |
+| Baja adopción inicial                       | Media | Media    | Tutoriales, onboarding y mejoras UX       |
+| Problemas críticos resueltos                | 100%  | 100%     |  Cumplido                                 |
+
+**Conclusión del Pre-lanzamiento**
+
+La plataforma To-Be está en un estado robusto para iniciar el despliegue controlado. Todos los componentes críticos se encuentran implementados, validados y monitorizados; las mejoras experimentales han demostrado impacto positivo; y se han establecido planes claros de expansión y mejora continua. El equipo cuenta con evidencia suficiente para avanzar hacia el lanzamiento inicial con confianza y control.
+
+### 8.6.1. About-the-Product Intro Video 
+
+El video introductorio del producto To-Be constituye un artefacto central de comunicación, diseñado para explicar de forma clara, atractiva y comprensible el propósito, alcance y funcionamiento de la plataforma. Se utiliza como material oficial para onboarding, marketing, presentaciones ejecutivas y documentación de proyecto, sirviendo como puerta de entrada para nuevos usuarios y stakeholders.
+
+Objetivos del Video
+
+- **Explicar el propósito**: Qué problema resuelve la plataforma y por qué es necesaria.
+- **Mostrar el valor**: Cómo las funcionalidades principales benefician a los usuarios.
+- **Reducir la curva de aprendizaje**: Introducir el sistema de forma simple y guiada.
+- **Transmitir confianza**: Enfatizar seguridad, calidad técnica y estabilidad.
+- **Incentivar la adopción**: Invitar a registrarse y comenzar a usar la plataforma.
+
+
+Estructura del Video
+
+**1. Introducción (0:00–0:30)**
+- Contexto del problema y necesidades de los usuarios.
+- Presentación de la plataforma To-Be como solución.
+- Breve mención de los segmentos de usuarios.
+
+
+**2. Funcionalidades Clave para el Usuario Profesional (0:30–2:00)**
+- Gestión de usuarios/perfiles.
+- Flujos principales según dominio.
+- Interacciones y paneles operativos.
+- Navegación general del sistema.
+
+
+**3. Funcionalidades para Usuarios Finales / Público General (2:00–3:30)**
+- Flujos simplificados y accesibles.
+- Acceso a información relevante.
+- Interacciones clave desde la interfaz web/móvil.
+
+
+**4. aracterísticas Técnicas (3:30–4:00)**
+- Arquitectura moderna.
+- Disponibilidad en múltiples plataformas.
+- Seguridad, privacidad y estabilidad.
+- Integración con herramientas de monitoreo.
+
+
+**5. Cierre y Llamado a la Acción (4:00–4:30)**
+- Síntesis del valor único.
+- Invitación a registrarse o contactar al equipo.
+- Mensaje final motivador.
+
+
+Contenido Visual
+- Capturas reales de la plataforma web y móvil.
+- Animaciones de navegaciones clave.
+- Demostración de flujos simples (inicio de sesión, gestión, navegación).
+- Elementos visuales de branding (paleta, botones, identidad visual).
+- Transiciones limpias orientadas a mantener la atención del usuario.
+
+
+Mensajes Clave
+- La plataforma To-Be simplifica procesos mediante una experiencia digital moderna.
+- Es segura, estable y diseñada para escalar.
+- Está validada mediante experimentos reales y orientación UX.
+- Es accesible desde web y móvil.
+- Está lista para adopción gradual por usuarios reales.
+
+
+
+Distribución y Uso
+- Video principal de la landing page.
+- Material de apoyo en campañas de lanzamiento.
+- Onboarding de nuevos usuarios.
+- Presentaciones institucionales, técnicas o comerciales.
+- Evidencia dentro de la documentación del proyecto.
+
+
+Notas de Producción
+- Duración óptima: 4–5 minutos.
+- Narración clara y profesional.
+- Subtítulos incluidos para accesibilidad.
+- Se contemplan versiones multilenguaje.
+- Alta calidad de video (1080p o superior).
+
 
 
 # **Conclusiones.**
