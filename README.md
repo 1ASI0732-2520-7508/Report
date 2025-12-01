@@ -6948,40 +6948,128 @@ style="width:6.05729in;height:3.41224in" /></th>
 
 **Segmento Objetivo: Propietarios de tiendas de abarrotes**
 
-### Segmento Objetivo: Propietarios de tiendas de abarrotes
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 34%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>Entrevista</strong></th>
+<th style="text-align: left;"><strong>Nombre:</strong></th>
+<th colspan="2" style="text-align: left;">Maruja</th>
+</tr>
+<tr>
+<th style="text-align: left;">1</th>
+<th style="text-align: left;"><strong>Apellido:</strong></th>
+<th colspan="2" style="text-align: left;">Montalvo Cobos</th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Edad:</strong></th>
+<th style="text-align: left;"><strong>58</strong></th>
+<th style="text-align: left;"><strong>Distrito:</strong></th>
+<th style="text-align: left;">Cuzco</th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><img src="./media/maru.jpeg"
+style="width:6.05729in;height:3.41224in" /></th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><strong>Resumen:</strong> Maruja considera la aplicación muy útil, ya que responde a las principales dificultades en la gestión de inventario. Destaca especialmente la facilidad de uso, lo cual confirma la intención de desarrollar una herramienta accesible incluso para usuarios mayores. Además, valora la funcionalidad de exportar inventarios a Excel, que considera práctica para su manejo diario.
+</th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><strong>Intervalo de Tiempo:
+0:00 – 5:24</strong></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
-#### Entrevista 1
-**Nombre:** Maruja Montalvo Cobos  
-**Edad:** 58 años  
-**Distrito:** Cuzco  
-**Intervalo:** 0:00 – 5:24
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 34%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>Entrevista</strong></th>
+<th style="text-align: left;"><strong>Nombre:</strong></th>
+<th colspan="2" style="text-align: left;">Valeria</th>
+</tr>
+<tr>
+<th style="text-align: left;">2</th>
+<th style="text-align: left;"><strong>Apellido:</strong></th>
+<th colspan="2" style="text-align: left;">Carpio Cori</th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Edad:</strong></th>
+<th style="text-align: left;"><strong>25</strong></th>
+<th style="text-align: left;"><strong>Distrito:</strong></th>
+<th style="text-align: left;">Surco</th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><img src="./media/valeria.jpeg"
+style="width:6.05729in;height:3.41224in" /></th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><strong>Resumen:</strong> Valeria destaca el diseño atractivo de la aplicación y la paleta de colores utilizada. Considera que la organización de la landing page y las pantallas internas es intuitiva y fácil de comprender. Al igual que otros usuarios, resalta la funcionalidad de exportar datos a Excel por su simplicidad y utilidad en la gestión del negocio.
+</th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><strong>Intervalo de Tiempo:
+0:00 – 4:38</strong></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
-**Resumen:**  
-Maruja considera la aplicación muy útil, ya que responde a las principales dificultades en la gestión de inventario. Destaca especialmente la facilidad de uso, lo cual confirma la intención de desarrollar una herramienta accesible incluso para usuarios mayores. Además, valora la funcionalidad de exportar inventarios a Excel, que considera práctica para su manejo diario.
-
----
-
-#### Entrevista 2
-**Nombre:** Valeria Carpio Cori  
-**Edad:** 25 años  
-**Distrito:** Surco  
-**Intervalo:** 0:00 – 4:38
-
-**Resumen:**  
-Valeria destaca el diseño atractivo de la aplicación y la paleta de colores utilizada. Considera que la organización de la landing page y las pantallas internas es intuitiva y fácil de comprender. Al igual que otros usuarios, resalta la funcionalidad de exportar datos a Excel por su simplicidad y utilidad en la gestión del negocio.
-
----
-
-#### Entrevista 3
-**Nombre:** Esteban Luis Tenorio  
-**Edad:** 30 años  
-**Distrito:** Cuzco  
-**Intervalo:** 0:00 – 4:47
-
-**Resumen:**  
-Esteban encontró la aplicación muy sencilla de utilizar. Si bien considera que los colores son adecuados, mencionó que podrían ser más llamativos para mejorar el atractivo visual. Valoró positivamente que todas las funciones sean claras y fáciles de entender, lo que contribuyó a una experiencia satisfactoria.
-
----
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 34%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>Entrevista</strong></th>
+<th style="text-align: left;"><strong>Nombre:</strong></th>
+<th colspan="2" style="text-align: left;">Esteban</th>
+</tr>
+<tr>
+<th style="text-align: left;">3</th>
+<th style="text-align: left;"><strong>Apellido:</strong></th>
+<th colspan="2" style="text-align: left;">Luis Tenorio</th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Edad:</strong></th>
+<th style="text-align: left;"><strong>30</strong></th>
+<th style="text-align: left;"><strong>Distrito:</strong></th>
+<th style="text-align: left;">Cuzco</th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><img src="./media/esteban.jpeg"
+style="width:6.05729in;height:3.41224in" /></th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><strong>Resumen:</strong> Esteban encontró la aplicación muy sencilla de utilizar. Si bien considera que los colores son adecuados, mencionó que podrían ser más llamativos para mejorar el atractivo visual. Valoró positivamente que todas las funciones sean claras y fáciles de entender, lo que contribuyó a una experiencia satisfactoria.
+</th>
+</tr>
+<tr>
+<th colspan="4" style="text-align: left;"><strong>Intervalo de Tiempo:
+0:00 – 4:47</strong></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 ## 8.4. Experiment Aftermath & Analysis
 
